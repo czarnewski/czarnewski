@@ -10,15 +10,15 @@ h3 { /* Header 3 */ font-size: 24px; color: Black; line-height: 1em}
 
 code.r{ /* Code block */ font-size: 18px; color: Black; line-height: 1em}
 
-body{ /* Normal  */ font-size: 18px; color: Black; line-height: 1em}
+body{ /* Normal  */ font-size: 18px; color: Black; line-height: 0em}
 
-td {  /* Table  */ font-size: 18px; color: Black; line-height: 1em}
+td {  /* Table  */ font-size: 18px; color: Black; line-height: 0em}
 
-p { font-size: 18px; color: Black; line-height: 1em}
+p { font-size: 18px; color: Black; line-height: 0em}
 
-div { font-size: 18px; color: Black; line-height: normal; line-height: 1em }
+div { font-size: 18px; color: Black; line-height: normal; line-height: 0em }
 
-pre { /* Code block - determines code spacing between lines */ font-size: 12px; line-height: 1em }
+pre { /* Code block - determines code spacing between lines */ font-size: 12px; line-height: 0em }
 
 .zoom:hover{
   transform: scale(1.1)
