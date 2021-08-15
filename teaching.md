@@ -8,10 +8,10 @@ Over the last 3 years, I have been involved in designing and creating material f
 
 <br/>
 
-1. Advanced Topics in Single Cell Analysis (2021)
-NBIS and SIB, Stockholm, Sweden
-https://www.sib.swiss/training/course/20210830_ASCTR
-Role: Scientific Committee, Course Leader, Lecturer |Online, 25 students
+1. `Advanced Topics in Single Cell Analysis (2021)\n
+NBIS and SIB, Stockholm, Sweden\n
+[https://www.sib.swiss/training/course/20210830_ASCTR](https://www.sib.swiss/training/course/20210830_ASCTR)\n
+Role: Scientific Committee, Course Leader, Lecturer |Online, 25 students`
 
 <br/>
 

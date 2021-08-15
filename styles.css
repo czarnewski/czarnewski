@@ -1,24 +1,24 @@
 
 
-h1.title { font-size: 40px; color: Black; line-height: 1em}
+h1.title { font-size: 40px; color: Black; }
 
-h1 { /* Header 1 */ font-size: 40px; color: Black; line-height: 1em }
+h1 { /* Header 1 */ font-size: 40px; color: Black;  }
 
-h2 { /* Header 2 */ font-size: 32px; color: Black; line-height: 1em}
+h2 { /* Header 2 */ font-size: 32px; color: Black; }
 
-h3 { /* Header 3 */ font-size: 24px; color: Black; line-height: 1em}
+h3 { /* Header 3 */ font-size: 24px; color: Black; }
 
-code.r{ /* Code block */ font-size: 18px; color: Black; line-height: 1em}
+code.r{ /* Code block */ font-size: 18px; color: Black; }
 
-body{ /* Normal  */ font-size: 18px; color: Black; line-height: 0em}
+body{ /* Normal  */ font-size: 18px; color: Black; }
 
-td {  /* Table  */ font-size: 18px; color: Black; line-height: 0em}
+td {  /* Table  */ font-size: 18px; color: Black; }
 
-p { font-size: 18px; color: Black; line-height: 0em}
+p { font-size: 18px; color: Black; }
 
-div { font-size: 18px; color: Black; line-height: normal; line-height: 0em }
+div { font-size: 18px; color: Black; line-height: normal;  }
 
-pre { /* Code block - determines code spacing between lines */ font-size: 12px; line-height: 0em }
+pre { /* Code block - determines code spacing between lines */ font-size: 12px; }
 
 .zoom:hover{
   transform: scale(1.1)
