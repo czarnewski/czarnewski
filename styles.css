@@ -16,6 +16,8 @@ td {  /* Table  */ font-size: 12px; color: Black;}
 
 p { font-size: 12px; color: Black;}
 
+div { font-size: 12px; color: Black; }
+
 pre { /* Code block - determines code spacing between lines */ font-size: 12px; }
 
 .zoom:hover{
