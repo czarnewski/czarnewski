@@ -41,12 +41,6 @@
           <a href="/czarnewski/education.html">Eduaction&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="20" height="20"></a>
           <br/>
           <br/>
-          <hr>
-          {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub&nbsp;&nbsp;<img border="0" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20">{{ github_name }}</a></p>
-          {% endif %}
-          <p><small>Theme: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-          <br/>
         </header>
       </div>
 
@@ -56,13 +50,16 @@
           <div>
             {{ content }}
           </div>
-          <footer>
-            <a href="/czarnewski/index.html">
-            <button class="button zoom">⬅︎ &nbsp; Back to main</button>
-            </a>
-          </footer>
+
         </section>
       </div>
+      <footer>
+        <hr>
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub&nbsp;&nbsp;<img border="0" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20">{{ github_name }}</a></p>
+        {% endif %}
+        <p><small>Theme: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
 
   </div>
   <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
