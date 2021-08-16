@@ -10,32 +10,37 @@ Over the last 3 years, I have been involved in designing and creating material f
 
 ### 2021
 
-**Advanced Topics in Single Cell Analysis** (5 days, 40h)  
-NBIS and SIB, Stockholm, Sweden  
-[https://www.sib.swiss/training/course/20210830_ASCTR](https://www.sib.swiss/training/course/20210830_ASCTR)  
-Role: *Scientific Committee, Course Leader, Lecturer* |Online, 32 students
 
-**Single-cell RNA-seq data analysis** (5 days, 40h)  
+[**Advanced Topics in Single Cell Analysis**](https://www.sib.swiss/training/course/20210830_ASCTR)  
+Online, 32 students, 5 days, 40h  
+NBIS and SIB, Stockholm, Sweden  
+Role: *Scientific Committee, Course Leader, Lecturer*
+
+[**Single-cell RNA-seq data analysis**](https://nbisweden.github.io/workshop-scRNAseq/)  
+Online, 25 students, 5 days, 40h  
 NBIS, Stockholm, Sweden   
-[https://nbisweden.github.io/workshop-scRNAseq/](https://nbisweden.github.io/workshop-scRNAseq/)  
 Role: *Course Leader, Lecturer* | Online, 25 students
+
+<br/>
 
 ### 2020
 
-**RNA-seq data analysis** (2020, 5 days, 40h)   
+**RNA-seq data analysis**   
+Online, 25 students, 5 days, 40h   
 NBIS, Stockholm, Sweden  
 [https://nbisweden.github.io/workshop-RNAseq/2011/](https://nbisweden.github.io/workshop-RNAseq/2011/)  
-Role: *Course Leader, Lecturer* | Online, 25 students
+Role: *Course Leader, Lecturer*
 
-**RNA Summer School (single-cell)** (2020, 5 days, 40h)  
+**RNA Summer School (single-cell)**  
+Presential and Online, 32 students, 5 days, 40h  
 SIB, Schwarzenberg, Switzerland  
 [https://sib-swiss.github.io/SchoolRNA2020/](https://sib-swiss.github.io/SchoolRNA2020/)  
-Role: *Course Leader, Lecturer* | Presential and Online, 32 students
+Role: *Course Leader, Lecturer*
 
 **Single-cell RNA-seq data analysis** (2020, 4 days, 32h)  
-NBIS, Stockholm, Sweden  
+NBIS, Stockholm, Sweden | Presential, 24 students  
 [https://nbisweden.github.io/workshop-scRNAseq/](https://nbisweden.github.io/workshop-scRNAseq/)  
-Role: *Course Leader, Lecturer* | Presential, 24 students
+Role: *Course Leader, Lecturer*
 
 <br/>
 
