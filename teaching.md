@@ -8,61 +8,53 @@ Over the last 3 years, I have been involved in designing and creating material f
 
 <br/>
 
-1. **Advanced Topics in Single Cell Analysis** (2021)  
+### 2021
+
+**Advanced Topics in Single Cell Analysis** (5 days, 40h)  
 NBIS and SIB, Stockholm, Sweden  
 [https://www.sib.swiss/training/course/20210830_ASCTR](https://www.sib.swiss/training/course/20210830_ASCTR)  
-Role: Scientific Committee, Course Leader, Lecturer |Online, 25 students
+Role: *Scientific Committee, Course Leader, Lecturer* |Online, 32 students
 
-<br/>
-
-2. **Single-cell RNA-seq data analysis** (2020, 5 days, 40h)  
+**Single-cell RNA-seq data analysis** (5 days, 40h)  
 NBIS, Stockholm, Sweden   
 [https://nbisweden.github.io/workshop-scRNAseq/](https://nbisweden.github.io/workshop-scRNAseq/)  
-Role: Course Leader, Lecturer | Online, 25 students
+Role: *Course Leader, Lecturer* | Online, 25 students
 
-<br/>
+### 2020
 
-3. **RNA-seq data analysis** (2020, 5 days, 40h)   
+**RNA-seq data analysis** (2020, 5 days, 40h)   
 NBIS, Stockholm, Sweden  
 [https://nbisweden.github.io/workshop-RNAseq/2011/](https://nbisweden.github.io/workshop-RNAseq/2011/)  
-Role: Course Leader, Lecturer | Online, 25 students
+Role: *Course Leader, Lecturer* | Online, 25 students
 
-<br/>
-
-4. **RNA Summer School (single-cell)** (2020, 5 days, 40h)  
+**RNA Summer School (single-cell)** (2020, 5 days, 40h)  
 SIB, Schwarzenberg, Switzerland  
 [https://sib-swiss.github.io/SchoolRNA2020/](https://sib-swiss.github.io/SchoolRNA2020/)  
-Role: Course Leader, Lecturer | Presential and Online, 32 students
+Role: *Course Leader, Lecturer* | Presential and Online, 32 students
 
-<br/>
-
-5. **Single-cell RNA-seq data analysis** (2020, 4 days, 32h)  
+**Single-cell RNA-seq data analysis** (2020, 4 days, 32h)  
 NBIS, Stockholm, Sweden  
 [https://nbisweden.github.io/workshop-scRNAseq/](https://nbisweden.github.io/workshop-scRNAseq/)  
-Role: Course Leader, Lecturer | Presential, 24 students
+Role: *Course Leader, Lecturer* | Presential, 24 students
 
 <br/>
 
-6. **NBIS-SIB Single Cell School** (2019, 5 days, 40h)  
+### 2019
+
+**NBIS-SIB Single Cell School** (5 days, 40h)  
 NBIS and SIB, Leysin, Switzerland  
 [https://nbisweden.github.io/single-cell_sib_scilifelab/](https://nbisweden.github.io/single-cell_sib_scilifelab/)  
-Role: Lecturer | Presential, 30 students
+Role: *Lecturer* | Presential, 30 students
 
-<br/>
-
-7. **ELIXIR single-cell RNA-seq data analysis with R** (2019, 4 days, 32h)  
+**ELIXIR single-cell RNA-seq data analysis with R** (4 days, 32h)  
 CSC, Helsinki, Finland  
 [https://www.csc.fi/fi/web/training/-/scrnaseq](https://www.csc.fi/fi/web/training/-/scrnaseq)  
-Role: Lecturer | Presential, 32 students
+Role: *Lecturer* | Presential, 32 students
 
-<br/>
-
-8. **RNA-seq data analysis** (2019, 4 days, 32h)  
+**RNA-seq data analysis** (4 days, 32h)  
 NBIS, Uppsala, Sweden  
 [https://nbisweden.github.io/workshop-RNAseq/](https://nbisweden.github.io/workshop-RNAseq/)  
-Role: Course Leader, Lecturer | Presential, 20 students
-
-<br/>
+Role: *Course Leader, Lecturer* | Presential, 20 students
 
 <a href="/czarnewski/index.html">
 <button class="button zoom">⬅︎ &nbsp; Back to main</button>
