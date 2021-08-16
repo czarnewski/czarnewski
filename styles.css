@@ -10,15 +10,15 @@ h3 { /* Header 3 */ font-size: 18px; color: Black; }
 
 code.r{ /* Code block */ font-size: 14px; color: Black; }
 
-body{ /* Normal  */ font-size: 12px; color: Black; }
+body{ /* Normal  */ font-size: 14px; color: Black; }
 
-td {  /* Table  */ font-size: 12px; color: Black; }
+td {  /* Table  */ font-size: 14px; color: Black; }
 
-p { font-size: 12px; color: Black; }
+p { font-size: 14px; color: Black; }
 
-div { font-size: 12px; color: Black; line-height: normal;  }
+div { font-size: 14px; color: Black; line-height: normal;  }
 
-pre { /* Code block - determines code spacing between lines */ font-size: 12px; }
+pre { /* Code block - determines code spacing between lines */ font-size: 14px; }
 
 .zoom:hover{
   transform: scale(1.1)
