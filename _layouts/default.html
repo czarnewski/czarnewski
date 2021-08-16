@@ -7,96 +7,64 @@
 
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-
   <title>Czarnewski</title>
-  <!--
-  <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
--->
 <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 <link rel="stylesheet" href="styles.css">
-
 <meta name="viewport" content="width=device-width">
-<!--[if lt IE 9]>
-<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
 
 </head>
 <body>
-
-  <style> .wrapper{ width: 1100px; padding: 0 20px} </style>
+  <style> .wrapper{ width: 1100px; padding: 20px} </style>
   <div class="wrapper">
-    <div style="width: 200px; padding: 0 20px; float: left;">
-      <style> header{ width: 100%; text-align: right;} </style>
+    
+    <div style="width: 200px; float: left;">
+      <style> header{ width: 200px; padding: 20px; text-align: right;} </style>
       <header>
-
         <br/>
         <a href="https://czarnewski.github.io/czarnewski/">
           <div class="zoom">
             <img style="border-radius: 50%;" src="/czarnewski/logos/profile_picture.jpg" width="200", height="200">
             <br/>
             <h1 style="text-align:center">Paulo Czarnewski</h1>
-          </a>
-        </div>
+          </div>
+        </a>
         <br/>
-
-        <!--
+        <a href="/czarnewski/publications.html">Publications&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/1143700-200.png" width="20" height="20"></a>
         <br/>
         <br/>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXrM7nmHWY7IctvH_9tb8YpqNbbSjaFxHkyMmZFaYkehgGER8X" height="40">
-      -->
-
-      <a href="/czarnewski/publications.html">Publications&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/1143700-200.png" width="20" height="20"></a>
-      <br/>
-      <br/>
-      <a href="/czarnewski/teaching.html">Teaching&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="20" height="20"></a>
-      <br/>
-      <br/>
-      <a href="/czarnewski/career.html">Career&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="20" height="20"></a>
-      <br/>
-      <br/>
-      <a href="/czarnewski/employments.html">Employments&nbsp;&nbsp;<img border="0" src="https://i.pinimg.com/originals/b4/8d/d8/b48dd8ff9da1136d1caac40b2632fae9.png" width="20" height="20"></a>
-      <br/>
-      <br/>
-      <a href="/czarnewski/education.html">Eduaction&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="20" height="20"></a>
-      <br/>
-
-
-      <!--
-      <br>
-      <a href="/single-cell_sib_scilifelab_2021/session-dimensionality-reduction/lecture_dimensionality_reduction.pdf">Dim_red</a>
-      <br>
-      <a href="/single-cell_sib_scilifelab_2021/session-dimensionality-reduction/seurat/seurat_02_dim_reduction_compiled.html">QC_seurat</a>
-      <br>
-      <a href="/single-cell_sib_scilifelab_2021/session-dimensionality-reduction/scater/scater_02_dim_reduction_compiled.html">QC_scater</a>
-      <br>
-    -->
-    <br/>
-    <hr>
-    {% if site.github.is_project_page %}
-    <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub&nbsp;&nbsp;<img border="0" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20">{{ github_name }}</a></p>
-    {% endif %}
-
-    <p><small>Theme: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-    <br/>
-  </header>
-</div>
-
-<div style="min-width:250px; max-width:900px; float: left;">
-  <style> section{ padding: 0 20px; width: 100%} </style>
-  <section>
-    <div>
-
-      {{ content }}
-
+        <a href="/czarnewski/teaching.html">Teaching&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="20" height="20"></a>
+        <br/>
+        <br/>
+        <a href="/czarnewski/career.html">Career&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="20" height="20"></a>
+        <br/>
+        <br/>
+        <a href="/czarnewski/employments.html">Employments&nbsp;&nbsp;<img border="0" src="https://i.pinimg.com/originals/b4/8d/d8/b48dd8ff9da1136d1caac40b2632fae9.png" width="20" height="20"></a>
+        <br/>
+        <br/>
+        <a href="/czarnewski/education.html">Eduaction&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="20" height="20"></a>
+        <br/>
+        <br/>
+        <hr>
+        {% if site.github.is_project_page %}
+        <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub&nbsp;&nbsp;<img border="0" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20">{{ github_name }}</a></p>
+        {% endif %}
+        <p><small>Theme: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <br/>
+      </header>
     </div>
-  </section>
-</div>
 
-<footer>
+    <div style="min-width:250px; max-width:900px; float: left;">
+      <style> section{ padding: 20px;} </style>
+      <section>
+        <div>
+          {{ content }}
+        </div>
+      </section>
+    </div>
 
-</footer>
-</div>
-<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <footer>
+    </footer>
+  </div>
+  <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 </body>
 </html>
