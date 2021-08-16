@@ -1,4 +1,4 @@
-# <img border="0" src="/czarnewski/logos/employments.png" width="40" height="40" style="vertical-align:middle;"> Career
+# <img border="0" src="/czarnewski/logos/career.png" width="40" height="40" style="vertical-align:middle;"> Career
 
 ***
 
