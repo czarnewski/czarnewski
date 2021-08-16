@@ -14,49 +14,50 @@
   <style> .wrapper{ width: 1100px; height: 800px} </style>
   <div class="wrapper">
 
-      <style> header{ width: 200px; padding: 20px; text-align: right;} </style>
-      <header>
-        <br/>
-        <a href="https://czarnewski.github.io/czarnewski/">
-          <div class="zoom">
-            <img style="border-radius: 50%;" src="/czarnewski/logos/profile_picture.jpg" width="200", height="200">
-            <br/>
-            <h1 style="text-align:center">Paulo Czarnewski</h1>
+      <div style="width: 200px; padding: 0px; float: left; height:100%;">
+        <style> header{ width: 200px; padding: 20px; text-align: right;} </style>
+        <header>
+          <br/>
+          <a href="https://czarnewski.github.io/czarnewski/">
+            <div class="zoom">
+              <img style="border-radius: 50%;" src="/czarnewski/logos/profile_picture.jpg" width="200", height="200">
+              <br/>
+              <h1 style="text-align:center">Paulo Czarnewski</h1>
+            </div>
+          </a>
+          <br/>
+          <a href="/czarnewski/publications.html">Publications&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/1143700-200.png" width="20" height="20"></a>
+          <br/>
+          <br/>
+          <a href="/czarnewski/teaching.html">Teaching&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="20" height="20"></a>
+          <br/>
+          <br/>
+          <a href="/czarnewski/career.html">Career&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="20" height="20"></a>
+          <br/>
+          <br/>
+          <a href="/czarnewski/employments.html">Employments&nbsp;&nbsp;<img border="0" src="https://i.pinimg.com/originals/b4/8d/d8/b48dd8ff9da1136d1caac40b2632fae9.png" width="20" height="20"></a>
+          <br/>
+          <br/>
+          <a href="/czarnewski/education.html">Eduaction&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="20" height="20"></a>
+          <br/>
+          <br/>
+          <hr>
+          {% if site.github.is_project_page %}
+          <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub&nbsp;&nbsp;<img border="0" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20">{{ github_name }}</a></p>
+          {% endif %}
+          <p><small>Theme: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+          <br/>
+        </header>
+      </div>
+
+      <div style="width: calc(100% - 240px); padding: 0px; float: left; height:100%;">
+        <style> section{ width: 100%;} </style>
+        <section>
+          <div>
+            {{ content }}
           </div>
-        </a>
-        <br/>
-        <a href="/czarnewski/publications.html">Publications&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/1143700-200.png" width="20" height="20"></a>
-        <br/>
-        <br/>
-        <a href="/czarnewski/teaching.html">Teaching&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="20" height="20"></a>
-        <br/>
-        <br/>
-        <a href="/czarnewski/career.html">Career&nbsp;&nbsp;<img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="20" height="20"></a>
-        <br/>
-        <br/>
-        <a href="/czarnewski/employments.html">Employments&nbsp;&nbsp;<img border="0" src="https://i.pinimg.com/originals/b4/8d/d8/b48dd8ff9da1136d1caac40b2632fae9.png" width="20" height="20"></a>
-        <br/>
-        <br/>
-        <a href="/czarnewski/education.html">Eduaction&nbsp;&nbsp;<img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="20" height="20"></a>
-        <br/>
-        <br/>
-        <hr>
-        {% if site.github.is_project_page %}
-        <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub&nbsp;&nbsp;<img border="0" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20">{{ github_name }}</a></p>
-        {% endif %}
-        <p><small>Theme: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        <br/>
-      </header>
-
-    <!-- <div style="width: 200px; padding: 20px; float: left; height:100%;"></div> -->
-
-      <style> section{ padding: 20px 20px 20px 240px; width: 100%;} </style>
-      <section>
-        <div>
-          {{ content }}
-        </div>
-      </section>
-
+        </section>
+      </div>
     <footer>
     </footer>
   </div>
