@@ -186,3 +186,11 @@ response, but not correlated with decidual inducible nitric oxide synthase
 expression.  
 *Int J Parasitol*. 2012 Apr;42(4):341-52. doi:
 10.1016/j.ijpara.2012.01.006. Epub 2012 Feb 17. PMID: 22366549.
+
+<br/>
+
+<a href="/czarnewski/education.html">
+<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+</a>
+
+<br/>

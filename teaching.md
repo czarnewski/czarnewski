@@ -63,3 +63,9 @@ NBIS, Uppsala, Sweden
 Role: Course Leader, Lecturer | Presential, 20 students
 
 <br/>
+
+<a href="/czarnewski/education.html">
+<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+</a>
+
+<br/>

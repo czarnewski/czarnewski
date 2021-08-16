@@ -23,3 +23,16 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 .zoom:hover{
   transform: scale(1.1)
 }
+
+.button {
+  background-color: #666666;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 4px;
+  cursor: pointer;
+}

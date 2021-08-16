@@ -29,3 +29,9 @@ Zentrum für Innere Medizin, Universitätsklinikum Hamburg-Eppendorf, Hamburg, G
 *UniversitätsKlinikum Hamburg-Eppendorf (UKE) is one of the largest hospitals in Germany and the home of several innovative research and focus on bringing research to an applied clinical setting. As part of a temporary international collaboration between Karolinska Institutet (KI, Sweden) and UKE, I worked as a bioinformatician on single-cell RNA-seq data analysis to understand the role of Tr1 cells as therapeutic targets for inflammatory bowel diseases (IBD).*
 
 <br/>
+
+<a href="/czarnewski/education.html">
+<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+</a>
+
+<br/>
