@@ -50,7 +50,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   background-color: #F2F2F2;
 }
 
-.topmenu button.active {
+.active {
   background-color: White;
   color: Black;
 }
