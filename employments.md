@@ -6,7 +6,7 @@
 
 <!-- <img border="0" src="logos/logo_hdca.png" height="40px">
 <img border="0" src="logos/logo_scilifelab.png" height="40px"> -->
-<img border="0" src="logos/logo_kth.png" width="60px" height="70px" style="text-align: right">
+<p style="text-align: right"><img border="0" src="logos/logo_kth.png" width="60px" height="70px"></p>
 
 **Scientific Coordinator** for the Human Developmental Cell Atlas (HDCA)
 01/02/2021 – current  
@@ -19,7 +19,7 @@ Department of Gene Technology, Royal Institute of Technology (KTH), Stockholm, S
 
 <!-- <img border="0" src="logos/logo_nbis.png" height="40px">
 <img border="0" src="logos/logo_scilifelab.png" height="40px"> -->
-<img border="0" src="logos/logo_su.png" width="60px" height="60px" style="text-align: right">
+<p style="text-align: right"><img border="0" src="logos/logo_su.png" width="60px" height="60px"></p>
 
 **Senior Bioinformatician** – single-cell omics  
 01/09/2018 – current  
@@ -31,7 +31,7 @@ Department of Biochemistry and Biophysics (DBB), Stockholm University, Stockholm
 
 ***
 
-<img border="0" src="logos/logo_ki.jpg" width="60px" height="60px" style="text-align: right">
+<p style="text-align: right"><img border="0" src="logos/logo_ki.jpg" width="60px" height="60px"></p>
 
 **Postdoctoral researcher** – bioinformatician / computational biologist  
 01/04/2015 – 31/08/2018  
@@ -41,7 +41,7 @@ Department of Medicine Solna, Karolinska Sjukhuset and Karolinska Institutet, Sw
 
 ***
 
-<img border="0" src="logos/logo_uke.png" width="60px" height="60px" style="text-align: right">
+<p style="text-align: right"><img border="0" src="logos/logo_uke.png" width="60px" height="60px"></p>
 
 **Postdoctoral researcher** (3 months contract) – bioinformatician / computational biologist  
 01/09/2017 – 31/11/2017  
