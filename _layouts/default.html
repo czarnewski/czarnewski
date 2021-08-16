@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="chrome=1">
   <title>Czarnewski</title>
-<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+<!-- <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"> -->
 <link rel="stylesheet" href="styles.css">
 <meta name="viewport" content="width=device-width">
 
@@ -56,15 +56,11 @@
 
 
           <hr>
-          <a href="{{ site.github.repository_url }}">
+          <a href="{{ site.github.repository_url }}" target="_blank">
           <button class="button myHighlight" style="width:100%; text-align: left">
             <img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="20" height="20" style="vertical-align:middle;">&nbsp;&nbsp;
-            View on GitHub
+            GitHub
           </button></a>
-          {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View on GitHub&nbsp;&nbsp;<img border="0" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20" height="20">{{ github_name }}</a></p>
-          {% endif %}
-          <p><small>Theme: <a href="https://github.com/orderedlist">orderedlist</a></small></p>
         </header>
       </div>
 

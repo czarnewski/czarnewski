@@ -1,7 +1,7 @@
 
 # Paulo Czarnewski
 
-**Scientific Coordinator** for the Human Developmental Cell Atlas (HDCA)
+**Scientific Coordinator** for the Human Developmental Cell Atlas (HDCA)  
 Royal Institute of Technology (KTH), Stockholm, Sweden
 
 **Senior Bioinformatician** – single-cell omics  

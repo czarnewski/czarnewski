@@ -1,4 +1,4 @@
-# <img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="40" height="40"> Career
+# <img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="40" height="40" style="vertical-align:middle;"> Career
 
 ***
 

@@ -1,4 +1,4 @@
-# <img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="40" height="40"> Teaching
+# <img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="40" height="40" style="vertical-align:middle;"> Teaching
 
 ***
 
