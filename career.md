@@ -9,3 +9,11 @@ For the next 3.5 years at the Department of Medicine, I had the opportunity to w
 I then became permanently employed at NBIS in September 2018, and was quickly enrolled in several collaborative projects involving single- or multi-omics modalities coming from single-cell, bulk RNA-seq, in situ sequencing (ISS), among others. Specifically, my work routine focused on ensuring computationally reproducible analysis workflows, developing effective visualization tools for complex data and generating reports to be shared with collaborators, while working on a multitude of projects in parallel. Some consequences of this work were that 1) I helped identify patients with pulmonary sarcoidosis which will respond well to therapy and 2) we discovered a new population state of innate lymphoid cells. In total, 4 articles were published and 4 others are still under ongoing review. Also, teaching and communicating advanced topics such as single-cell data analysis are part of my tasks at NBIS. I have been an active lecturer and course leader in 9 different courses in Sweden and at the European level through ELIXIR, including Finland (CSC) and Switzerland (SIB).
 
 In February 2021, by the age of 29, I was then appointed Scientific Coordinator for the Human Developmental Cell Atlas (HDCA), where I orchestrated and facilitated the interaction of 6 multi-omics research groups. Here, I guide PhD students and Postdocs across different groups to work in synergy and accelerate data analysis and interpretation. Data, code and manuscript curation, as well as giving HDCA visibility and outreach are part of my tasks in this role. Two manuscripts are under ongoing review.
+
+<br/>
+
+<a href="/czarnewski/index.html">
+<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+</a>
+
+<br/>
