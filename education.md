@@ -2,7 +2,7 @@
 
 ***
 
-<img border="0" src="logos/logo_ufu.png" width="60px" height="60px">
+<img border="0" src="logos/logo_ufu.png" width="60px" height="60px" text-align: right>
 
 **PhD** in Applied Immunology and Parasitology  
 01/03/2013 – 27/03/2015  
@@ -11,7 +11,7 @@ Institute for Biomedical Sciences, Federal University of Uberlandia, Uberlandia,
 
 ***
 
-<img border="0" src="logos/logo_ufu.png" width="60px" height="60px">
+<img border="0" src="logos/logo_ufu.png" width="60px" height="60px" text-align: right>
 
 
 **Master** in Applied Immunology and Parasitology  
@@ -21,7 +21,7 @@ Institute for Biomedical Sciences, Federal University of Uberlandia, Uberlandia,
 
 ***
 
-<img border="0" src="logos/logo_ufu.png" width="60px" height="60px">
+<img border="0" src="logos/logo_ufu.png" width="60px" height="60px" text-align: right>
 
 
 **Bachelor** degree in Biological Sciences  

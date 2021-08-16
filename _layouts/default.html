@@ -83,10 +83,12 @@
     $(function() {
         // this will get the full URL at the address bar
         var url = window.location.href;
+        console.log(url)
 
         // passes on every "a" tag
         $(".topmenu a").each(function() {
             // checks if its the same on the address bar
+            console.log(this.href)
             if (url == (this.href)) {
                 $(this).closest("button").classList.add('active');
                 //for making parent of submenu active
