@@ -4,7 +4,7 @@
 
 <!-- <img border="0" src="logos/logo_hdca.png" height="40px">
 <img border="0" src="logos/logo_scilifelab.png" height="40px"> -->
-<img border="0" src="logos/logo_kth.png" width="60px" height="60px">
+<img border="0" src="logos/logo_kth.png" width="60px" height="70px">
 
 **Scientific Coordinator** for the Human Developmental Cell Atlas (HDCA)
 01/02/2021 – current  

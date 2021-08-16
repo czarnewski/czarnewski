@@ -49,3 +49,8 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 .myHighlight:hover {
   background-color: #F2F2F2;
 }
+
+#index #menu .index, #career #menu .career, #teaching #menu .teaching, #employments #menu .employments, #education #menu .education, {
+  background-color: White;
+  color: Black;
+}
