@@ -13,7 +13,7 @@ In February 2021, by the age of 29, I was then appointed Scientific Coordinator 
 <br/>
 
 <a href="/czarnewski/index.html">
-<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+<button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
 
 <br/>

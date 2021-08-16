@@ -181,8 +181,11 @@ expression.
 *Int J Parasitol*. 2012 Apr;42(4):341-52. doi:
 10.1016/j.ijpara.2012.01.006. Epub 2012 Feb 17. PMID: 22366549.
 
+
+<br/>
+
 <a href="/czarnewski/index.html">
-<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+<button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
 
 <br/>

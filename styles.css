@@ -21,11 +21,11 @@ div { font-size: 14px; color: Black; line-height: normal;  }
 pre { /* Code block - determines code spacing between lines */ font-size: 14px; }
 
 .zoom:hover{
-  transform: scale(1.1)
+  transform: scale(1.05)
 }
 
 .button {
-  background-color: #666666;
+  background-color: #999999;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -46,5 +46,5 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 }
 
 .myHighlight:hover {
-  background-color: #999999;
+  background-color: #666666;
 }

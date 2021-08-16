@@ -59,8 +59,11 @@ Presential, 20 students, 4 days, 32h
 NBIS, Uppsala, Sweden  
 Role: *Course Leader, Lecturer*
 
+
+<br/>
+
 <a href="/czarnewski/index.html">
-<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+<button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
 
 <br/>

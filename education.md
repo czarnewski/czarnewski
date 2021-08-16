@@ -26,8 +26,11 @@ Institute for Biomedical Sciences, Federal University of Uberlandia, Uberlandia,
 10/03/2008 – 09/07/2011  
 Federal University of Uberlandia, Uberlandia, Brazil.
 
-***
+
+<br/>
 
 <a href="/czarnewski/index.html">
 <button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
+
+<br/>

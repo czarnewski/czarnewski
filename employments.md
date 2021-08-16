@@ -35,7 +35,7 @@ Zentrum für Innere Medizin, Universitätsklinikum Hamburg-Eppendorf, Hamburg, G
 <br/>
 
 <a href="/czarnewski/index.html">
-<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+<button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
 
 <br/>
