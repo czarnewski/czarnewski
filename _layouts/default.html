@@ -16,7 +16,7 @@
   <style> .wrapper{ width: 1100px; height: 800px} </style>
   <div class="wrapper">
 
-    <div class="topmenu" style="width: 240px; padding: 0px; float: left; height:100%;">
+    <div id="topmenu" style="width: 240px; padding: 0px; float: left; height:100%;">
       <style> header{ width: 240px; padding: 60px 0px; text-align: right;} </style>
       <header>
         <br/>
@@ -29,85 +29,91 @@
         </a>
         <br/>
         <a href="/czarnewski/publications.html">
-          <button class="index button myHighlight" style="width:100%; text-align: right">
+          <button id="menuButton" class="index button myHighlight" style="width:100%; text-align: right">
             Publications&nbsp;&nbsp;
             <img border="0" src="https://static.thenounproject.com/png/1143700-200.png" width="20" height="20" style="vertical-align:middle;">
+          </button>
+        </a>
+        <a href="/czarnewski/teaching.html">
+          <button id="menuButton" class="teaching button myHighlight" style="width:100%; text-align: right">
+            Teaching&nbsp;&nbsp;
+            <img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="20" height="20" style="vertical-align:middle;">
+          </button>
+        </a>
+        <a href="/czarnewski/career.html">
+          <button id="menuButton" class="career button myHighlight" style="width:100%; text-align: right">
+            Career&nbsp;&nbsp;
+            <img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="20" height="20" style="vertical-align:middle;">
+          </button>
+        </a>
+        <a href="/czarnewski/employments.html">
+          <button id="menuButton" class="employments button myHighlight" style="width:100%; text-align: right">
+            Employments&nbsp;&nbsp;
+            <img border="0" src="https://i.pinimg.com/originals/b4/8d/d8/b48dd8ff9da1136d1caac40b2632fae9.png" width="20" height="20" style="vertical-align:middle;">
+          </button>
+        </a>
+        <a href="/czarnewski/education.html">
+          <button id="menuButton" class="education button myHighlight" style="width:100%; text-align: right">
+            Education&nbsp;&nbsp;
+            <img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="20" height="20" style="vertical-align:middle;">
+          </button>
+        </a>
+
+
+        <hr>
+        <a href="{{ site.github.repository_url }}" target="_blank">
+          <button class="button myHighlight" style="width:100%; text-align: right">
+            GitHub&nbsp;&nbsp;
+            <img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="20" height="20" style="vertical-align:middle;">&nbsp;&nbsp;
           </button></a>
-          <a href="/czarnewski/teaching.html">
-            <button class="teaching button myHighlight" style="width:100%; text-align: right">
-              Teaching&nbsp;&nbsp;
-              <img border="0" src="https://icon-library.com/images/teaching-icon-png/teaching-icon-png-20.jpg" width="20" height="20" style="vertical-align:middle;">
-            </button></a>
-            <a href="/czarnewski/career.html">
-              <button class="career button myHighlight" style="width:100%; text-align: right">
-                Career&nbsp;&nbsp;
-                <img border="0" src="https://static.thenounproject.com/png/199301-200.png" width="20" height="20" style="vertical-align:middle;">
-              </button></a>
-              <a href="/czarnewski/employments.html">
-                <button class="employments button myHighlight" style="width:100%; text-align: right">
-                  Employments&nbsp;&nbsp;
-                  <img border="0" src="https://i.pinimg.com/originals/b4/8d/d8/b48dd8ff9da1136d1caac40b2632fae9.png" width="20" height="20" style="vertical-align:middle;">
-                </button></a>
-                <a href="/czarnewski/education.html">
-                  <button class="education button myHighlight" style="width:100%; text-align: right">
-                    Education&nbsp;&nbsp;
-                    <img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="20" height="20" style="vertical-align:middle;">
-                  </button></a>
+        </header>
+      </div>
+
+      <div style="width: calc(100% - 240px); padding: 0px; float: left; height:100%;">
+        <style> section{ width: auto; padding: 60px 30px; background-color: white; min-height:800px;} </style>
+        <section>
+          <div>
+            {{ content }}
+          </div>
+
+        </section>
+      </div>
 
 
-                  <hr>
-                  <a href="{{ site.github.repository_url }}" target="_blank">
-                    <button class="button myHighlight" style="width:100%; text-align: right">
-                      GitHub&nbsp;&nbsp;
-                      <img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="20" height="20" style="vertical-align:middle;">&nbsp;&nbsp;
-                    </button></a>
-                  </header>
-                </div>
+    </div>
+    <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script> -->
 
-                <div style="width: calc(100% - 240px); padding: 0px; float: left; height:100%;">
-                  <style> section{ width: auto; padding: 60px 30px; background-color: white; min-height:1600px;} </style>
-                  <section>
-                    <div>
-                      {{ content }}
-                    </div>
+    <script type="text/javascript">
+    var header = document.getElementsByClassName("topmenu");
+    console.log(header)
+    var btns = header.getElementsByClassName("button");
+    for (var i = 0; i < btns.length; i++) {
+      btns[i].addEventListener("click", function() {
+        var current = document.getElementsByClassName("active");
+        current[0].className = current[0].className.replace(" active", "");
+        this.className += " active";
+      });
+    }
 
-                  </section>
-                </div>
-
-
-              </div>
-              <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-              <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script> -->
-
-              <script type="text/javascript">
-              var header = document.getElementsByClassName("topmenu");
-              var btns = header.getElementsByClassName("button");
-              for (var i = 0; i < btns.length; i++) {
-                btns[i].addEventListener("click", function() {
-                  var current = document.getElementsByClassName("active");
-                  current[0].className = current[0].className.replace(" active", "");
-                  this.className += " active";
-                });
-              }
-
-              // $(function() {
-              //     // this will get the full URL at the address bar
-              //     var url = window.location.href;
-              //     console.log(url)
-              //
-              //     // passes on every "a" tag
-              //     $(".topmenu a").each(function() {
-              //         // checks if its the same on the address bar
-              //         console.log(this.href)
-              //         if (url == (this.href)) {
-              //             $(this).closest("button").classList.add('active');
-              //             //for making parent of submenu active
-              //         }
-              //     });
-              // });
-            </script>
-            <footer>
-              <!-- <div style="width:100%;background-color: #f2f2f2; height:20px;"></div> -->
-            </footer>
-          </body>
-          </html>
+    // $(function() {
+    //     // this will get the full URL at the address bar
+    //     var url = window.location.href;
+    //     console.log(url)
+    //
+    //     // passes on every "a" tag
+    //     $(".topmenu a").each(function() {
+    //         // checks if its the same on the address bar
+    //         console.log(this.href)
+    //         if (url == (this.href)) {
+    //             $(this).closest("button").classList.add('active');
+    //             //for making parent of submenu active
+    //         }
+    //     });
+    // });
+    </script>
+    <footer>
+      <!-- <div style="width:100%;background-color: #f2f2f2; height:20px;"></div> -->
+    </footer>
+  </body>
+  </html>
