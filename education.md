@@ -1,4 +1,4 @@
-# <img border="0" src="https://icon-library.com/images/education-icon-free/education-icon-free-1.jpg" width="40" height="40" style="vertical-align:middle;"> Education
+# <img border="0" src="/czarnewski/logos/education.png" width="40" height="40" style="vertical-align:middle;"> Education
 
 ***
 

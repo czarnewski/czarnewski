@@ -1,4 +1,4 @@
-# <img border="0" src="https://static.thenounproject.com/png/1143700-200.png" width="40" height="40" style="vertical-align:middle;"> Publications
+# <img border="0" src="/czarnewski/logos/publications.png" width="40" height="40" style="vertical-align:middle;"> Publications
 
 ***
 
