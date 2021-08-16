@@ -44,3 +44,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
    height:20px;   /* Height of the footer */
    background:#f2f2f2;
 }
+
+.myHighlight:hover {
+  background-color: #999999;
+}

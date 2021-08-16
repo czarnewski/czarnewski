@@ -28,17 +28,6 @@ Federal University of Uberlandia, Uberlandia, Brazil.
 
 ***
 
-<div>
-  <div style="width: 40px">
-    <img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ufu_logo.svg/1024px-Ufu_logo.svg.png" width="40px" height="40px">
-  </div>
-  <div>
-  **Bachelor** degree in Biological Sciences  
-  10/03/2008 – 09/07/2011  
-  Federal University of Uberlandia, Uberlandia, Brazil.
-  </div>
-</div>
-
 <a href="/czarnewski/index.html">
-<button class="button zoom">⬅︎ &nbsp; Back to main</button>
+<button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
