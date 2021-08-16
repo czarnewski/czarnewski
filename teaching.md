@@ -25,41 +25,39 @@ Role: *Course Leader, Lecturer* | Online, 25 students
 
 ### 2020
 
-**RNA-seq data analysis**   
-Online, 25 students, 5 days, 40h   
+**[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/2011/)**   
+Online, 25 students, 5 days, 40h  
 NBIS, Stockholm, Sweden  
-[https://nbisweden.github.io/workshop-RNAseq/2011/](https://nbisweden.github.io/workshop-RNAseq/2011/)  
 Role: *Course Leader, Lecturer*
 
-**RNA Summer School (single-cell)**  
+**[RNA Summer School (single-cell)](https://sib-swiss.github.io/SchoolRNA2020/)**  
 Presential and Online, 32 students, 5 days, 40h  
 SIB, Schwarzenberg, Switzerland  
-[https://sib-swiss.github.io/SchoolRNA2020/](https://sib-swiss.github.io/SchoolRNA2020/)  
 Role: *Course Leader, Lecturer*
 
-**Single-cell RNA-seq data analysis** (2020, 4 days, 32h)  
-NBIS, Stockholm, Sweden | Presential, 24 students  
-[https://nbisweden.github.io/workshop-scRNAseq/](https://nbisweden.github.io/workshop-scRNAseq/)  
+**[Single-cell RNA-seq data analysis](https://nbisweden.github.io/workshop-scRNAseq/)**  
+Presential, 24 students, 4 days, 32h  
+NBIS, Stockholm, Sweden  
 Role: *Course Leader, Lecturer*
 
 <br/>
 
 ### 2019
 
-**NBIS-SIB Single Cell School** (5 days, 40h)  
+**[NBIS-SIB Single Cell School](https://nbisweden.github.io/single-cell_sib_scilifelab/)**  
+Presential, 30 students, 5 days, 40h  
 NBIS and SIB, Leysin, Switzerland  
-[https://nbisweden.github.io/single-cell_sib_scilifelab/](https://nbisweden.github.io/single-cell_sib_scilifelab/)  
-Role: *Lecturer* | Presential, 30 students
+Role: *Lecturer*
 
-**ELIXIR single-cell RNA-seq data analysis with R** (4 days, 32h)  
+**[ELIXIR single-cell RNA-seq data analysis with R](https://www.csc.fi/fi/web/training/-/scrnaseq)**  
+Presential, 32 students, 4 days, 32h  
 CSC, Helsinki, Finland  
-[https://www.csc.fi/fi/web/training/-/scrnaseq](https://www.csc.fi/fi/web/training/-/scrnaseq)  
-Role: *Lecturer* | Presential, 32 students
+Role: *Lecturer*
 
-**RNA-seq data analysis** (4 days, 32h)  
+**[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/)**
+Presential, 20 students, 4 days, 32h  
 NBIS, Uppsala, Sweden  
-[https://nbisweden.github.io/workshop-RNAseq/](https://nbisweden.github.io/workshop-RNAseq/)  
-Role: *Course Leader, Lecturer* | Presential, 20 students
+Role: *Course Leader, Lecturer*
 
 <a href="/czarnewski/index.html">
 <button class="button zoom">⬅︎ &nbsp; Back to main</button>
