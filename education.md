@@ -29,7 +29,12 @@ Federal University of Uberlandia, Uberlandia, Brazil.
 ***
 
 <div>
+  <div style="width: 40px">
 
+  </div>
+  <div style="width: 40px">
+
+  </div>
 </div>
 
 <a href="/czarnewski/index.html">

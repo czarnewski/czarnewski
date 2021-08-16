@@ -16,7 +16,7 @@ Online, 32 students, 5 days, 40h
 NBIS and SIB, Stockholm, Sweden  
 Role: *Scientific Committee, Course Leader, Lecturer*
 
-[**Single-cell RNA-seq data analysis**](https://nbisweden.github.io/workshop-scRNAseq/)  
+**[Single-cell RNA-seq data analysis](https://nbisweden.github.io/workshop-scRNAseq/)**  
 Online, 25 students, 5 days, 40h  
 NBIS, Stockholm, Sweden   
 Role: *Course Leader, Lecturer* | Online, 25 students
