@@ -2,11 +2,11 @@
 
 h1.title { font-size: 32px; color: Black; }
 
-h1 { /* Header 1 */ font-size: 32px; color: Black;  }
+h1 { /* Header 1 */ font-size: 32px; color: Black; font-weight: bold }
 
-h2 { /* Header 2 */ font-size: 24px; color: Black; }
+h2 { /* Header 2 */ font-size: 24px; color: Black; font-weight: bold }
 
-h3 { /* Header 3 */ font-size: 18px; color: Black; }
+h3 { /* Header 3 */ font-size: 18px; color: Black; font-weight: bold }
 
 code.r{ /* Code block */ font-size: 14px; color: Black; }
 
@@ -27,7 +27,8 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 .button {
   background-color: #E5E5E5;
   border: none;
-  color: black;
+  color: #666666;
+  font-weight: bold
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
