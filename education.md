@@ -2,7 +2,7 @@
 
 ***
 
-<img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ufu_logo.svg/1024px-Ufu_logo.svg.png" width="40px" height="40px">
+<img border="0" src="logos/logo_ufu.png" width="40px" height="40px">
 
 **PhD** in Applied Immunology and Parasitology  
 01/03/2013 – 27/03/2015  
@@ -11,7 +11,8 @@ Institute for Biomedical Sciences, Federal University of Uberlandia, Uberlandia,
 
 ***
 
-<img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ufu_logo.svg/1024px-Ufu_logo.svg.png" width="40px" height="40px">
+<img border="0" src="logos/logo_ufu.png" width="40px" height="40px">
+
 
 **Master** in Applied Immunology and Parasitology  
 01/08/2011 – 25/02/2013  
@@ -20,7 +21,8 @@ Institute for Biomedical Sciences, Federal University of Uberlandia, Uberlandia,
 
 ***
 
-<img border="0" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ufu_logo.svg/1024px-Ufu_logo.svg.png" width="40px" height="40px">
+<img border="0" src="logos/logo_ufu.png" width="40px" height="40px">
+
 
 **Bachelor** degree in Biological Sciences  
 10/03/2008 – 09/07/2011  
