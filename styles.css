@@ -10,7 +10,7 @@ h3 { /* Header 3 */ font-size: 18px; color: Black; }
 
 code.r{ /* Code block */ font-size: 14px; color: Black; }
 
-body { /* Normal  */ font-size: 14px; color: Black; }
+body { /* Normal  */ font-size: 14px; color: Black; padding: 0px; margin: 0px }
 
 td {  /* Table  */ font-size: 14px; color: Black; }
 
