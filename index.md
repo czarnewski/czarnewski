@@ -23,3 +23,14 @@ At NBIS, I offer bioinformatics guidance and services to researchers across Swed
   height="100%"
   width="100%">
 </iframe>
+
+
+
+<embed
+    src="https://www.nature.com/articles/s41467-019-10769-x.pdf""
+    type="application/pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%">
+    </embed>
