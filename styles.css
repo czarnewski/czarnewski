@@ -70,13 +70,6 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 }
 
 @media screen and (max-width: 600px) {
-  #topmenu {
-    width: 60px;
-  }
-  header {
-    width: 60px;
-    padding: 20px 0px;
-  }
   .menuButton img {
     width: 30px ;
     height: 30px ;
@@ -87,5 +80,9 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   }
   .menuButton h1 {
     font-size: 0px;
+  }
+  .myheader {
+    width: 60px;
+    padding: 20px 0px;
   }
 }
