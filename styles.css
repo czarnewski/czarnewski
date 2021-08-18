@@ -68,3 +68,23 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   background-color: White;
   color: Black;
 }
+
+@media screen and (max-width: 600px) {
+  #topmenu {
+    width: 60px;
+  }
+  header {
+    header: 60px;
+    padding: 20px 0px;
+  }
+  .menuButton img {
+    width: 20px ;
+    height: 20px ;
+  }
+  .menuButton {
+    font-size: 0px;
+  }
+  .menuButton h1 {
+    font-size: 0px;
+  }
+}
