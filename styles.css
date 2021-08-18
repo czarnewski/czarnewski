@@ -74,15 +74,16 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
     width: 60px;
   }
   header {
-    header: 60px;
+    width: 60px;
     padding: 20px 0px;
   }
   .menuButton img {
-    width: 20px ;
-    height: 20px ;
+    width: 30px ;
+    height: 30px ;
   }
   .menuButton {
     font-size: 0px;
+    padding: 15px 15px;
   }
   .menuButton h1 {
     font-size: 0px;
