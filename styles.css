@@ -102,6 +102,12 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   min-height:800px;
 }
 
+.profile_picture {
+  border-radius: 50%;
+  width: 200;
+  height:200
+}
+
 
 @media screen and (max-width: 600px) {
   .menuButton img {
