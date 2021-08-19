@@ -80,6 +80,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   width: 240px;
   padding: 0px;
   float: left;
+  height: 800px;
 }
 
 .myheader2{
