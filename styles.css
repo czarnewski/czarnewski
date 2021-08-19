@@ -81,13 +81,14 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   width: 240px;
   padding: 0px;
   float: left;
+  height: 100%;
 }
 
 .myheader2{
   width: 240px;
   padding: 40px 0px;
   text-align: right;
-  /* position: fixed; */
+  position: fixed;
   /* position: absolute; */
 
 }
