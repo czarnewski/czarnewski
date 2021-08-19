@@ -14,24 +14,3 @@ I am a multi-omics data analyst, with strong experience in project consultancy, 
 As the scientific coordinator of the HDCA, my role is to organize and foster connections across collaborators and technologies into joint efforts for the creation and divulgation of the atlas.
 
 At NBIS, I offer bioinformatics guidance and services to researchers across Sweden. My current focus involves multi-omics analysis methods in Single Cell field, such as RNA sequencing, TCR repertoir analysis, in situ sequencing (image analysis) and flow cytometry. I am also engaged in advanced data analysis training in Single Cell at the European level through ELIXIR.
-
-<br/>
-
-<iframe
-  src="https://www.nature.com/articles/s41467-019-10769-x.pdf"
-  frameBorder="0"
-  scrolling="auto"
-  height="100%"
-  width="100%">
-</iframe>
-
-<br/>
-
-<embed
-  src="https://www.nature.com/articles/s41467-019-10769-x.pdf""
-  type="application/pdf"
-  frameBorder="0"
-  scrolling="auto"
-  height="100%"
-  width="100%">
-</embed>
