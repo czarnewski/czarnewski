@@ -87,7 +87,9 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   width: 240px;
   padding: 40px 0px;
   text-align: right;
-  position: fixed;
+  /* position: fixed; */
+  position: absolute;
+
 }
 
 .myContent1 {
@@ -125,9 +127,9 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   }
   .myheader1 {
     width: 60px;
-    padding: 20px 0px;
   }
   .myheader2{
+    padding: 20px 0px;
     width: 60px;
   }
   .myContent1 {
