@@ -87,6 +87,20 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   text-align: right;
 }
 
+.myContent1 {
+  width: calc(100% - 240px);
+  padding: 0px;
+  float: left;
+  height:100%;
+}
+
+.myContent2 {
+  width: auto;
+  padding: 40px 30px;
+  background-color: white;
+  min-height:800px;
+}
+
 
 @media screen and (max-width: 600px) {
   .menuButton img {
@@ -95,16 +109,22 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   }
   .menuButton {
     font-size: 0px;
-    padding: 15px 15px;
+    padding: 10px 10px;
   }
   .menuButton h1 {
     font-size: 0px;
   }
   .myheader1 {
-    width: 60px;
+    width: 50px;
     padding: 20px 0px;
   }
   .myheader2{
-    width: 60px;
+    width: 50px;
+  }
+  .myContent1 {
+    width: calc(100% - 60px);
+  }
+  .myContent2 {
+    padding: 20px 10px;
   }
 }
