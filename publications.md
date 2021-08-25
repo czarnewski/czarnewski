@@ -14,12 +14,31 @@ clinical applicability and subcellular origin.
 Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
 PMCID: PMC8298890.
 
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+
+<br/>
+
 Lepzien R, Liu S, **Czarnewski P**, Nie M, Österberg B, Baharom F, Pourazar J,
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
 A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
 predict disease outcome.  
 *Eur Respir J*. 2021 Jul 22;58(1):2003468. doi:
 10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">data_analysis</span>
+</div>
+
+<br/>
 
 Mathew NR, Jayanthan JK, Smirnov IV, Robinson JL, Axelsson H, Nakka SS,
 Emmanouilidi A, **Czarnewski P**, Yewdell WT, Schön K, Lebrero-Fernández C,
@@ -29,6 +48,18 @@ influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.
 *Cell Rep*. 2021 Jun 22;35(12):109286. doi: 10.1016/j.celrep.2021.109286. PMID:
 34161770.
 
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">data_analysis</span>
+</div>
+
+<br/>
+
 Mazzurana L, **Czarnewski P**, Jonsson V, Wigge L, Ringnér M, Williams TC,
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
 Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
@@ -37,6 +68,16 @@ revealed by full-length single-cell RNA-sequencing.
 *Cell Res*. 2021
 May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 33420427; PMCID: PMC8089104.
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">data_analysis</span>
+</div>
 
 <br/>
 
