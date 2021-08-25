@@ -19,6 +19,11 @@ PMCID: PMC8298890.
   <span class="tooltiptext">supervision</span>
 </div>
 
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+  <span class="tooltiptext">writing and revision</span>
+</div>
+
 </p>
 
 <p>Lepzien R, Liu S, **Czarnewski P**, Nie M, Österberg B, Baharom F, Pourazar J,
@@ -36,6 +41,11 @@ predict disease outcome.
 <div class="tooltip zoom">
   <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
   <span class="tooltiptext">data analysis</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+  <span class="tooltiptext">writing and revision</span>
 </div>
 
 </p>
@@ -58,9 +68,14 @@ influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.
   <span class="tooltiptext">data analysis</span>
 </div>
 
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+  <span class="tooltiptext">writing and revision</span>
+</div>
+
 </p>
 
-Mazzurana L, **Czarnewski P**, Jonsson V, Wigge L, Ringnér M, Williams TC,
+<p>Mazzurana L, **Czarnewski P**, Jonsson V, Wigge L, Ringnér M, Williams TC,
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
 Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
 transcriptional imprinting and heterogeneity in human innate lymphoid cells
@@ -75,39 +90,101 @@ May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 </div>
 
 <div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
-  <span class="tooltiptext">data_analysis</span>
+  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+  <span class="tooltiptext">data  analysis</span>
 </div>
 
-<br/>
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+  <span class="tooltiptext">writing and revision</span>
+</div>
+
+</p>
+
+***
 
 ### 2020
 
-Stakenborg M, Verstockt B, Meroni E, Goverse G, De Simone V, Verstockt S, Di
+<p>Stakenborg M, Verstockt B, Meroni E, Goverse G, De Simone V, Verstockt S, Di
 Matteo M, **Czarnewski P**, Villablanca EJ, Ferrante M, Boeckxstaens GE, Mazzone M,
 Vermeire S, Matteoli G. Neutrophilic HGF-MET signaling exacerbates intestinal
 inflammation.  
 *J Crohns Colitis*. 2020 Jun 17:jjaa121. doi: 10.1093/ecco-
 jcc/jjaa121. Epub ahead of print. PMID: 32556102.
 
-<br/>
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+  <span class="tooltiptext">data  analysis</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+  <span class="tooltiptext">writing and revision</span>
+</div>
+
+</p>
 
 ### 2019
 
-**Czarnewski P**, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
+<p>**Czarnewski P**, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ. Conserved transcriptomic profile between mouse and human colitis allows
 unsupervised patient stratification.  
 *Nat Commun*. 2019 Jun 28;10(1):2892. doi:
 10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
 
-Seitz C, Liu S, Klocke K, Joly AL, **Czarnewski P**V, Tibbitt CA, Parigi SM,
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/idea.png" width="40" height="40">
+  <span class="tooltiptext">conceived the idea</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+  <span class="tooltiptext">data  analysis</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+  <span class="tooltiptext">performed experiments</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+  <span class="tooltiptext">writing and revision</span>
+</div>
+
+</p>
+
+<p>Seitz C, Liu S, Klocke K, Joly AL, **Czarnewski P**V, Tibbitt CA, Parigi SM,
 Westerberg LS, Coquet JM, Villablanca EJ, Wing K, Andersson J. Multi-faceted
 inhibition of dendritic cell function by CD4<sup>+</sup>Foxp3<sup>+</sup>
 regulatory T cells.  
 *J Autoimmun*. 2019 Mar;98:86-94. doi:
 10.1016/j.jaut.2018.12.002. Epub 2019 Jan 5. PMID: 30616979.
 
-<br/>
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+
+<div class="tooltip zoom">
+  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+  <span class="tooltiptext">data  analysis</span>
+</div>
+
+</p>
+
+
+***
 
 ### 2018
 
