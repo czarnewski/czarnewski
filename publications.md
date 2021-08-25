@@ -6,7 +6,7 @@
 
 ### 2021
 
-Veerman RE, Teeuwen L, **Czarnewski P**, Güclüler Akpinar G, Sandberg A, Cao X,
+<p>Veerman RE, Teeuwen L, **Czarnewski P**, Güclüler Akpinar G, Sandberg A, Cao X,
 Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
 different isolation methods for extracellular vesicles reveals different
 clinical applicability and subcellular origin.  
@@ -19,9 +19,9 @@ PMCID: PMC8298890.
   <span class="tooltiptext">supervision</span>
 </div>
 
-<br/>
+</p>
 
-Lepzien R, Liu S, **Czarnewski P**, Nie M, Österberg B, Baharom F, Pourazar J,
+<p>Lepzien R, Liu S, **Czarnewski P**, Nie M, Österberg B, Baharom F, Pourazar J,
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
 A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
 predict disease outcome.  
@@ -34,13 +34,13 @@ predict disease outcome.
 </div>
 
 <div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
-  <span class="tooltiptext">data_analysis</span>
+  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+  <span class="tooltiptext">data analysis</span>
 </div>
 
-<br/>
+</p>
 
-Mathew NR, Jayanthan JK, Smirnov IV, Robinson JL, Axelsson H, Nakka SS,
+<p>Mathew NR, Jayanthan JK, Smirnov IV, Robinson JL, Axelsson H, Nakka SS,
 Emmanouilidi A, **Czarnewski P**, Yewdell WT, Schön K, Lebrero-Fernández C,
 Bernasconi V, Rodin W, Harandi AM, Lycke N, Borcherding N, Yewdell JW, Greiff V,
 Bemark M, Angeletti D. Single-cell BCR and transcriptome analysis after
@@ -54,11 +54,11 @@ influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.
 </div>
 
 <div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
-  <span class="tooltiptext">data_analysis</span>
+  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+  <span class="tooltiptext">data analysis</span>
 </div>
 
-<br/>
+</p>
 
 Mazzurana L, **Czarnewski P**, Jonsson V, Wigge L, Ringnér M, Williams TC,
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
