@@ -9,7 +9,7 @@
 Lepzien R, Nie M, **Czarnewski P**, Liu S, Yu M, Ravindran A, Kullberg S, Eklund A, Grunewald J, Smed-Sörensen A. Pulmonary and blood dendritic cells from sarcoidosis patients more potently induce IFNγ-producing Th1 cells compared with monocytes.  
 [J Leukoc Biol.](https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R) 2021; 1- 10.
 
-<div style="display:flex; width:200px; height: 40px;">
+<div style="display:flex; width:auto; height: 40px;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 5px;
 width: 40px; height: 40px;">
@@ -33,7 +33,7 @@ clinical applicability and subcellular origin.
 Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
 PMCID: PMC8298890.
 
-<div style="display:flex; width:200px; height: 40px;">
+<div style="display:flex; width:auto; height: 40px;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 5px;
 width: 40px; height: 40px;">
@@ -57,7 +57,7 @@ predict disease outcome.
 10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
 
 
-<div style="display:flex; width:200px; height: 40px;">
+<div style="display:flex; width:auto; height: 40px;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 5px;
 width: 40px; height: 40px;">
