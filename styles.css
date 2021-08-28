@@ -14,7 +14,7 @@ body { /* Normal  */ font-size: 14px; color: Black; padding: 0px; margin: 0px; b
 
 td {  /* Table  */ font-size: 14px; color: Black; }
 
-p { font-size: 14px; color: Black; }
+p { font-size: 14px; color: Black; margin: 0px; }
 
 div { font-size: 14px; color: Black; line-height: normal;  }
 

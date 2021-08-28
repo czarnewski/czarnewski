@@ -19,12 +19,12 @@ clinical applicability and subcellular origin.
 Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
 PMCID: PMC8298890.
 
-<div class="tooltip zoom">
+<div class="tooltip zoom" style="border-radius: 5px;  background: magenta">
   <img src="/czarnewski/logos/supervision.png" width="40" height="40">
   <span class="tooltiptext">supervision</span>
 </div>
 
-<div class="tooltip zoom">
+<div class="tooltip zoom" style="border-radius: 5px;  background: green">
   <img src="/czarnewski/logos/writing.png" width="40" height="40">
   <span class="tooltiptext">writing and revision</span>
 </div>
