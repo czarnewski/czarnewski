@@ -24,6 +24,15 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
   transform: scale(1.05)
 }
 
+
+.minibutton {
+  opacity: 0.1;
+}
+
+.minibutton:hover {
+  opacity: 0.3;
+}
+
 .menuButton {
   background-color: #E5E5E5;
   width:100%;
