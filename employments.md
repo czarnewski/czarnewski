@@ -53,6 +53,17 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
 
 <br/>
 
+
+<div class="tooltip minibutton">
+<div style="display:flex; overflow: hidden; width:80px; height: 40px; border: 1px solid blue; border-radius: 10px; ">
+  <div style="background: red; width: 40px; height: 40px;">
+  <img class="minibutton" src="/czarnewski/logos/publications.png" width="30" height="30">
+  </div>
+  <p style="font-size: 30px; margin:0px;padding:2px 4px;">34</p>
+</div>
+<span class="tooltiptext">supervision</span>
+</div>
+
 <a href="/czarnewski/index.html">
 <button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
