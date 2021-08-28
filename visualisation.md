@@ -4,7 +4,7 @@
 
 <br/>
 
-One of my big interests is data visualisation. Great par of my work as a bioinformatician and as a teacher in advanced course is about turning data and numbers into graphically meaningful results!
+One of my big interests is data visualisation. Great part of my work as a bioinformatician and as a teacher in advanced courses is about turning data and numbers into graphically meaningful results!
 
 I am currently working on this page, please come back later.
 
@@ -25,6 +25,20 @@ I am currently working on this page, please come back later.
 
 
 <style>
+
+
+.rotate {
+  /* position: absolute;
+  top: 110px;
+  left: 110px; */
+  -webkit-animation:spin 15s linear infinite;
+  -moz-animation:spin 15s linear infinite;
+  animation:spin 15s linear infinite;
+}
+@-moz-keyframes spin { 100% { -moz-transform: rotate(-360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(-360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(-360deg); transform:rotate(-360deg); } }
+
 
 .wiz {
   position: absolute;
@@ -86,7 +100,6 @@ I am currently working on this page, please come back later.
 
 /* ---------- Container for the orbiting circles animation ---------- */
 #circle-orbit-container {
-  text-align: center
   position: relative;
   top: 25px;
   left: 25px;
