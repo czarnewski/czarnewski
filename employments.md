@@ -59,7 +59,7 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
   <div style="background: red; width: 40px; height: 40px;">
   <img class="minibutton" src="/czarnewski/logos/publications.png" width="30" height="30">
   </div>
-  <p style="font-size: 30px; margin:0px;padding:2px 4px;">34</p>
+  <p style="font-size: 14px; margin:0px;padding:10px 4px;">34</p>
 </div>
 <span class="tooltiptext">supervision</span>
 </div>
