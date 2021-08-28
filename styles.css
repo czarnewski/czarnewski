@@ -40,6 +40,9 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 }
 img.minibutton {
   border-radius: 10px;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
   background-color: rgba(255, 255, 255, 0.8);
 
 }
