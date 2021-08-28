@@ -10,6 +10,21 @@ Lepzien R, Nie M, **Czarnewski P**, Liu S, Yu M, Ravindran A, Kullberg S, Eklund
 Pulmonary and blood dendritic cells from sarcoidosis patients more potently induce IFNγ-producing Th1 cells compared with monocytes.
 **J Leukoc Biol.** 2021; 1- 10. https://doi.org/10.1002/JLB.5A0321-162R
 
+<div style="display:flex; width:200px; height: 40px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 5px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+  <span class="tooltiptext">data analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 5px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png" width="40" height="40">
+  <span class="tooltiptext">supervision</span>
+</div>
+</div>
+
+<br/>
 
 Veerman RE, Teeuwen L, **Czarnewski P**, Güclüler Akpinar G, Sandberg A, Cao X,
 Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
@@ -17,7 +32,7 @@ different isolation methods for extracellular vesicles reveals different
 clinical applicability and subcellular origin.  
 **J Extracell Vesicles**. 2021
 Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
-PMCID: PMC8298890.  
+PMCID: PMC8298890.
 
 <div class="tooltip minibutton" style="border-radius: 5px;  background: magenta">
   <img src="/czarnewski/logos/supervision.png" width="40" height="40">
