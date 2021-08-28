@@ -39,7 +39,6 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 
 }
 img.minibutton {
-  border-radius: 10px;
   padding: 5px;
   width: 30px;
   height: 30px;
