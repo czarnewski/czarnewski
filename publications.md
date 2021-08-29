@@ -6,9 +6,9 @@
 
 **Publication metrics:**
 
-h-index: 12
-citations: 444
-impact factor average: 11 ± 8
+- h-index: 12
+- citations: 444
+- impact factor average: 11 ± 8
 
 <br/>
 
@@ -21,7 +21,7 @@ impact factor average: 11 ± 8
 
 <br/>
 
-### 2021
+## 2021
 
 
 <a href="https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R" target="_blank">
@@ -178,7 +178,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2020
+## 2020
 
 <a href="https://academic.oup.com/ecco-jcc/article-abstract/14/12/1748/5859161?redirectedFrom=fulltext" target="_blank">
 <div class="paperlink">
@@ -211,7 +211,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2019
+## 2019
 
 <a href="https://www.nature.com/articles/s41467-019-10769-x.pdf" target="_blank">
 <div class="paperlink">
@@ -282,7 +282,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2018
+## 2018
 
 <a href="https://reader.elsevier.com/reader/sd/pii/S0896841118304384?token=488DD1EF2D661A5725593B63D7D669405A372FC375AB7F77861A77D78B947BF698148647D830C5721278F61A48E80A07&originRegion=eu-west-1&originCreation=20210829072014" target="_blank">
 <div class="paperlink">
@@ -416,7 +416,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2017
+## 2017
 
 <a href="https://www.jacionline.org/action/showPdf?pii=S0091-6749%2817%2930657-7" target="_blank">
 <div class="paperlink">
@@ -541,7 +541,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2016
+## 2016
 
 <a href="https://journals.sagepub.com/doi/pdf/10.1369/0022155416656349" target="_blank">
 <div class="paperlink">
@@ -572,7 +572,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2014
+## 2014
 
 <a href="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0096527/1/pone.0096527.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210829%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210829T073410Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6de842514a942fca1bd304cbb25c06b6f319f583532fd95f125d658214615753918bd4ed95812f989def18552ff9e598a3a00e406f2a1cfff1ed8a5386c5024f5522fae7461c4a47295fc77368447481ba9c9ee6364877729674b5ac7943aa9c283d0c1590aae7719e4affd816d9d537e3ad673f8e0cef89f10039349c0fa988d50cccfee4a20b00b8bcf548464f641f83bf3651400619485b8820aba762ffec016ccde05d70f3024f0cc1ba0bc6925d26305c612be7ea5b93a86cd0454d50f7459b425fe89e0168925c019385eca37f475fae70c4961bef8ce99a6944b81508d00aaf9f27c5b73f0328fd0326e16d0636f3660169853b6c8029fab3e805d4f1" target="_blank">
 <div class="paperlink">
@@ -611,7 +611,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2013
+## 2013
 
 <a href="https://veterinaryresearch.biomedcentral.com/track/pdf/10.1186/1297-9716-44-89.pdf" target="_blank">
 <div class="paperlink">
@@ -672,7 +672,7 @@ width: 40px; height: 40px;">
 
 ***
 
-### 2012
+## 2012
 
 <a href="https://reader.elsevier.com/reader/sd/pii/S0020751912000252?token=EFC12C817E9399EAF141CFF9BF8C2D2C321850C1749C46240C750822AC4E40DF0F6E4186DF697857AEA9568191D41E26&originRegion=eu-west-1&originCreation=20210829073611" target="_blank">
 <div class="paperlink">
