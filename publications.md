@@ -61,8 +61,8 @@ predict disease outcome.
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
 width: 40px; height: 40px;">
-  <img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
-  <span class="tooltiptext">supervision</span>
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
 width: 40px; height: 40px;">
@@ -86,19 +86,19 @@ influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.
 *Cell Rep*. 2021 Jun 22;35(12):109286. doi: 10.1016/j.celrep.2021.109286. PMID:
 34161770.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
-  <span class="tooltiptext">supervision</span>
-</div>
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -112,19 +112,24 @@ revealed by full-length single-cell RNA-sequencing.
 May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 33420427; PMCID: PMC8089104.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
   <span class="tooltiptext">supervision</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
 </div>
 
 <br/>
@@ -140,19 +145,19 @@ inflammation.
 *J Crohns Colitis*. 2020 Jun 17:jjaa121. doi: 10.1093/ecco-
 jcc/jjaa121. Epub ahead of print. PMID: 32556102.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
   <span class="tooltiptext">supervision</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
-</div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
 </div>
 
 <br/>
@@ -167,30 +172,36 @@ unsupervised patient stratification.
 *Nat Commun*. 2019 Jun 28;10(1):2892. doi:
 10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/idea.png" width="40" height="40">
-  <span class="tooltiptext">conceived the idea</span>
-</div>
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
-  <span class="tooltiptext">supervision</span>
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
+  <span class="tooltiptext">conceived idea</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
+  <span class="tooltiptext">supervision</span>
 </div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
+</div>
+
 
 <br/>
 
@@ -201,19 +212,19 @@ regulatory T cells.
 *J Autoimmun*. 2019 Mar;98:86-94. doi:
 10.1016/j.jaut.2018.12.002. Epub 2019 Jan 5. PMID: 30616979.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/supervision.png" width="40" height="40">
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
   <span class="tooltiptext">supervision</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
-</div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
 </div>
 
 <br/>
@@ -231,19 +242,24 @@ cells.
 *Nat Commun*. 2018 Dec 21;9(1):5457. doi: 10.1038/s41467-018-07581-4. PMID:
 30575716; PMCID: PMC6303294.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
-</div>
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -256,20 +272,25 @@ Obesity Is Likely Not Gut Microbiome-Mediated.
 15;2(12):1363-1380. doi: 10.1210/js.2018-00266. PMID: 30534630; PMCID:
 PMC6280317.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
 </div>
+</div>
+
 
 <br/>
 
@@ -283,14 +304,18 @@ Innate Lymphoid Cells and Colonic Inflammation.
 16;48(1):120-132.e8. doi: 10.1016/j.immuni.2017.11.020. PMID: 29343433; PMCID:
 PMC5772175.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -303,14 +328,18 @@ in vivo.
 29317685; PMCID: PMC5760642.
 <br/>
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -325,15 +354,21 @@ the IL-23 receptor pathway in human mucosal group 3 innate lymphoid cells.
 *J Allergy Clin Immunol*. 2018 Jan;141(1):279-292. doi: 10.1016/j.jaci.2017.01.045.
 Epub 2017 Apr 20. PMID: 28433688.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
-</div>
 
 <br/>
 
@@ -343,19 +378,24 @@ Landegren U, Gabrielsson S, Kamali-Moghaddam M. Tracing Cellular Origin of Human
 Exosomes Using Multiplex Proximity Extension Assays.  
 *Mol Cell Proteomics*. 2017 Mar;16(3):502-511. doi: 10.1074/mcp.M116.064725. Epub 2017 Jan 22.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/idea.png" width="40" height="40">
-  <span class="tooltiptext">conceived the idea</span>
-</div>
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
+  <span class="tooltiptext">conceived idea</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+  <span class="tooltiptext">data analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -366,14 +406,18 @@ in Modulating Intestinal Innate Immunity.
 10.3390/nu9010068. PMID: 28098786; PMCID: PMC5295112.
 
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/idea.png" width="40" height="40">
-  <span class="tooltiptext">conceived the idea</span>
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
+  <span class="tooltiptext">conceived idea</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -385,24 +429,23 @@ Formation by Enhancing Inducible Nitric Oxide Expression.
 PMCID: PMC5403831.
 
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/idea.png" width="40" height="40">
-  <span class="tooltiptext">conceived the idea</span>
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
+  <span class="tooltiptext">conceived idea</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/data_analysis.png" width="40" height="40">
-  <span class="tooltiptext">data  analysis</span>
-</div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 ***
@@ -415,15 +458,22 @@ gondii Infection Promotes Epithelial Barrier Dysfunction of Caco-2 Cells.
 *J Histochem Cytochem*. 2016 Aug;64(8):459-69. doi: 10.1369/0022155416656349. Epub
 2016 Jul 1. PMID: 27370796; PMCID: PMC4971781.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
 </div>
+</div>
+
 
 <br/>
 
@@ -440,20 +490,25 @@ expression in the brain is associated with parasite replication.
 PMC4011789.
 
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/idea.png" width="40" height="40">
-  <span class="tooltiptext">conceived the idea</span>
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
+  <span class="tooltiptext">conceived idea</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
 </div>
+</div>
+
 
 <br/>
 
@@ -466,14 +521,19 @@ in the lung of BALB/c and C57BL/6 and in the small intestine of C57BL/6 mice.
 *Vet Res*. 2013 Oct 2;44(1):89. doi: 10.1186/1297-9716-44-89. PMID: 24088531;
 PMCID: PMC3851451.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -485,14 +545,18 @@ oral infection of C57BL/6 mice.
 *PLoS One*. 2013 Sep 24;8(9):e75138. doi:
 10.1371/journal.pone.0075138. PMID: 24086456; PMCID: PMC3782460.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
@@ -509,14 +573,18 @@ expression.
 *Int J Parasitol*. 2012 Apr;42(4):341-52. doi:
 10.1016/j.ijpara.2012.01.006. Epub 2012 Feb 17. PMID: 22366549.
 
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/experiment.png" width="40" height="40">
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
   <span class="tooltiptext">performed experiments</span>
 </div>
-
-<div class="tooltip zoom">
-  <img src="/czarnewski/logos/writing.png" width="40" height="40">
-  <span class="tooltiptext">writing and revision</span>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+  <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+  <span class="tooltiptext">supervision</span>
+</div>
 </div>
 
 <br/>
