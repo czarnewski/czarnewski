@@ -8,6 +8,25 @@ Over the last 3 years, I have been involved in designing and creating material f
 
 <br/>
 
+Teaching summary:
+
+- **Course level:** Postdocs and PhD students
+- **Total number of students taught:** 217
+- **Average students per course:** 25
+- **Number of course website created/designed:** 4
+- **Number of unique lectures ministered:** 11
+- **Number of coding exercises contributed:** 52
+
+<br/>
+
+Feedback from students:
+
+- **Average course quality:** 96% (score 4.8 out of 5.0)
+- **Average lecture quality:** 98% (score 4.9 out of 5.0)
+
+<br/>
+
+
 ### 2021
 
 
@@ -68,6 +87,55 @@ Role: *Lecturer*
 Presential, 20 students, 4 days, 32h  
 NBIS, Uppsala, Sweden  
 Role: *Course Leader, Lecturer*
+
+
+
+<div class="tab">
+  <button class="tablinks active" onclick="openTab(event, 'Courses')">Courses</button>
+  <button class="tablinks" onclick="openTab(event, 'Lectures')">Lectures</button>
+  <button class="tablinks" onclick="openTab(event, 'Exercises')">Exercises</button>
+</div>
+
+
+<div id="Courses" class="tabcontent active" style="display: block;">
+  <h3>Courses</h3>
+
+  **[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/)**
+  Presential, 20 students, 4 days, 32h  
+  NBIS, Uppsala, Sweden  
+  Role: *Course Leader, Lecturer*
+
+</div>
+
+<div id="Lectures" class="tabcontent" style="display: none;">
+  <h3>Lectures</h3>
+
+
+  **[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/)**
+  Presential, 20 students, 4 days, 32h  
+  NBIS, Uppsala, Sweden  
+  Role: *Course Leader, Lecturer*
+
+
+</div>
+
+<div id="Exercises" class="tabcontent" style="display: none;">
+  <h3>Tokyo</h3>
+
+
+  **[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/)**
+  Presential, 20 students, 4 days, 32h  
+  NBIS, Uppsala, Sweden  
+  Role: *Course Leader, Lecturer*
+
+
+</div>
+
+
+
+
+
+
 
 
 <br/>
