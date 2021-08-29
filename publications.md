@@ -7,8 +7,8 @@
 ### 2021
 
 
-<a href="https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R">
-<button class="button zoom myHighlight">
+<a href="https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R" target="_blank">
+<div class="paperlink myHighlight">
 
 Lepzien R, Nie M, **Czarnewski P**, Liu S, Yu M, Ravindran A, Kullberg S, Eklund A, Grunewald J, Smed-Sörensen A. Pulmonary and blood dendritic cells from sarcoidosis patients more potently induce IFNγ-producing Th1 cells compared with monocytes.  
 J Leukoc Biol. 2021; 1- 10.
@@ -26,7 +26,7 @@ width: 40px; height: 40px;">
   <span class="tooltiptext">writing</span>
 </div>
 </div>
-</button>
+</div>
 </a>
 
 <br/>
