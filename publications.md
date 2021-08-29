@@ -6,15 +6,19 @@
 
 ### 2021
 
+
+<a href="https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R">
+<button class="button zoom myHighlight">
+
 Lepzien R, Nie M, **Czarnewski P**, Liu S, Yu M, Ravindran A, Kullberg S, Eklund A, Grunewald J, Smed-Sörensen A. Pulmonary and blood dendritic cells from sarcoidosis patients more potently induce IFNγ-producing Th1 cells compared with monocytes.  
-[J Leukoc Biol.](https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R) 2021; 1- 10.
+J Leukoc Biol. 2021; 1- 10.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
@@ -22,6 +26,8 @@ width: 40px; height: 40px;">
   <span class="tooltiptext">writing</span>
 </div>
 </div>
+</button>
+</a>
 
 <br/>
 
@@ -62,7 +68,7 @@ predict disease outcome.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
 width: 40px; height: 40px;">
@@ -92,7 +98,7 @@ influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
@@ -118,7 +124,7 @@ May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
 width: 40px; height: 40px;">
@@ -151,7 +157,7 @@ jcc/jjaa121. Epub ahead of print. PMID: 32556102.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
@@ -178,7 +184,7 @@ unsupervised patient stratification.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -213,7 +219,7 @@ regulatory T cells.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
@@ -243,7 +249,7 @@ cells.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -272,7 +278,7 @@ PMC6280317.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -355,7 +361,7 @@ Epub 2017 Apr 20. PMID: 28433688.
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
@@ -384,7 +390,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
-  <span class="tooltiptext">data analysis</span>
+  <span class="tooltiptext">bioinformatics analysis</span>
 </div>
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
