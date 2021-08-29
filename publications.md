@@ -33,6 +33,7 @@ width: 40px; height: 40px;">
 
 <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/jev2.12128" target="_blank">
 <div class="paperlink">
+
 Veerman RE, Teeuwen L, **Czarnewski P**, Güclüler Akpinar G, Sandberg A, Cao X,
 Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
 different isolation methods for extracellular vesicles reveals different
@@ -61,6 +62,7 @@ width: 40px; height: 40px;">
 
 <a href="https://erj.ersjournals.com/content/erj/58/1/2003468.full.pdf" target="_blank">
 <div class="paperlink">
+
 Lepzien R, Liu S, **Czarnewski P**, Nie M, Österberg B, Baharom F, Pourazar J,
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
 A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
@@ -94,6 +96,7 @@ width: 40px; height: 40px;">
 
 <a href="https://reader.elsevier.com/reader/sd/pii/S2211124721006574?token=1AE5ED8DEE63AA47CDC37DCF861B9020FE638FB491932963FEEE6EBD7828DE475DCC32B2C2E4946F6E0AD86E8F008075&originRegion=eu-west-1&originCreation=20210829065850" target="_blank">
 <div class="paperlink">
+
 Mathew NR, Jayanthan JK, Smirnov IV, Robinson JL, Axelsson H, Nakka SS,
 Emmanouilidi A, **Czarnewski P**, Yewdell WT, Schön K, Lebrero-Fernández C,
 Bernasconi V, Rodin W, Harandi AM, Lycke N, Borcherding N, Yewdell JW, Greiff V,
@@ -123,6 +126,7 @@ width: 40px; height: 40px;">
 
 <a href="https://www.nature.com/articles/s41422-020-00445-x.pdf" target="_blank">
 <div class="paperlink">
+
 Mazzurana L, **Czarnewski P**, Jonsson V, Wigge L, Ringnér M, Williams TC,
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
 Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
@@ -161,6 +165,7 @@ width: 40px; height: 40px;">
 
 <a href="https://academic.oup.com/ecco-jcc/article-abstract/14/12/1748/5859161?redirectedFrom=fulltext" target="_blank">
 <div class="paperlink">
+
 Stakenborg M, Verstockt B, Meroni E, Goverse G, De Simone V, Verstockt S, Di
 Matteo M, **Czarnewski P**, Villablanca EJ, Ferrante M, Boeckxstaens GE, Mazzone M,
 Vermeire S, Matteoli G. Neutrophilic HGF-MET signaling exacerbates intestinal
@@ -195,6 +200,7 @@ width: 40px; height: 40px;">
 
 <a href="https://www.nature.com/articles/s41467-019-10769-x.pdf" target="_blank">
 <div class="paperlink">
+
 **Czarnewski P**, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ. Conserved transcriptomic profile between mouse and human colitis allows
 unsupervised patient stratification.  
