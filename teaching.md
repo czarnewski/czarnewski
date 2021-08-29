@@ -120,7 +120,7 @@ Role: *Course Leader, Lecturer*
 </div>
 
 <div id="Exercises" class="tabcontent" style="display: none;">
-  <h3>Tokyo</h3>
+  <h3>Exercises</h3>
 
 
   **[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/)**
