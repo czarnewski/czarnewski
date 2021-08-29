@@ -19,7 +19,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -43,7 +43,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -59,7 +59,7 @@ predict disease outcome.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -72,7 +72,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -89,7 +89,7 @@ influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -97,7 +97,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -115,7 +115,7 @@ May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -128,7 +128,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -148,7 +148,7 @@ jcc/jjaa121. Epub ahead of print. PMID: 32556102.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -156,7 +156,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -177,11 +177,6 @@ unsupervised patient stratification.
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
-  <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
-  <span class="tooltiptext">conceived idea</span>
-</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
-width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
 </div>
@@ -198,7 +193,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -215,7 +210,7 @@ regulatory T cells.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -223,7 +218,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -245,7 +240,7 @@ cells.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -258,7 +253,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -274,7 +269,7 @@ PMC6280317.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -287,7 +282,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -314,7 +309,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -338,7 +333,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -357,7 +352,7 @@ Epub 2017 Apr 20. PMID: 28433688.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -365,7 +360,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -381,12 +376,12 @@ Exosomes Using Multiplex Proximity Extension Assays.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
   <span class="tooltiptext">conceived idea</span>
 </div>
-<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
   <span class="tooltiptext">data analysis</span>
@@ -394,7 +389,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -408,7 +403,7 @@ in Modulating Intestinal Innate Immunity.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
   <span class="tooltiptext">conceived idea</span>
@@ -416,7 +411,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -431,7 +426,7 @@ PMCID: PMC5403831.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
   <span class="tooltiptext">conceived idea</span>
@@ -444,9 +439,11 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
+
+<br/>
 
 ***
 
@@ -470,7 +467,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -492,7 +489,7 @@ PMC4011789.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
-<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+<div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/idea.png">
   <span class="tooltiptext">conceived idea</span>
@@ -505,12 +502,14 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
 
 <br/>
+
+***
 
 ### 2013
 
@@ -532,7 +531,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -555,7 +554,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
@@ -583,7 +582,7 @@ width: 40px; height: 40px;">
 <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
 width: 40px; height: 40px;">
   <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
-  <span class="tooltiptext">supervision</span>
+  <span class="tooltiptext">writing</span>
 </div>
 </div>
 
