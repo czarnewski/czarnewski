@@ -26,7 +26,7 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 
 
 .myRole {
-  background-color: white;
+  /* background-color: white; */
   font-weight: bold;
   padding: 10px 0px;
   border-radius: 10px;
@@ -91,7 +91,11 @@ img.minibutton:hover {
   display: inline-block;
   font-size: 16px;
   margin: 0px;
-  cursor: pointer;
+  cursor: alias;
+}
+
+.paperlink:hover{
+  background-color: #F2F2F2;
 }
 
 
