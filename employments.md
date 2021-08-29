@@ -16,6 +16,8 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 *Human developmental cell atlas (HDCA) is the Swedish effort within the human cell atlas (HCA), one of the largest international scientific projects. The project aim is to create a comprehensive molecular atlas of human prenatal development at the molecular resolution using state-of-the-art technologies such as single-cell RNA-seq, Spatial Transcriptomics, in situ sequencing in order to provide deeper insight into how variations and deviations contribute to health and disease. My role is to organize and foster connections across collaborators and technologies into joint efforts for the creation and divulgation of the atlas. My final aim is to create a comprehensive molecular atlas of human prenatal development at the molecular resolution using state-of-the-art technologies such as single-cell RNA-seq, Spatial Transcriptomics, in situ sequencing in order to provide deeper insight into how variations and deviations contribute to health and disease.*
 
+<br/>
+
 ***
 
 <!-- <img border="0" src="logos/logo_nbis.png" height="40px">
@@ -33,6 +35,8 @@ Stockholm University, Stockholm, Sweden
 
 *NBIS is the SciLifeLab distributed national bioinformatics infrastructure, supporting life sciences in Sweden and is the Swedish node in ELIXIR - the European infrastructure for biological information. NBIS enables world-class life science by providing expert knowledge, creative data integration, advanced training, access to high-performance data and analysis methods. In this role, I offer bioinformatics guidance and services to researchers across Sweden. My current focus involves multi-omics analysis methods in Single Cell field, such as RNA sequencing, TCR repertoir analysis, in situ sequencing (image analysis) and flow cytometry. I am also engaged in advanced data analysis training in Single Cell at the European level through ELIXIR.*
 
+<br/>
+
 ***
 
 <p style="text-align: right"><img border="0" src="logos/logo_ki.jpg" width="60px" height="60px"></p>
@@ -46,6 +50,8 @@ Karolinska Sjukhuset and Karolinska Institutet, Sweden
 
 *Karolinska Institutet (KI) is the biggest medical university in Europe, as well as the biggest center for medical education and research in Sweden. KI aims to improve the development of knowledge about human life and promotes health for all. During my Postdoc, my work was mainly focused in RNA-seq, image and flow cytometry data analysis. I was one of the idealizers and the main leading force in the project that characterized two subgroups of Ulcerative Colitis for the first time, with direct implications in clinical therapy.*
 
+<br/>
+
 ***
 
 <p style="text-align: right"><img border="0" src="logos/logo_uke.png" width="60px" height="60px"></p>
@@ -57,12 +63,12 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
 
 <br/>
 
-*UniversitätsKlinikum Hamburg-Eppendorf (UKE) is one of the largest hospitals in Germany and the home of several innovative research and focus on bringing research to an applied clinical setting. As part of a temporary international collaboration between Karolinska Institutet (KI, Sweden) and UKE, I worked as a bioinformatician on single-cell RNA-seq data analysis to understand the role of Tr1 cells as therapeutic targets for inflammatory bowel diseases (IBD).*
+*Universitäts Klinikum Hamburg-Eppendorf (UKE) is one of the largest hospitals in Germany and the home of several innovative research and focus on bringing research to an applied clinical setting. As part of a temporary international collaboration between Karolinska Institutet (KI, Sweden) and UKE, I worked as a bioinformatician on single-cell RNA-seq data analysis to understand the role of Tr1 cells as therapeutic targets for inflammatory bowel diseases (IBD).*
 
 <br/>
 
 
-<div class="tooltip minibutton">
+<!-- <div class="tooltip minibutton">
 <div style="display:flex; overflow: hidden; width:80px; height: 40px; border: 1px solid blue; border-radius: 10px; ">
   <div style="background: red; width: 40px; height: 40px;">
   <img class="minibutton" src="/czarnewski/logos/publications.png" width="30" height="30">
@@ -70,7 +76,7 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
   <p style="font-size: 14px; margin:0px;padding:10px 4px;">34</p>
 </div>
 <span class="tooltiptext">supervision</span>
-</div>
+</div> -->
 
 <a href="/czarnewski/index.html">
 <button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
