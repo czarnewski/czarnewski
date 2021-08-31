@@ -4,9 +4,9 @@
 
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
-  <button class="tablinks" onclick="openTab(event, 'By year')">Courses</button>
-  <button class="tablinks" onclick="openTab(event, 'By topic')">Lectures</button>
-  <button class="tablinks" onclick="openTab(event, 'By group')">Approach</button>
+  <button class="tablinks" onclick="openTab(event, 'By year')">By year</button>
+  <button class="tablinks" onclick="openTab(event, 'By topic')">By topic</button>
+  <button class="tablinks" onclick="openTab(event, 'By group')">By group</button>
 </div>
 
 <div id="Overview" class="tabcontent active" style="display: block;">
