@@ -3,14 +3,14 @@
 ***
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
-  <button class="tablinks active" onclick="openTab(event, 'Courses')">Courses</button>
+  <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
+  <button class="tablinks" onclick="openTab(event, 'Courses')">Courses</button>
   <button class="tablinks" onclick="openTab(event, 'Lectures')">Lectures</button>
   <button class="tablinks" onclick="openTab(event, 'Approach')">Approach</button>
 </div>
 
-<div id="Courses" class="tabcontent active" style="display: block;">
-  <h3>Courses</h3>
+<div id="Overview" class="tabcontent active" style="display: block;">
+  <h3>Overview</h3>
 
   <br/>
 
@@ -38,7 +38,7 @@
 
 </div>
 
-<div id="Courses" class="tabcontent active" style="display: block;">
+<div id="Courses" class="tabcontent" style="display: none;">
   <h3>Courses</h3>
 
   ### 2021
