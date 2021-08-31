@@ -2,38 +2,41 @@
 
 ***
 
-<br/>
-
-Over the last 3 years, I have been involved in designing and creating material for many high-level RNA-seq and single-cell omics courses. All these courses are offered to PhD students Postdocs and high-level researchers in Sweden (NBIS), Finland (CSC) and Switzerland (SIB) via ELIXIR network, either as course leader, as scientific committee member and/or as lecturer. All courses are open source (links below) and also include recorded videos (i.e. Dimensionality Reduction, Trajectory inference lectures). All courses were composed of lectures and detailed hands-on exercise materials (both in R and python). Of relevance, I also implemented two unique courses using Project-Based Learning (PBL) methodology for single-cell RNA-seq data analysis.
-
-<br/>
-
-Teaching summary:
-
-- **Course level:** Postdocs and PhD students
-- **Total number of students taught:** 217
-- **Average students per course:** 25
-- **Number of course website created/designed:** 4
-- **Number of unique lectures ministered:** 11
-- **Number of coding exercises contributed:** 52
-
-<br/>
-
-Feedback from students:
-
-- **Average course quality:** 96% (score 4.8 out of 5.0)
-- **Average lecture quality:** 98% (score 4.9 out of 5.0)
-
-<br/>
-
-<br/>
-
 <div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Overview')">Overview</button>
   <button class="tablinks active" onclick="openTab(event, 'Courses')">Courses</button>
   <button class="tablinks" onclick="openTab(event, 'Lectures')">Lectures</button>
   <button class="tablinks" onclick="openTab(event, 'Approach')">Approach</button>
 </div>
 
+<div id="Courses" class="tabcontent active" style="display: block;">
+  <h3>Courses</h3>
+
+  <br/>
+
+  Over the last 3 years, I have been involved in designing and creating material for many high-level RNA-seq and single-cell omics courses. All these courses are offered to PhD students Postdocs and high-level researchers in Sweden (NBIS), Finland (CSC) and Switzerland (SIB) via ELIXIR network, either as course leader, as scientific committee member and/or as lecturer. All courses are open source (links below) and also include recorded videos (i.e. Dimensionality Reduction, Trajectory inference lectures). All courses were composed of lectures and detailed hands-on exercise materials (both in R and python). Of relevance, I also implemented two unique courses using Project-Based Learning (PBL) methodology for single-cell RNA-seq data analysis.
+
+  <br/>
+
+  Teaching summary:
+
+  - **Course level:** Postdocs and PhD students
+  - **Total number of students taught:** 217
+  - **Average students per course:** 25
+  - **Number of course website created/designed:** 4
+  - **Number of unique lectures ministered:** 11
+  - **Number of coding exercises contributed:** 52
+
+  <br/>
+
+  Feedback from students:
+
+  - **Average course quality:** 96% (score 4.8 out of 5.0)
+  - **Average lecture quality:** 98% (score 4.9 out of 5.0)
+
+  <br/>
+
+</div>
 
 <div id="Courses" class="tabcontent active" style="display: block;">
   <h3>Courses</h3>
@@ -108,13 +111,13 @@ Feedback from students:
   **Online video lectures**
 
   NBIS scRNAseq data analysis: Dimensionality reduction (DR)  
-  https://www.youtube.com/watch?v=qcLJ_JO6bn8&list=PLjiXAZO27elC_xnk7gVNM85I2IQl5BEJN&index=7  
+  [PDF](https://www.youtube.com/watch?v=qcLJ_JO6bn8&list=PLjiXAZO27elC_xnk7gVNM85I2IQl5BEJN&index=7)  
   Contents: introduction to DR, types of DR, linear DR using principal component analysis (PCA), introduction to graphs and graph-based DR, t-distributed stochastic Neighbourhood Embedding (tSNE), uniform manifold approximation and projection (UMAP).
 
   <br/>
 
   NBIS scRNAseq data analysis: Trajectory inference analysis (TI)    
-  https://www.youtube.com/watch?v=XmHDexCtjyw&list=PLjiXAZO27elC_xnk7gVNM85I2IQl5BEJN&index=11  
+  [PDF](https://www.youtube.com/watch?v=XmHDexCtjyw&list=PLjiXAZO27elC_xnk7gVNM85I2IQl5BEJN&index=11)  
   Contents: introduction to TI, overview of TI methods, independent component analysis (ICA), diffusion maps (DM), minimum spanning tree (MST), principal trees and graph abstraction, RNA velocity, differential gene expression for TI.
 
   <br/>
@@ -122,67 +125,67 @@ Feedback from students:
   **Online lectures in pdf**
 
   NBIS scRNAseq data analysis: Dimensionality reduction (DR)  
-  https://nbisweden.github.io/workshop-scRNAseq/lectures/dimensionality_reduction_paulo_czarnewski_2021.pdf  
+  [PDF](https://nbisweden.github.io/workshop-scRNAseq/lectures/dimensionality_reduction_paulo_czarnewski_2021.pdf)  
   Contents: introduction to DR, types of DR, linear DR using principal component analysis (PCA), introduction to graphs and graph-based DR, t-distributed stochastic Neighbourhood Embedding (tSNE), uniform manifold approximation and projection (UMAP).
 
   <br/>
 
   NBIS scRNAseq data analysis: Data integration and batch correction  
-  https://nbisweden.github.io/workshop-scRNAseq/lectures/data_integration_paulo_czarnewski_2021.pdf  
+  [PDF](https://nbisweden.github.io/workshop-scRNAseq/lectures/data_integration_paulo_czarnewski_2021.pdf)  
   Contents: introduction to data integration, types of integration, method overview for data integration, linear batch correction, graph-based batch correction, batch correction performance comparison, batch correction performance assessment
 
   <br/>
 
   NBIS scRNAseq data analysis: Gene Set Analysis (GSA)  
-  https://nbisweden.github.io/workshop-scRNAseq/lectures/gene_set_analysis_paulo_czarnewski_2021.pdf  
+  [PDF](https://nbisweden.github.io/workshop-scRNAseq/lectures/gene_set_analysis_paulo_czarnewski_2021.pdf)  
   Contents: introduction to GSA, introduction to gene sets and databases, overrepresentation analysis, gene set enrichment analysis, technical consideration for GSA.
 
   <br/>
 
   NBIS scRNAseq data analysis: Trajectory inference analysis (TI)  
-  https://nbisweden.github.io/workshop-scRNAseq/lectures/trajectory_inference_analysis_paulo_czarnewski_2021.pdf  
+  [PDF](https://nbisweden.github.io/workshop-scRNAseq/lectures/trajectory_inference_analysis_paulo_czarnewski_2021.pdf)  
   Contents: introduction to TI, overview of TI methods, independent component analysis (ICA), diffusion maps (DM), minimum spanning tree (MST), principal trees and graph abstraction, RNA velocity, differential gene expression for TI.
 
   <br/>
 
   NBIS RNAseq data analysis: Principal Component Analysis (PCA)  
-  https://nbisweden.github.io/workshop-RNAseq/2011/slide_pca.pdf  
+  [PDF](https://nbisweden.github.io/workshop-RNAseq/2011/slide_pca.pdf)  
   Contents: introduction to DR, types of DR, linear DR using principal component analysis (PCA), visual intuition on PCA.
 
   <br/>
 
   NBIS RNAseq data analysis: Clustering Analysis  
-  https://nbisweden.github.io/workshop-RNAseq/2011/slide_clustering.pdf  
+  [PDF](https://nbisweden.github.io/workshop-RNAseq/2011/slide_clustering.pdf)  
   Contents: introduction to clustering, distance measurements, K-means clustering, introduction to hierarchical clustering, clustering linkage measures, clustering robusteness.
 
   <br/>
 
   NBIS RNAseq data analysis: Advanced differential gene expression (DGE, part 2)  
-  https://nbisweden.github.io/workshop-RNAseq/2011/slide_dge_advanced.pdf  
+  [PDF](https://nbisweden.github.io/workshop-RNAseq/2011/slide_dge_advanced.pdf)  
   Contents: Introduction to general linear models (GLM), Poisson vs negative binomial distribution, how to use GLMs in complex interaction between experimental covariates and gene expression (categorial variables, continuous variables, variable intercepts and interaction terms)
 
   <br/>
 
   NBIS RNAseq data analysis: Online Repositories  
-  https://nbisweden.github.io/workshop-RNAseq/2011/slide_repositories.pdf  
+  [PDF](https://nbisweden.github.io/workshop-RNAseq/2011/slide_repositories.pdf)  
   Contents: Introduction to online repositories, ENSEMBL, GEO, SRA, ENA, EGA, referencing public datasets, depositing sequencing data into public repositories.
 
   <br/>
 
   NBIS RNAseq data analysis: Reading Bioinformatics  
-  https://nbisweden.github.io/workshop-RNAseq/2011/slide_reading_bioinformatics.pdf  
+  [PDF](https://nbisweden.github.io/workshop-RNAseq/2011/slide_reading_bioinformatics.pdf)  
   Contents: Step-by-step reading of an article containing all the topics learned during the course in RNA-seq data analysis (PCA, DGE, GSA, clustering, visualization, data deposition, etc).
 
   <br/>
 
   SIB RNA summer school: Introduction to Single cell data analysis (PBL)  
-  https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf  
+  [PDF](https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf)  
   Contents: introduction to single cell data analysis, introduction to project-based learning (PBL), single cell analysis workflow, single cell sequencing technologies, pre-processing, quality control, dimensionality reduction, data integration, graph construction, clustering, differential expression, trajectory inference.
 
   <br/>
 
   SIB-NBIS school: Introduction to advanced Single cell data analysis (PBL)  
-  https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf  
+  [PDF](https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf)  
   Contents: introduction to single cell data analysis, introduction to project-based learning (PBL), single cell analysis workflow, RNA velocity, multi-omics integration, deep learning spatial transcriptomics.
 
 
@@ -216,11 +219,6 @@ Feedback from students:
 
 
 </div>
-
-
-
-
-
 
 
 
