@@ -148,8 +148,8 @@ img.minibutton:hover {
 }
 
 .myContent2 {
-  width: calc(100% - 30px);
-  padding: 40px 30px;
+  width: calc(100% - 40px);
+  padding: 40px 20px;
   background-color: white;
   min-height:800px;
 }

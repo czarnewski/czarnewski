@@ -33,7 +33,7 @@
 
 
 
-<div id="By year" class="tabcontent active" style="display: block;">
+<div id="By year" class="tabcontent active" style="display: none;">
   <h3>By year</h3>
 
   ## 2021
@@ -716,6 +716,26 @@
   </a>
 
 </div>
+
+
+
+<div id="By topic" class="tabcontent active" style="display: none;">
+  <h3>By topic</h3>
+
+  <br/>
+
+</div>
+
+
+
+<div id="By group" class="tabcontent active" style="display: none;">
+  <h3>By group</h3>
+
+  <br/>
+
+</div>
+
+
 
 
 <br/>
