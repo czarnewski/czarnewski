@@ -109,6 +109,8 @@
   <h3>Lectures</h3>
 
   **Course: Single-cell RNA-seq data analysis (NBIS)**
+  
+  <br/>
 
   [Dimensionality reduction (DR)](https://nbisweden.github.io/workshop-scRNAseq/lectures/dimensionality_reduction_paulo_czarnewski_2021.pdf)  
   Contents: introduction to DR, types of DR, linear DR using principal component analysis (PCA), introduction to graphs and graph-based DR, t-distributed stochastic Neighbourhood Embedding (tSNE), uniform manifold approximation and projection (UMAP).  
@@ -135,6 +137,8 @@
   ***
 
   **Course: Bulk RNA-seq data analysis (NBIS)**
+
+  <br/>
 
   [Principal Component Analysis (PCA)](https://nbisweden.github.io/workshop-RNAseq/2011/slide_pca.pdf)  
   Contents: introduction to DR, types of DR, linear DR using principal component analysis (PCA), visual intuition on PCA.
@@ -165,8 +169,9 @@
 
   **Course: SIB RNA summer school (PBL)**
 
-  [Introduction to Single cell data analysis ]  
-  [PDF](https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf)  
+  <br/>
+
+  [Introduction to Single cell data analysis ](https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf)  
   Contents: introduction to single cell data analysis, introduction to project-based learning (PBL), single cell analysis workflow, single cell sequencing technologies, pre-processing, quality control, dimensionality reduction, data integration, graph construction, clustering, differential expression, trajectory inference.
 
   <br/>
