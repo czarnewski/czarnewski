@@ -232,9 +232,6 @@ justify-content: center; float: left; width: 100px; min-height: 40px;">
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
-<a href="https://www.nature.com/articles/s41422-020-00445-x.pdf" target="_blank">
-<div class="paperlink">
-
 Mazzurana L, <aa>Czarnewski P</aa>, Jonsson V, Wigge L, Ringnér M, Williams TC,
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
 Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
@@ -279,8 +276,14 @@ width: 40px; height: 40px; float: right;">
 
 ## 2020
 
-<a href="https://academic.oup.com/ecco-jcc/article-abstract/14/12/1748/5859161?redirectedFrom=fulltext" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jcc.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Stakenborg M, Verstockt B, Meroni E, Goverse G, De Simone V, Verstockt S, Di
 Matteo M, <aa>Czarnewski P</aa>, Villablanca EJ, Ferrante M, Boeckxstaens GE, Mazzone M,
@@ -302,18 +305,33 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://academic.oup.com/ecco-jcc/article-abstract/14/12/1748/5859161?redirectedFrom=fulltext" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
+
 
 ***
 
 ## 2019
 
-<a href="https://www.nature.com/articles/s41467-019-10769-x.pdf" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nat_com.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ. Conserved transcriptomic profile between mouse and human colitis allows
@@ -344,14 +362,28 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.nature.com/articles/s41467-019-10769-x.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
-<a href="https://reader.elsevier.com/reader/sd/pii/S0896841118304384?token=488DD1EF2D661A5725593B63D7D669405A372FC375AB7F77861A77D78B947BF698148647D830C5721278F61A48E80A07&originRegion=eu-west-1&originCreation=20210829072014" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jcc.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Seitz C, Liu S, Klocke K, Joly AL, <aa>Czarnewski P</aa>V, Tibbitt CA, Parigi SM,
 Westerberg LS, Coquet JM, Villablanca EJ, Wing K, Andersson J. Multi-faceted
@@ -373,9 +405,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://reader.elsevier.com/reader/sd/pii/S0896841118304384?token=488DD1EF2D661A5725593B63D7D669405A372FC375AB7F77861A77D78B947BF698148647D830C5721278F61A48E80A07&originRegion=eu-west-1&originCreation=20210829072014" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
@@ -383,8 +423,14 @@ width: 40px; height: 40px;">
 
 ## 2018
 
-<a href="https://reader.elsevier.com/reader/sd/pii/S0896841118304384?token=488DD1EF2D661A5725593B63D7D669405A372FC375AB7F77861A77D78B947BF698148647D830C5721278F61A48E80A07&originRegion=eu-west-1&originCreation=20210829072014" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nat_com.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Brockmann L, Soukou S, Steglich B, <aa>Czarnewski P</aa>, Zhao L, Wende S, Bedke T,
 Ergen C, Manthey C, Agalioti T, Geffken M, Seiz O, Parigi SM, Sorini C, Geginat
@@ -413,9 +459,19 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.nature.com/articles/s41467-018-07581-4.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
+
+<br/>
 
 <br/>
 
