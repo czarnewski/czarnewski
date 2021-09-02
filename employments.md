@@ -98,6 +98,8 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
 
 </div>
 
+<br/>
+
 <a href="/czarnewski/index.html">
 <button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
 </a>
