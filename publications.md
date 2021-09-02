@@ -5,36 +5,39 @@
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
   <button class="tablinks" onclick="openTab(event, 'By year')">By year</button>
-  <button class="tablinks" onclick="openTab(event, 'By topic')">By topic</button>
-  <button class="tablinks" onclick="openTab(event, 'By group')">By group</button>
+  <!-- <button class="tablinks" onclick="openTab(event, 'By topic')">By topic</button>
+  <button class="tablinks" onclick="openTab(event, 'By group')">By group</button> -->
 </div>
 
 <div id="Overview" class="tabcontent active" style="display: block;">
-  <h3>Overview</h3>
+
 
   **Publication metrics:**
 
   - h-index: 12
-  - citations: 444
+  - i10-index: 14
+  - citations: 480
   - impact factor average: 11 ± 8
 
   <br/>
 
   **Citations per year:**
 
-  - 2021: 133 citations
-  - 2020: 106 citations
-  - 2019: 100 citations
-  - 2018: 64  citations
+  - 2021: 140 citations
+  - 2020: 110 citations
+  - 2019: 103 citations
+  - 2018: 68  citations
+  - 2017: 26 citations
+  - 2016: 8 citations
+  - 2015: 7 citations
+  - 2014: 10 citations
 
-  <br/>
 
 </div>
 
 
 
 <div id="By year" class="tabcontent active" style="display: none;">
-  <h3>By year</h3>
 
   ## 2021
 
@@ -720,7 +723,6 @@
 
 
 <div id="By topic" class="tabcontent active" style="display: none;">
-  <h3>By topic</h3>
 
   <br/>
 
@@ -729,7 +731,6 @@
 
 
 <div id="By group" class="tabcontent active" style="display: none;">
-  <h3>By group</h3>
 
   <br/>
 

@@ -10,7 +10,6 @@
 </div>
 
 <div id="Overview" class="tabcontent active" style="display: block;">
-  <h3>Overview</h3>
 
   <br/>
 
@@ -39,7 +38,6 @@
 </div>
 
 <div id="Courses" class="tabcontent" style="display: none;">
-  <h3>Courses</h3>
 
   ### 2021
 
@@ -106,10 +104,9 @@
 </div>
 
 <div id="Lectures" class="tabcontent" style="display: none;">
-  <h3>Lectures</h3>
 
   **Course: Single-cell RNA-seq data analysis (NBIS)**
-  
+
   <br/>
 
   [Dimensionality reduction (DR)](https://nbisweden.github.io/workshop-scRNAseq/lectures/dimensionality_reduction_paulo_czarnewski_2021.pdf)  
@@ -184,7 +181,6 @@
 </div>
 
 <div id="Approach" class="tabcontent" style="display: none;">
-  <h3>Approach</h3>
 
   When preparing a course, I am using the constructive alignment approach. I begin by defining learning outcomes which are clear as well as measurable end-results the student should achieve after completing the course. For example, I like to think of learning outcomes as classes of certain problems the student should be able to tackle when the course is finished.
 

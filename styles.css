@@ -251,8 +251,7 @@ img.minibutton:hover {
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
-  margin: 2px solid #ccc;
+  background-color: white;
 }
 
 /* Style the tab content */

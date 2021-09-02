@@ -9,7 +9,6 @@
 </div>
 
 <div id="Current" class="tabcontent active" style="display: block;">
-  <h3>Current</h3>
 
   <br/>
 
@@ -53,7 +52,6 @@ Stockholm University, Stockholm, Sweden
 
 
 <div id="Past" class="tabcontent active" style="display: none;">
-  <h3>Past</h3>
 
   <br/>
 
