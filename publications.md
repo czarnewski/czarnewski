@@ -62,7 +62,7 @@
 
   <a href="https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R" target="_blank">
   <div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
-  width: 40px; height: 40px;float: right;">
+  width: 40px; height: 40px; float: right;">
     <img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
     <span class="tooltiptext">see PDF</span>
   </div>
