@@ -93,7 +93,7 @@
   </div>
   <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
   width: 40px; height: 40px;">
-    <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+    <img class="minibutton" src="/czarnewski/logos/writing.png">
     <span class="tooltiptext">writing</span>
   </div>
   </div>
