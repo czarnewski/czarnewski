@@ -73,32 +73,45 @@
 
   <br/>
 
-  <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/jev2.12128" target="_blank">
-  <div class="paperlink">
+  <div style="display: flex;">
+    <div style="display: flex; align-items: center;
+    justify-content: center; float: left; width: 100px; min-height: 40px;">
+      <img src="../logos/journal_logos/isev.png" width="90px">
+    </div>
+    <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;" >
+    Veerman RE, Teeuwen L, <aa>Czarnewski P</aa>, Güclüler Akpinar G, Sandberg A, Cao X,
+    Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
+    different isolation methods for extracellular vesicles reveals different
+    clinical applicability and subcellular origin.  
+    **J Extracell Vesicles**. 2021
+    Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
+    PMCID: PMC8298890.
 
-  Veerman RE, Teeuwen L, <aa>Czarnewski P</aa>, Güclüler Akpinar G, Sandberg A, Cao X,
-  Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
-  different isolation methods for extracellular vesicles reveals different
-  clinical applicability and subcellular origin.  
-  **J Extracell Vesicles**. 2021
-  Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
-  PMCID: PMC8298890.
+    <div style="display:flex; width:auto; height: 42px;">
+    <div class="myRole">My role:</div>
+    <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+    width: 40px; height: 40px;">
+      <img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
+      <span class="tooltiptext">supervision</span>
+    </div>
+    <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+    width: 40px; height: 40px;">
+      <img class="minibutton" src="/czarnewski/logos/writing.png">
+      <span class="tooltiptext">writing</span>
+    </div>
+    <a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/jev2.12128" target="_blank">
+    <div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+    width: 40px; height: 40px; float: right;">
+      <img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+      <span class="tooltiptext">see PDF</span>
+    </div>
+    </a>
+    </div>
+    </div>
+  </div>
 
-  <div style="display:flex; width:auto; height: 42px;">
-  <div class="myRole">My role:</div>
-  <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
-  width: 40px; height: 40px;">
-    <img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
-    <span class="tooltiptext">supervision</span>
-  </div>
-  <div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
-  width: 40px; height: 40px;">
-    <img class="minibutton" src="/czarnewski/logos/writing.png">
-    <span class="tooltiptext">writing</span>
-  </div>
-  </div>
-  </div>
-  </a>
+
+
 
   <br/>
 
