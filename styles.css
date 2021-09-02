@@ -21,7 +21,7 @@ div { font-size: 14px; color: Black; line-height: normal;  }
 pre { /* Code block - determines code spacing between lines */ font-size: 14px; }
 
 .zoom:hover{
-  transform: scale(1.05)
+  transform: scale(1.05);
   transform-origin: 0% 0;
 }
 
