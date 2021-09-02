@@ -263,3 +263,18 @@ img.minibutton:hover {
   border: 1px solid #ccc;
   /* border-top: none; */
 }
+
+
+aa {
+  border-radius: 10px;
+  background: #ccc;
+  padding: 0px 3px;
+  font-weight: bold;
+}
+jj {
+  border-radius: 5px;
+  background: #ccc;
+  color: blue;
+  font-weight: bold;
+  padding: 0px 3px;
+}
