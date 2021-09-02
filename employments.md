@@ -2,6 +2,18 @@
 
 ***
 
+
+<div class="tab">
+  <button class="tablinks active" onclick="openTab(event, 'Current')">Current</button>
+  <button class="tablinks" onclick="openTab(event, 'Past')">Past</button>
+</div>
+
+<div id="Current" class="tabcontent active" style="display: block;">
+  <h3>Current</h3>
+
+  <br/>
+
+
 <!-- <img border="0" src="logos/logo_hdca.png" height="40px">
 <img border="0" src="logos/logo_scilifelab.png" height="40px"> -->
 <p style="text-align: right"><img border="0" src="logos/logo_kth.png" width="60px" height="70px"></p>
@@ -37,7 +49,13 @@ Stockholm University, Stockholm, Sweden
 
 <br/>
 
-***
+</div>
+
+
+<div id="Past" class="tabcontent active" style="display: none;">
+  <h3>Past</h3>
+
+  <br/>
 
 <p style="text-align: right"><img border="0" src="logos/logo_ki.jpg" width="60px" height="60px"></p>
 
@@ -77,6 +95,8 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
 </div>
 <span class="tooltiptext">supervision</span>
 </div> -->
+
+</div>
 
 <a href="/czarnewski/index.html">
 <button class="button zoom myHighlight">⬅︎ &nbsp; Back to main</button>
