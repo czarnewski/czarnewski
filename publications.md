@@ -130,14 +130,20 @@ width: 40px; height: 40px; float: right;">
 
 <br/>
 
-<a href="https://erj.ersjournals.com/content/erj/58/1/2003468.full.pdf" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/erj.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Lepzien R, Liu S, <aa>Czarnewski P</aa>, Nie M, Österberg B, Baharom F, Pourazar J,
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
 A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
 predict disease outcome.  
-*Eur Respir J*. 2021 Jul 22;58(1):2003468. doi:
+<jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. doi:
 10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
 
 
@@ -158,14 +164,29 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://erj.ersjournals.com/content/erj/58/1/2003468.full.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
-<a href="https://reader.elsevier.com/reader/sd/pii/S2211124721006574?token=1AE5ED8DEE63AA47CDC37DCF861B9020FE638FB491932963FEEE6EBD7828DE475DCC32B2C2E4946F6E0AD86E8F008075&originRegion=eu-west-1&originCreation=20210829065850" target="_blank">
-<div class="paperlink">
+
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/erj.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Mathew NR, Jayanthan JK, Smirnov IV, Robinson JL, Axelsson H, Nakka SS,
 Emmanouilidi A, <aa>Czarnewski P</aa>, Yewdell WT, Schön K, Lebrero-Fernández C,
@@ -188,11 +209,28 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://reader.elsevier.com/reader/sd/pii/S2211124721006574?token=1AE5ED8DEE63AA47CDC37DCF861B9020FE638FB491932963FEEE6EBD7828DE475DCC32B2C2E4946F6E0AD86E8F008075&originRegion=eu-west-1&originCreation=20210829065850" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
+
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <a href="https://www.nature.com/articles/s41422-020-00445-x.pdf" target="_blank">
 <div class="paperlink">
@@ -223,9 +261,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.nature.com/articles/s41422-020-00445-x.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
