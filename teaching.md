@@ -88,47 +88,140 @@
 
   ### 2020
 
+
+  <div style="display: flex;">
+  <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
   **[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/2011/)**   
   Online, 25 students, 5 days, 40h  
   NBIS, Stockholm, Sweden  
   Role: *Course Leader, Lecturer*
 
+  </div>
+
+  <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  </div>
+  </div>
+
   <br/>
+
+  <div style="display: flex;">
+  <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
   **[RNA Summer School (single-cell)](https://sib-swiss.github.io/SchoolRNA2020/)**  
   Presential and Online, 32 students, 5 days, 40h  
   SIB, Schwarzenberg, Switzerland  
   Role: *Course Leader, Lecturer*
 
+  </div>
+
+  <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+  <img src="/czarnewski/logos/logo_sib.png" height="70px">
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  </div>
+  </div>
+
+
+
   <br/>
+
+
+  <div style="display: flex;">
+  <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
   **[Single-cell RNA-seq data analysis](https://nbisweden.github.io/workshop-scRNAseq/)**  
   Presential, 24 students, 4 days, 32h  
   NBIS, Stockholm, Sweden  
   Role: *Course Leader, Lecturer*
 
+  </div>
+
+  <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  </div>
+  </div>
+
+
+
+
   <br/>
 
   ### 2019
 
-  **[NBIS-SIB Single Cell School](https://nbisweden.github.io/single-cell_sib_scilifelab/)**  
-  Presential, 30 students, 5 days, 40h  
-  NBIS and SIB, Leysin, Switzerland  
-  Role: *Lecturer*
+
+
+    <div style="display: flex;">
+    <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
+    **[Single-cell RNA-seq data analysis](https://nbisweden.github.io/workshop-scRNAseq/)**  
+    Presential, 24 students, 4 days, 32h  
+    NBIS, Stockholm, Sweden  
+    Role: *Course Leader, Lecturer*
+
+    </div>
+
+    <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+    <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+    </div>
+    </div>
+
+
+      <br/>
+
+    <div style="display: flex;">
+    <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
+    **[NBIS-SIB Single Cell School](https://nbisweden.github.io/single-cell_sib_scilifelab/)**  
+    Presential, 30 students, 5 days, 40h  
+    NBIS and SIB, Leysin, Switzerland  
+    Role: *Lecturer*
+
+    </div>
+
+    <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+    <img src="/czarnewski/logos/logo_sib.png" height="70px">
+    <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+    </div>
+    </div>
+
+
 
   <br/>
+
+  <div style="display: flex;">
+  <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
   **[ELIXIR single-cell RNA-seq data analysis with R](https://www.csc.fi/fi/web/training/-/scrnaseq)**  
   Presential, 32 students, 4 days, 32h  
   CSC, Helsinki, Finland  
   Role: *Lecturer*
 
+  </div>
+
+  <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+  <img src="/czarnewski/logos/logo_csc.png" height="70px">
+  <img src="/czarnewski/logos/logo_elixir.png" height="70px">
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  </div>
+  </div>
+
   <br/>
+
+  <div style="display: flex;">
+  <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
   **[RNA-seq data analysis](https://nbisweden.github.io/workshop-RNAseq/)**
   Presential, 20 students, 4 days, 32h  
   NBIS, Uppsala, Sweden  
   Role: *Course Leader, Lecturer*
+
+  </div>
+
+  <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  </div>
+  </div>
 
 
 </div>
