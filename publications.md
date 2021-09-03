@@ -12,7 +12,7 @@
 <div id="Overview" class="tabcontent active" style="display: block;">
 
 
-<>h3Publication metrics:</h3>
+<h3>Publication metrics:</h3>
 
 - h-index: 12
 - i10-index: 14
@@ -21,7 +21,7 @@
 
 <br/>
 
-<>h3Citations per year:</h3>
+<h3>Citations per year:</h3>
 
 - 2021: 140 citations
 - 2020: 110 citations
