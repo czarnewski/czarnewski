@@ -85,7 +85,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="align-items: top; text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 </div>
@@ -131,7 +131,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="align-items: top; text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
 </div>
 </div>
@@ -180,7 +180,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
 </div>
 </div>
@@ -227,7 +227,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
 </div>
 </div>
@@ -319,7 +319,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
 </div>
 </div>
@@ -367,7 +367,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
 </div>
 </div>
@@ -411,7 +411,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/cell_reports.png" width="90px">
 </div>
 </div>
@@ -458,7 +458,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
 </div>
 </div>
@@ -503,7 +503,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/jcc.png" width="90px">
 </div>
 </div>
@@ -558,7 +558,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 </div>
@@ -599,7 +599,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/j_autoimmunity.jpg" width="90px">
 </div>
 </div>
@@ -651,7 +651,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 </div>
@@ -698,7 +698,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/jes.jpg" width="90px">
 </div>
 </div>
@@ -741,7 +741,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/immunity.jpg" width="90px">
 </div>
 </div>
@@ -782,7 +782,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/sci_rep.png" width="90px">
 </div>
 </div>
@@ -826,7 +826,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/jaci.jpg" width="90px">
 </div>
 
@@ -873,7 +873,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/mcp.png" width="90px">
 </div>
 </div>
@@ -912,7 +912,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/nutrients.png" width="90px">
 </div>
 </div>
@@ -957,7 +957,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/frontiers.png" width="90px">
 </div>
 </div>
@@ -1001,7 +1001,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/jhc.jpeg" width="90px">
 </div>
 
@@ -1055,7 +1055,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
 </div>
 </div>
@@ -1100,7 +1100,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/vet_res.png" width="90px">
 </div>
 </div>
@@ -1140,7 +1140,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
 </div>
 </div>
@@ -1186,7 +1186,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 <div style="align-items: top;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+text-align: right; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/ijp.png" width="90px">
 </div>
 </div>
