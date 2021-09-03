@@ -33,7 +33,7 @@ Stockholm University (SU), Stockholm, Sweden
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/logo_nbis.png" height="70px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
+<!-- <img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px"> -->
 <img src="/czarnewski/logos/logo_elixir.png" height="70px">
 <img src="/czarnewski/logos/logo_su.png" height="70px">
 </div>

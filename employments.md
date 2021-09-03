@@ -26,7 +26,8 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/logo_hdca2.png" height="70px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
+<!-- <img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px"> -->
+<img src="/czarnewski/logos/logo_elixir.png" height="70px">
 <img src="/czarnewski/logos/logo_kth.png" height="70px">
 </div>
 </div>
