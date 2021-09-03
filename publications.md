@@ -14,8 +14,6 @@
 
 **Publication metrics:**
 
-<br/>
-
 - h-index: 12
 - i10-index: 14
 - citations: 480
@@ -24,8 +22,6 @@
 <br/>
 
 **Citations per year:**
-
-<br/>
 
 - 2021: 140 citations
 - 2020: 110 citations
@@ -40,8 +36,6 @@
 <br/>
 
 **Highlights:**
-
-<br/>
 
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">

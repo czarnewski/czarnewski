@@ -2,8 +2,6 @@
 
 ***
 
-<br/>
-
 <img border="0" src="/czarnewski/logos/career_chart.png" style="vertical-align:middle;">
 
 <br/>
