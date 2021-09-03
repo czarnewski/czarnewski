@@ -568,12 +568,6 @@ justify-content: center; float: left; width: 100px; min-height: 40px;">
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/j_autoimmunity.jpg" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Seitz C, Liu S, Klocke K, Joly AL, <aa>Czarnewski P</aa>V, Tibbitt CA, Parigi SM,
@@ -606,6 +600,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/j_autoimmunity.jpg" width="90px">
+</div>
 </div>
 
 <br/>
@@ -615,12 +613,6 @@ width: 40px; height: 40px; float: right;">
 ## 2018
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Brockmann L, Soukou S, Steglich B, <aa>Czarnewski P</aa>, Zhao L, Wende S, Bedke T,
@@ -660,18 +652,16 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
+</div>
 </div>
 
 <br/>
 
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/jes.jpg" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Lindheim L, Manti M, Fornes R, Bashir M, <aa>Czarnewski P</aa>, Diaz OE, Seifert M,
@@ -709,17 +699,15 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jes.jpg" width="90px">
+</div>
 </div>
 
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/immunity.jpg" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Emgård J, Kammoun H, García-Cassani B, Chesné J, Parigi SM, Jacob JM, Cheng
@@ -754,17 +742,15 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/immunity.jpg" width="90px">
+</div>
 </div>
 
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/sci_rep.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Parigi SM, <aa>Czarnewski P</aa>, Das S, Steeg C, Brockmann L, Fernandez-Gaitero S,
@@ -797,6 +783,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/sci_rep.png" width="90px">
+</div>
 </div>
 
 <br/>
@@ -806,12 +796,6 @@ width: 40px; height: 40px; float: right;">
 ## 2017
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/jaci.jpg" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Konya V, <aa>Czarnewski P</aa>, Forkel M, Rao A, Kokkinou E, Villablanca EJ, Almer S,
@@ -843,17 +827,16 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jaci.jpg" width="90px">
+</div>
+
 </div>
 
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/mcp.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Larssen P, Wik L, <aa>Czarnewski P</aa>, Eldh M, Löf L, Ronquist KG, Dubois L,
@@ -890,17 +873,16 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/mcp.png" width="90px">
+</div>
 </div>
 
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/nutrients.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Das S, Parigi SM, Villablanca EJ. Retinoic Acid and Its Role
@@ -931,18 +913,16 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nutrients.png" width="90px">
+</div>
 </div>
 
 <br/>
 
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/frontiers.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Araújo ECB, Oliveira MC, Mineo TWP, Silva NM. Recombinant
@@ -978,6 +958,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/frontiers.png" width="90px">
+</div>
 </div>
 
 <br/>
@@ -987,12 +971,6 @@ width: 40px; height: 40px; float: right;">
 ## 2016
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/jhc.jpeg" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Briceño MP, Nascimento LA, Nogueira NP, <aa>Barenco PV</aa>, Ferro EA, Rezende-
@@ -1023,6 +1001,12 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jhc.jpeg" width="90px">
+</div>
+
 </div>
 
 <br/>
@@ -1033,11 +1017,6 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: flex;">
 
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 
@@ -1046,7 +1025,7 @@ Silva DA, Araújo EC, Coutinho LB, Oliveira MC, Mineo TW, Mineo JR, Silva NM.
 Toxoplasma gondii 70 kDa heat shock protein: systemic detection is associated
 with the death of the parasites by the immune response and its increased
 expression in the brain is associated with parasite replication.  
-*PLoS One*. 2014 May 6;9(5):e96527. doi: 10.1371/journal.pone.0096527. PMID: 24801069; PMCID:
+<jj>PLoS One</jj>. 2014 May 6;9(5):e96527. doi: 10.1371/journal.pone.0096527. PMID: 24801069; PMCID:
 PMC4011789.
 
 
@@ -1077,6 +1056,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
+</div>
 </div>
 
 <br/>
@@ -1086,12 +1069,6 @@ width: 40px; height: 40px; float: right;">
 ## 2013
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/vet_res.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Araujo EC, Barbosa BF, Coutinho LB, <aa>Barenco PV</aa>, Sousa LA, Milanezi CM, Bonfá
@@ -1124,17 +1101,15 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/vet_res.png" width="90px">
+</div>
 </div>
 
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Benevides L, Cardoso CR, Milanezi CM, Castro-Filice LS, <aa>Barenco PV</aa>, Sousa RO,
@@ -1166,6 +1141,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
+</div>
 </div>
 
 <br/>
@@ -1175,12 +1154,6 @@ width: 40px; height: 40px; float: right;">
 ## 2012
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/ijp.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 
@@ -1213,6 +1186,10 @@ width: 40px; height: 40px; float: right;">
 </a>
 </div>
 
+</div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/ijp.png" width="90px">
 </div>
 </div>
 
