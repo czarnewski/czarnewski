@@ -5,7 +5,7 @@
 
 
 <div style="display: flex;">
-<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 <aa>Scientific Coordinator</aa>  
 Human Developmental Cell Atlas (HDCA)  
@@ -26,7 +26,7 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 
 <div style="display: flex;">
-<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 <aa>Senior Bioinformatician</aa>  
 National Bioinformatics Infrastructure Sweden (NBIS)  
