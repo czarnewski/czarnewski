@@ -16,7 +16,7 @@
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 
-<aa>Scientific Coordinator</aa>  
+<h3>Scientific Coordinator</h3>  
 01/02/2021 – current  
 Science for Life Laboratory (SciLifeLab)  
 Department of Gene Technology  
@@ -42,7 +42,7 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 
-<aa>Senior Bioinformatician</aa>  
+<h3>Senior Bioinformatician</h3>  
 01/09/2018 – current  
 National Bioinformatics Infrastructure Sweden (NBIS)  
 Science for Life Laboratory (SciLifeLab)  
@@ -75,7 +75,7 @@ Stockholm University, Stockholm, Sweden
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 
-<aa>Postdoctoral researcher</aa>  
+<h3>Postdoctoral researcher</h3>  
 01/04/2015 – 31/08/2018  
 bioinformatician / computational biologist
 Department of Medicine Solna  
@@ -101,7 +101,7 @@ Karolinska Sjukhuset and Karolinska Institutet, Sweden
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 
-<aa>Postdoctoral researcher</aa> (3 months contract)  
+<h3>Postdoctoral researcher</h3> (3 months contract)  
 01/09/2017 – 31/11/2017  
 bioinformatician / computational biologist
 Zentrum für Innere Medizin  

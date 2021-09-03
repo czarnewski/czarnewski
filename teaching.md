@@ -50,17 +50,39 @@
   ### 2021
 
 
+  <div style="display: flex;">
+  <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
   **[Advanced Topics in Single Cell Analysis](https://www.sib.swiss/training/course/20210830_ASCTR)**  
   Online, 32 students, 5 days, 40h  
   NBIS and SIB, Stockholm, Sweden  
   Role: *Scientific Committee, Course Leader, Lecturer*
 
+  </div>
+
+  <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+  <img src="/czarnewski/logos/logo_sib.png" height="70px">
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  </div>
+  </div>
+
   <br/>
+
+  <div style="display: flex;">
+  <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
   **[Single-cell RNA-seq data analysis](https://nbisweden.github.io/workshop-scRNAseq/)**  
   Online, 25 students, 5 days, 40h  
   NBIS, Stockholm, Sweden   
   Role: *Course Leader, Lecturer* | Online, 25 students
+
+  </div>
+
+  <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  </div>
+  </div>
+
 
   <br/>
 
