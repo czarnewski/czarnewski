@@ -33,6 +33,212 @@
 - 2014: 10 citations
 
 
+<br/>
+
+**Highlights:**
+
+<br/>
+
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nat_com.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
+<aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
+EJ. Conserved transcriptomic profile between mouse and human colitis allows
+unsupervised patient stratification.  
+*Nat Commun*. 2019 Jun 28;10(1):2892. doi:
+10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
+
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+<span class="tooltiptext">bioinformatics analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/experiment.png">
+<span class="tooltiptext">performed experiments</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
+<span class="tooltiptext">supervision</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+<span class="tooltiptext">writing</span>
+</div>
+<a href="https://www.nature.com/articles/s41467-019-10769-x.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
+</div>
+</a>
+</div>
+
+</div>
+</div>
+
+<br/>
+
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/cell_research.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
+Mazzurana L, <aa>Czarnewski P</aa>, Jonsson V, Wigge L, Ringnér M, Williams TC,
+Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
+Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
+transcriptional imprinting and heterogeneity in human innate lymphoid cells
+revealed by full-length single-cell RNA-sequencing.  
+*Cell Res*. 2021
+May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
+33420427; PMCID: PMC8089104.
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+<span class="tooltiptext">bioinformatics analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
+<span class="tooltiptext">supervision</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+<span class="tooltiptext">writing</span>
+</div>
+<a href="https://www.nature.com/articles/s41422-020-00445-x.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
+</div>
+</a>
+</div>
+
+</div>
+</div>
+
+<br/>
+
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
+Lepzien R, Liu S, <aa>Czarnewski P</aa>, Nie M, Österberg B, Baharom F, Pourazar J,
+Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
+A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
+predict disease outcome.  
+<jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. doi:
+10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
+
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
+<span class="tooltiptext">bioinformatics analysis</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
+<span class="tooltiptext">supervision</span>
+</div>
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/writing.png">
+<span class="tooltiptext">writing</span>
+</div>
+<a href="https://erj.ersjournals.com/content/erj/58/1/2003468.full.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
+</div>
+</a>
+</div>
+
+</div>
+</div>
+
+
+<br/>
+
+
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
+Veerman RE, Teeuwen L, <aa>Czarnewski P</aa>, Güclüler Akpinar G, Sandberg A, Cao X,
+Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
+different isolation methods for extracellular vesicles reveals different
+clinical applicability and subcellular origin.  
+<jj>J Extracell Vesicles</jj>. 2021
+Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
+PMCID: PMC8298890.
+
+<div style="display:flex; width:auto; height: 42px;">
+<div class="myRole">My role:</div>
+
+<div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/supervision.png">
+<span class="tooltiptext">supervision</span>
+</div>
+
+<div class="tooltip" style=" border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="minibutton" src="/czarnewski/logos/writing.png">
+<span class="tooltiptext">writing</span>
+</div>
+
+<a href="https://onlinelibrary.wiley.com/doi/epdf/10.1002/jev2.12128" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
+</div>
+</a>
+</div>
+
+</div>
+</div>
+
+
+<br/>
+
+
+
 </div>
 
 
@@ -193,7 +399,7 @@ Emmanouilidi A, <aa>Czarnewski P</aa>, Yewdell WT, Schön K, Lebrero-Fernández 
 Bernasconi V, Rodin W, Harandi AM, Lycke N, Borcherding N, Yewdell JW, Greiff V,
 Bemark M, Angeletti D. Single-cell BCR and transcriptome analysis after
 influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.  
-*Cell Rep*. 2021 Jun 22;35(12):109286. doi: 10.1016/j.celrep.2021.109286. PMID:
+<jj>Cell Rep</jj>. 2021 Jun 22;35(12):109286. doi: 10.1016/j.celrep.2021.109286. PMID:
 34161770.
 
 
@@ -237,7 +443,7 @@ Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Amer
 Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
 transcriptional imprinting and heterogeneity in human innate lymphoid cells
 revealed by full-length single-cell RNA-sequencing.  
-*Cell Res*. 2021
+<jj>Cell Res</jj>. 2021
 May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 33420427; PMCID: PMC8089104.
 
@@ -289,7 +495,7 @@ Stakenborg M, Verstockt B, Meroni E, Goverse G, De Simone V, Verstockt S, Di
 Matteo M, <aa>Czarnewski P</aa>, Villablanca EJ, Ferrante M, Boeckxstaens GE, Mazzone M,
 Vermeire S, Matteoli G. Neutrophilic HGF-MET signaling exacerbates intestinal
 inflammation.  
-*J Crohns Colitis*. 2020 Jun 17:jjaa121. doi: 10.1093/ecco-
+<jj>J Crohns Colitis</jj>. 2020 Jun 17:jjaa121. doi: 10.1093/ecco-
 jcc/jjaa121. Epub ahead of print. PMID: 32556102.
 
 
@@ -336,7 +542,7 @@ justify-content: center; float: left; width: 100px; min-height: 40px;">
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ. Conserved transcriptomic profile between mouse and human colitis allows
 unsupervised patient stratification.  
-*Nat Commun*. 2019 Jun 28;10(1):2892. doi:
+<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. doi:
 10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
 
 
@@ -380,7 +586,7 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: flex; align-items: center;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/jcc.png" width="90px">
+<img src="/czarnewski/logos/journal_logos/j_autoimmunity.jpg" width="90px">
 </div>
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -389,7 +595,7 @@ Seitz C, Liu S, Klocke K, Joly AL, <aa>Czarnewski P</aa>V, Tibbitt CA, Parigi SM
 Westerberg LS, Coquet JM, Villablanca EJ, Wing K, Andersson J. Multi-faceted
 inhibition of dendritic cell function by CD4<sup>+</sup>Foxp3<sup>+</sup>
 regulatory T cells.  
-*J Autoimmun*. 2019 Mar;98:86-94. doi:
+<jj>J Autoimmun</jj>. 2019 Mar;98:86-94. doi:
 10.1016/j.jaut.2018.12.002. Epub 2019 Jan 5. PMID: 30616979.
 
 
@@ -438,7 +644,7 @@ J, Fujio K, Jacobs T, Roesch T, Izbicki JR, Lohse AW, Flavell RA, Krebs C,
 Gustafsson JA, Antonson P, Roncarolo MG, Villablanca EJ, Gagliani N, Huber S.
 Molecular and functional heterogeneity of IL-10-producing CD4<sup>+</sup> T
 cells.  
-*Nat Commun*. 2018 Dec 21;9(1):5457. doi: 10.1038/s41467-018-07581-4. PMID:
+<jj>Nat Commun</jj>. 2018 Dec 21;9(1):5457. doi: 10.1038/s41467-018-07581-4. PMID:
 30575716; PMCID: PMC6303294.
 
 
@@ -473,16 +679,21 @@ width: 40px; height: 40px; float: right;">
 
 <br/>
 
-<br/>
 
-<a href="https://watermark.silverchair.com/js.2018-00266.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsgwggLEBgkqhkiG9w0BBwagggK1MIICsQIBADCCAqoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMyl-uVGdRJgQQu3IwAgEQgIICe0fErw_hK5khGFJsxTh8bBVj1OJrZccj4haiJa7CwNixiQT6fj-7ouO9LkM3rIYgTb88vPQiFWJyjPoaf_kgwP6ycBfOrvfPpLipUc2krpKaZjotsTApZM5ZuL8t5haZdY7bAeDPWFJN_0rjtlMDDaXNzOrnn96ABf1tmdIU8b_l_1z35nf0FCJDyho_U8aefl2djeMHgLVokZTImY0QeKglO8yGKlEs-NgasE8xABjlR_zQ60I6ryzzYjXng_HIHyqjJJHIZcgfkbjRsWHRj2iXH00qC7_V8idH0Xj-fiRYOiYrvU986_qh_C-4iN8SxIILuXKtwJNZwPvyVD9KiN2BPtddmPAbjJpwFtJgLR5IyW5BEABuYQWUx-yufPIKpBl1l6R9LQuVCTfRP4J_u2H9mTvgv9z2w5_lRqRtLnKCzZE5Z3fG-QNwOyTufxxKCtXTE3PaCjwGx_60_J1ZL6TpsCIgo5eSAbsCILqDvYUMZ2C2Nrf3afFOcmlqJEdR0EQiapU96pz72PLBIR_E4wrnXGFXbyBwOCevzWKqf5-etkqpuuoRDLQvhtelmSP4zyL5uJCW_5Qck8_xH1LOA6W5JeutCu6K27PhKr5kmc-RpVOsz_MOgMwyIv85csi7PtVfcWO_m81cgposQcJ-MefmTSkEouztPkNfwIAiuyPZ603m5yu1nYOVQ468JviASDcbh0tWrzpZpZb8eL6EvwDVFoOY1spc36tmUII05DFgtVLLIsvcKs3wpr-iesqK8to37nn1zAawb8r9eprgbto_Ga7v4sr9jQqbZ0_HZHqBmrUWESv0RFBx3Arf1T6MJxpAINXbDhppY6Oq" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jes.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Lindheim L, Manti M, Fornes R, Bashir M, <aa>Czarnewski P</aa>, Diaz OE, Seifert M,
 Engstrand L, Villablanca EJ, Obermayer-Pietsch B, Stener-Victorin E.
 Reproductive and Behavior Dysfunction Induced by Maternal Androgen Exposure and
 Obesity Is Likely Not Gut Microbiome-Mediated.  
-*J Endocr Soc*. 2018 Oct
+<jj>J Endocr Soc</jj>. 2018 Oct
 15;2(12):1363-1380. doi: 10.1210/js.2018-00266. PMID: 30534630; PMCID:
 PMC6280317.
 
@@ -503,14 +714,28 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://watermark.silverchair.com/js.2018-00266.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsgwggLEBgkqhkiG9w0BBwagggK1MIICsQIBADCCAqoGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMyl-uVGdRJgQQu3IwAgEQgIICe0fErw_hK5khGFJsxTh8bBVj1OJrZccj4haiJa7CwNixiQT6fj-7ouO9LkM3rIYgTb88vPQiFWJyjPoaf_kgwP6ycBfOrvfPpLipUc2krpKaZjotsTApZM5ZuL8t5haZdY7bAeDPWFJN_0rjtlMDDaXNzOrnn96ABf1tmdIU8b_l_1z35nf0FCJDyho_U8aefl2djeMHgLVokZTImY0QeKglO8yGKlEs-NgasE8xABjlR_zQ60I6ryzzYjXng_HIHyqjJJHIZcgfkbjRsWHRj2iXH00qC7_V8idH0Xj-fiRYOiYrvU986_qh_C-4iN8SxIILuXKtwJNZwPvyVD9KiN2BPtddmPAbjJpwFtJgLR5IyW5BEABuYQWUx-yufPIKpBl1l6R9LQuVCTfRP4J_u2H9mTvgv9z2w5_lRqRtLnKCzZE5Z3fG-QNwOyTufxxKCtXTE3PaCjwGx_60_J1ZL6TpsCIgo5eSAbsCILqDvYUMZ2C2Nrf3afFOcmlqJEdR0EQiapU96pz72PLBIR_E4wrnXGFXbyBwOCevzWKqf5-etkqpuuoRDLQvhtelmSP4zyL5uJCW_5Qck8_xH1LOA6W5JeutCu6K27PhKr5kmc-RpVOsz_MOgMwyIv85csi7PtVfcWO_m81cgposQcJ-MefmTSkEouztPkNfwIAiuyPZ603m5yu1nYOVQ468JviASDcbh0tWrzpZpZb8eL6EvwDVFoOY1spc36tmUII05DFgtVLLIsvcKs3wpr-iesqK8to37nn1zAawb8r9eprgbto_Ga7v4sr9jQqbZ0_HZHqBmrUWESv0RFBx3Arf1T6MJxpAINXbDhppY6Oq" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
-<a href="https://www.cell.com/action/showPdf?pii=S1074-7613%2817%2930521-6" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/immunity.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Emgård J, Kammoun H, García-Cassani B, Chesné J, Parigi SM, Jacob JM, Cheng
 HW, Evren E, Das S, <aa>Czarnewski P</aa>, Sleiers N, Melo-Gonzalez F, Kvedaraite E,
@@ -518,7 +743,7 @@ Svensson M, Scandella E, Hepworth MR, Huber S, Ludewig B, Peduto L, Villablanca
 EJ, Veiga-Fernandes H, Pereira JP, Flavell RA, Willinger T. Oxysterol Sensing
 through the Receptor GPR183 Promotes the Lymphoid-Tissue-Inducing Function of
 Innate Lymphoid Cells and Colonic Inflammation.  
-*Immunity*. 2018 Jan
+<jj>Immunity</jj>. 2018 Jan
 16;48(1):120-132.e8. doi: 10.1016/j.immuni.2017.11.020. PMID: 29343433; PMCID:
 PMC5772175.
 
@@ -534,20 +759,34 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.cell.com/action/showPdf?pii=S1074-7613%2817%2930521-6" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
-<a href="https://www.nature.com/articles/s41598-017-18283-0.pdf" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/sci_rep.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Parigi SM, <aa>Czarnewski P</aa>, Das S, Steeg C, Brockmann L, Fernandez-Gaitero S,
 Yman V, Forkel M, Höög C, Mjösberg J, Westerberg L, Färnert A, Huber S, Jacobs
 T, Villablanca EJ. Flt3 ligand expands bona fide innate lymphoid cell precursors
 in vivo.  
-*Sci Rep*. 2018 Jan 9;8(1):154. doi: 10.1038/s41598-017-18283-0. PMID:
+<jj>Sci Rep</jj>. 2018 Jan 9;8(1):154. doi: 10.1038/s41598-017-18283-0. PMID:
 29317685; PMCID: PMC5760642.
 <br/>
 
@@ -563,9 +802,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.nature.com/articles/s41598-017-18283-0.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
@@ -573,13 +820,19 @@ width: 40px; height: 40px;">
 
 ## 2017
 
-<a href="https://www.jacionline.org/action/showPdf?pii=S0091-6749%2817%2930657-7" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jaci.jpg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Konya V, <aa>Czarnewski P</aa>, Forkel M, Rao A, Kokkinou E, Villablanca EJ, Almer S,
 Lindforss U, Friberg D, Höög C, Bergman P, Mjösberg J. Vitamin D downregulates
 the IL-23 receptor pathway in human mucosal group 3 innate lymphoid cells.  
-*J Allergy Clin Immunol*. 2018 Jan;141(1):279-292. doi: 10.1016/j.jaci.2017.01.045.
+<jj>J Allergy Clin Immunol</jj>. 2018 Jan;141(1):279-292. doi: 10.1016/j.jaci.2017.01.045.
 Epub 2017 Apr 20. PMID: 28433688.
 
 
@@ -595,20 +848,34 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.jacionline.org/action/showPdf?pii=S0091-6749%2817%2930657-7" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5341009/pdf/zjw502.pdf" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/mcp.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Larssen P, Wik L, <aa>Czarnewski P</aa>, Eldh M, Löf L, Ronquist KG, Dubois L,
 Freyhult E, Gallant CJ, Oelrich J, Larsson A, Ronquist G, Villablanca EJ,
 Landegren U, Gabrielsson S, Kamali-Moghaddam M. Tracing Cellular Origin of Human
 Exosomes Using Multiplex Proximity Extension Assays.  
-*Mol Cell Proteomics*. 2017 Mar;16(3):502-511. doi: 10.1074/mcp.M116.064725. Epub 2017 Jan 22.
+<jj>Mol Cell Proteomics</jj>. 2017 Mar;16(3):502-511. doi: 10.1074/mcp.M116.064725. Epub 2017 Jan 22.
 
 
 <div style="display:flex; width:auto; height: 42px;">
@@ -628,18 +895,32 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5341009/pdf/zjw502.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295112/pdf/nutrients-09-00068.pdf" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nutrients.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Das S, Parigi SM, Villablanca EJ. Retinoic Acid and Its Role
 in Modulating Intestinal Innate Immunity.  
-*Nutrients*. 2017 Jan 13;9(1):68. doi:
+<jj>Nutrients</jj>. 2017 Jan 13;9(1):68. doi:
 10.3390/nu9010068. PMID: 28098786; PMCID: PMC5295112.
 
 
@@ -655,9 +936,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5295112/pdf/nutrients-09-00068.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
