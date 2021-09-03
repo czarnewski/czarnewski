@@ -57,10 +57,16 @@ At NBIS, I offer bioinformatics guidance and services to researchers across Swed
 
 <br/>
 
-<a href="mailto://paulo.czarnewski@scilifelab.se"> <img border="0" src="/czarnewski/logos/email.png" width="20" height="20" style="vertical-align:middle;"> paulo.czarnewski@scilifelab.se</a>
+<a href="mailto://paulo.czarnewski@scilifelab.se"> <img border="0" src="/czarnewski/logos/email.png" width="30" height="30" style="vertical-align:middle;"> paulo.czarnewski@scilifelab.se</a>
 
-<a href="https://www.linkedin.com/in/paulo-czarnewski/"> <img border="0" src="/czarnewski/logos/linkedin.png" width="20" height="20" style="vertical-align:middle;"> LinkedIn</a>
+<br/>
 
-<a href="https://orcid.org/0000-0001-8150-4021"> <img border="0" src="/czarnewski/logos/orcid.png" width="20" height="20" style="vertical-align:middle;"> ORCID</a>
+<a href="https://www.linkedin.com/in/paulo-czarnewski/"> <img border="0" src="/czarnewski/logos/linkedin.png" width="30" height="30" style="vertical-align:middle;"> LinkedIn</a>
 
-<a href="https://scholar.google.com/citations?user=1KRSkSoAAAAJ&hl=en"> <img border="0" src="/czarnewski/logos/gscholar.png" width="20" height="20" style="vertical-align:middle;"> Google Scholar</a>
+<br/>
+
+<a href="https://orcid.org/0000-0001-8150-4021"> <img border="0" src="/czarnewski/logos/orcid.png" width="30" height="30" style="vertical-align:middle;"> ORCID</a>
+
+<br/>
+
+<a href="https://scholar.google.com/citations?user=1KRSkSoAAAAJ&hl=en"> <img border="0" src="/czarnewski/logos/gscholar.png" width="30" height="30" style="vertical-align:middle;"> Google Scholar</a>
