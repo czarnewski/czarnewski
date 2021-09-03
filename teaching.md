@@ -61,8 +61,8 @@ Role: *Scientific Committee, Course Leader, Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_sib.png" height="70px">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_sib.png" height="40px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -79,7 +79,7 @@ Role: *Course Leader, Lecturer* | Online, 25 students
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -100,7 +100,7 @@ Role: *Course Leader, Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -117,8 +117,8 @@ Role: *Course Leader, Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_sib.png" height="70px">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_sib.png" height="40px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -138,7 +138,7 @@ Role: *Course Leader, Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -162,7 +162,7 @@ Role: *Course Leader, Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -180,8 +180,8 @@ Role: *Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_sib.png" height="70px">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_sib.png" height="40px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -200,9 +200,9 @@ Role: *Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_csc.png" height="70px">
-<img src="/czarnewski/logos/logo_elixir.png" height="70px">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_csc.png" height="40px">
+<img src="/czarnewski/logos/logo_elixir.png" height="40px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
@@ -219,7 +219,7 @@ Role: *Course Leader, Lecturer*
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
 </div>
 </div>
 
