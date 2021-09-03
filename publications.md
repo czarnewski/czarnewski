@@ -84,7 +84,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 </div>
@@ -133,7 +133,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
 </div>
 </div>
@@ -181,7 +181,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; align-items: center;
+<div style="align-items: top;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
 </div>
@@ -228,7 +228,7 @@ width: 40px; height: 40px; float: right;">
 
 </div>
 
-<div style="display: flex; align-items: center;
+<div style="align-items: top;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
 </div>
@@ -277,7 +277,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="justify-content: top; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/jlb.png" width="90px">
 </div>
 </div>
@@ -285,12 +285,6 @@ width: 40px; height: 40px; float: right;">
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Veerman RE, Teeuwen L, <aa>Czarnewski P</aa>, Güclüler Akpinar G, Sandberg A, Cao X,
@@ -326,6 +320,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
+</div>
 </div>
 
 
@@ -334,12 +332,6 @@ width: 40px; height: 40px; float: right;">
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Lepzien R, Liu S, <aa>Czarnewski P</aa>, Nie M, Österberg B, Baharom F, Pourazar J,
@@ -348,7 +340,6 @@ A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
 predict disease outcome.  
 <jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. doi:
 10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
-
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
@@ -377,18 +368,16 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
+</div>
 </div>
 
 <br/>
 
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/cell_reports.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Mathew NR, Jayanthan JK, Smirnov IV, Robinson JL, Axelsson H, Nakka SS,
@@ -422,17 +411,16 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/cell_reports.png" width="90px">
+</div>
 </div>
 
 <br/>
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Mazzurana L, <aa>Czarnewski P</aa>, Jonsson V, Wigge L, Ringnér M, Williams TC,
@@ -471,6 +459,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
+</div>
 </div>
 
 <br/>
@@ -480,12 +472,6 @@ width: 40px; height: 40px; float: right;">
 ## 2020
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/jcc.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Stakenborg M, Verstockt B, Meroni E, Goverse G, De Simone V, Verstockt S, Di
@@ -518,6 +504,10 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jcc.png" width="90px">
+</div>
 </div>
 
 <br/>
@@ -528,12 +518,6 @@ width: 40px; height: 40px; float: right;">
 ## 2019
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
@@ -574,6 +558,10 @@ width: 40px; height: 40px; float: right;">
 </a>
 </div>
 
+</div>
+<div style="align-items: top;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 </div>
 
