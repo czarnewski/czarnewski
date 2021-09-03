@@ -8,7 +8,8 @@
 
 <aa>Scientific Coordinator</aa>  
 Human Developmental Cell Atlas (HDCA)  
-Royal Institute of Technology (KTH), Stockholm, Sweden
+Royal Institute of Technology (KTH)
+Stockholm, Sweden  
 
 </div>
 
@@ -28,7 +29,9 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 <aa>Senior Bioinformatician</aa>  
 National Bioinformatics Infrastructure Sweden (NBIS)  
-Stockholm University (SU), Stockholm, Sweden
+Stockholm University (SU)  
+Stockholm, Sweden
+
 </div>
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">

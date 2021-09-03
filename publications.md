@@ -34,8 +34,6 @@
 </div>
 </div>
 
-<br/>
-
 <h3>Research Highlights:</h3>
 
 <div style="display: flex;">
