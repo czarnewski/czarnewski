@@ -13,9 +13,9 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_hdca2.png" height="50px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
-<img src="/czarnewski/logos/logo_kth.png" height="50px">
+<img src="/czarnewski/logos/logo_hdca2.png" height="60px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="60px">
+<img src="/czarnewski/logos/logo_kth.png" height="60px">
 </div>
 
 </div>
@@ -32,10 +32,10 @@ Stockholm University (SU), Stockholm, Sweden
 </div>
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="50px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
-<img src="/czarnewski/logos/logo_elixir.png" height="50px">
-<img src="/czarnewski/logos/logo_su.png" height="50px">
+<img src="/czarnewski/logos/logo_nbis.png" height="60px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="60px">
+<img src="/czarnewski/logos/logo_elixir.png" height="60px">
+<img src="/czarnewski/logos/logo_su.png" height="60px">
 </div>
 
 </div>
