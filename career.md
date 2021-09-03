@@ -7,7 +7,7 @@
 
 <div class="tab">
   <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
-  <button class="tablinks" onclick="openTab(event, 'Past')">Biography</button>
+  <button class="tablinks" onclick="openTab(event, 'Biography')">Biography</button>
 </div>
 
 <div id="Overview" class="tabcontent active" style="display: block;">
