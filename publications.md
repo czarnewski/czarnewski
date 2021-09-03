@@ -11,7 +11,8 @@
 
 <div id="Overview" class="tabcontent active" style="display: block;">
 
-
+<div style="display: flex;">
+<div style="display: block; float: left;  text-align: left; width: 50%; min-height: 40px;">
 <h3>Publication metrics:</h3>
 
 - h-index: 12
@@ -19,23 +20,23 @@
 - citations: 480
 - impact factor average: 11 ± 8
 
-<br/>
+</div>
 
+<div style="display: block; float: left;  text-align: left; width: 50%; min-height: 40px;">
 <h3>Citations per year:</h3>
 
-- 2021: 140 citations
-- 2020: 110 citations
-- 2019: 103 citations
-- 2018: 68  citations
-- 2017: 26 citations
-- 2016: 8 citations
-- 2015: 7 citations
-- 2014: 10 citations
+- 2021: +140 citations
+- 2020: +110 citations
+- 2019: +103 citations
+- 2018: +68  citations
+- 2017: +26 citations
 
+</div>
+</div>
 
 <br/>
 
-<h3>Highlights:</h3>
+<h3>Research Highlights:</h3>
 
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
