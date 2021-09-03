@@ -39,11 +39,11 @@
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
-<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. PMID: 31253778; PMCID: PMC6598981.  
 <b>Conserved transcriptomic profile between mouse and human colitis allows
 unsupervised patient stratification.</b>  
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ.
+<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. PMID: 31253778; PMCID: PMC6598981.  
 
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -91,10 +91,10 @@ width: 40px; height: 40px; float: right;">
 <b>Tissue-specific
 transcriptional imprinting and heterogeneity in human innate lymphoid cells
 revealed by full-length single-cell RNA-sequencing.</b>  
-<jj>Cell Res</jj>. 2021 May;31(5):554-568. Epub 2021 Jan 8. PMID: 33420427; PMCID: PMC8089104.  
 Mazzurana L, <aa>Czarnewski P</aa>, Jonsson V, Wigge L, Ringnér M, Williams TC,
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
-Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J.
+Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J.  
+<jj>Cell Res</jj>. 2021 May;31(5):554-568. Epub 2021 Jan 8. PMID: 33420427; PMCID: PMC8089104.  
 
 <div style="display:flex; width:auto; height: 42px; text-align: right; float: right;">
 <div class="myRole">My role:</div>
@@ -136,10 +136,11 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
+<b>Monocytes in sarcoidosis are potent tumour necrosis factor producers and
+predict disease outcome.</b>  
 Lepzien R, Liu S, <aa>Czarnewski P</aa>, Nie M, Österberg B, Baharom F, Pourazar J,
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
-A. <b>Monocytes in sarcoidosis are potent tumour necrosis factor producers and
-predict disease outcome.</b>  
+A.  
 <jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. PMID: 33446605; PMCID: PMC8295505.
 
 
