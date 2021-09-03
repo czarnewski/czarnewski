@@ -15,9 +15,9 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 
 <div style="align-items: top; justify-content: center; float: left; width: 250px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_hdca2.png" height="50px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
-<img src="/czarnewski/logos/logo_kth.png" height="50px">
+<img src="/czarnewski/logos/logo_hdca2.png" height="80px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="80px">
+<img src="/czarnewski/logos/logo_kth.png" height="80px">
 </div>
 
 </div>
@@ -34,9 +34,9 @@ Stockholm University (SU), Stockholm, Sweden
 </div>
 
 <div style="align-items: top; justify-content: center; float: left; width: 250px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="50px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
-<img src="/czarnewski/logos/logo_su.png" height="50px">
+<img src="/czarnewski/logos/logo_nbis.png" height="80px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="80px">
+<img src="/czarnewski/logos/logo_su.png" height="80px">
 </div>
 
 </div>
