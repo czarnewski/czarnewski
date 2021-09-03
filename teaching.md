@@ -17,23 +17,30 @@
 
   <br/>
 
-  Teaching summary:
+  **Teaching summary:**
 
-  - **Course level:** Postdocs and PhD students
-  - **Total number of students taught:** 217
-  - **Average students per course:** 25
-  - **Number of course website created/designed:** 4
-  - **Number of unique lectures ministered:** 11
-  - **Number of coding exercises contributed:** 52
+  - Course level: Postdocs and PhD students
+  - Total number of students taught: 217
+  - Average students per course: 25
+  - Number of course website created/designed: 4
+  - Number of unique lectures ministered: 11
+  - Number of coding exercises contributed: 52
+
+  <br/>
+
+  **Feedback from students:**
+
+  - Average course quality: 96% (score 4.8 out of 5.0)
+  - Average lecture quality: 98% (score 4.9 out of 5.0)
 
   <br/>
 
-  Feedback from students:
+  **Institutions I collaborate in teaching:**
+  <img src="/czarnewski/logos/logo_nbis.png" height="70px">
+  <img src="/czarnewski/logos/logo_elixir.png" height="70px">
+  <img src="/czarnewski/logos/logo_sib.png" height="70px">
+  <img src="/czarnewski/logos/logo_csc.png" height="70px">
 
-  - **Average course quality:** 96% (score 4.8 out of 5.0)
-  - **Average lecture quality:** 98% (score 4.9 out of 5.0)
-
-  <br/>
 
 </div>
 
