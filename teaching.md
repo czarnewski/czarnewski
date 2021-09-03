@@ -35,7 +35,8 @@
 
   <br/>
 
-  **Institutions I collaborate in teaching:**
+  **Institutions I collaborate through teaching:**
+
   <img src="/czarnewski/logos/logo_nbis.png" height="70px">
   <img src="/czarnewski/logos/logo_elixir.png" height="70px">
   <img src="/czarnewski/logos/logo_sib.png" height="70px">
