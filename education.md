@@ -22,6 +22,8 @@ Federal University of Uberlandia, Uberlandia, Brazil.
 
 </div>
 
+<br/>
+
 ***
 
 
@@ -44,6 +46,8 @@ Federal University of Uberlandia, Uberlandia, Brazil.
 </div>
 
 </div>
+
+<br/>
 
 ***
 

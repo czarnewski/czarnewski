@@ -98,7 +98,7 @@ revealed by full-length single-cell RNA-sequencing.
 May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 33420427; PMCID: PMC8089104.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; text-align: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
