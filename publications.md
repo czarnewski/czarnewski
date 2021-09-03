@@ -48,7 +48,7 @@ unsupervised patient stratification.
 <div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
-width: 10px; height: 10px;">
+width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
 <span class="tooltiptext">bioinformatics analysis</span>
 </div>
@@ -95,7 +95,7 @@ revealed by full-length single-cell RNA-sequencing.
 <jj>Cell Res</jj>. 2021
 May;31(5):554-568. Epub 2021 Jan 8. PMID: 33420427; PMCID: PMC8089104.
 
-<div style="display:flex; width:auto; height: 42px; text-align: right;">
+<div style="display:flex; width:auto; height: 42px; text-align: right; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -142,7 +142,7 @@ predict disease outcome.
 <jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. PMID: 33446605; PMCID: PMC8295505.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -189,7 +189,7 @@ clinical applicability and subcellular origin.
 <jj>J Extracell Vesicles</jj>. 2021
 Jul;10(9):e12128. Epub 2021 Jul 22. PMID: 34322205; PMCID: PMC8298890.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;

@@ -39,10 +39,10 @@ pre { /* Code block - determines code spacing between lines */ font-size: 14px; 
 
 }
 img.minibutton {
-  padding: 0px;
+  padding: 5px;
   border-radius: 0px;
-  width: 10px;
-  height: 10px;
+  width: 30px;
+  height: 30px;
   background-color: rgba(255, 255, 255, 0.9);
 
 }
