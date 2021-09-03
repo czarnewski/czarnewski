@@ -43,8 +43,7 @@
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ. Conserved transcriptomic profile between mouse and human colitis allows
 unsupervised patient stratification.  
-<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. doi:
-10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
+<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. PMID: 31253778; PMCID: PMC6598981.
 
 
 <div style="display:flex; width:auto; height: 42px;">
@@ -95,8 +94,7 @@ Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
 transcriptional imprinting and heterogeneity in human innate lymphoid cells
 revealed by full-length single-cell RNA-sequencing.  
 <jj>Cell Res</jj>. 2021
-May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
-33420427; PMCID: PMC8089104.
+May;31(5):554-568. Epub 2021 Jan 8. PMID: 33420427; PMCID: PMC8089104.
 
 <div style="display:flex; width:auto; height: 42px; text-align: right;">
 <div class="myRole">My role:</div>
@@ -142,8 +140,7 @@ Lepzien R, Liu S, <aa>Czarnewski P</aa>, Nie M, Österberg B, Baharom F, Pouraza
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
 A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
 predict disease outcome.  
-<jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. doi:
-10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
+<jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. PMID: 33446605; PMCID: PMC8295505.
 
 
 <div style="display:flex; width:auto; height: 42px;">
@@ -191,8 +188,7 @@ Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
 different isolation methods for extracellular vesicles reveals different
 clinical applicability and subcellular origin.  
 <jj>J Extracell Vesicles</jj>. 2021
-Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
-PMCID: PMC8298890.
+Jul;10(9):e12128. Epub 2021 Jul 22. PMID: 34322205; PMCID: PMC8298890.
 
 <div style="display:flex; width:auto; height: 42px;">
 <div class="myRole">My role:</div>
