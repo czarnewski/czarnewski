@@ -4,6 +4,7 @@
 
 
 
+<div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Scientific Coordinator</aa> for the Human Developmental Cell Atlas (HDCA)  
@@ -23,6 +24,7 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 <br/>
 
 
+<div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Senior Bioinformatician</aa> – single-cell omics  

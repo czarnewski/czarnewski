@@ -40,9 +40,6 @@
 <br/>
 
 <div style="display: flex;">
-
-
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
