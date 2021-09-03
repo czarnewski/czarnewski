@@ -20,7 +20,7 @@ Applied Immunology and Parasitology
 01/03/2013 – 27/03/2015  
 Institute for Biomedical Sciences  
 Federal University of Uberlandia, Uberlandia, Brazil  
-Title: “Protection mechanisms induced by _Tg_ HSP70 immunization and inflammation control with STAg treatment in _Toxoplasma gondii_ infection”  
+Title: “Protection mechanisms induced by <i>Tg</i>HSP70 immunization and inflammation control with STAg treatment in _Toxoplasma gondii_ infection”  
 
 </div>
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
