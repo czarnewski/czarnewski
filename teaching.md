@@ -19,6 +19,8 @@
 
   **Teaching summary:**
 
+  <br/>
+
   - Course level: Postdocs and PhD students
   - Total number of students taught: 217
   - Average students per course: 25
@@ -30,12 +32,16 @@
 
   **Feedback from students:**
 
+  <br/>
+
   - Average course quality: 96% (score 4.8 out of 5.0)
   - Average lecture quality: 98% (score 4.9 out of 5.0)
 
   <br/>
 
   **Institutions I collaborate through teaching:**
+
+  <br/>
 
   <img src="/czarnewski/logos/logo_nbis.png" height="70px">
   <img src="/czarnewski/logos/logo_elixir.png" height="70px">
