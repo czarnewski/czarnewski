@@ -53,7 +53,7 @@
   <div style="display: flex;">
   <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
-  **[Advanced Topics in Single Cell Analysis](https://www.sib.swiss/training/course/20210830_ASCTR)**  
+  **[Advanced Topics in Single Cell Analysis](https://nbisweden.github.io/single-cell_sib_scilifelab_2021/README.html)**  
   Online, 32 students, 5 days, 40h  
   NBIS and SIB, Stockholm, Sweden  
   Role: *Scientific Committee, Course Leader, Lecturer*
