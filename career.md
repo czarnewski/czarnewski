@@ -2,9 +2,24 @@
 
 ***
 
+
+
+
+<div class="tab">
+  <button class="tablinks active" onclick="openTab(event, 'Overview')">Overview</button>
+  <button class="tablinks" onclick="openTab(event, 'Past')">Biography</button>
+</div>
+
+<div id="Overview" class="tabcontent active" style="display: block;">
+
 <img border="0" src="/czarnewski/logos/career_chart.png" style="vertical-align:middle;">
 
 <br/>
+
+</div>
+
+<div id="Biography" class="tabcontent" style="display: none;">
+<h3>Biography</h3>
 
 I enrolled my university studies in 2008 and due to my interest in cell biology in the first university year, I joined the Laboratory of Immunopathology at the Federal University of Uberlandia for a funded scientific internship. This was the laboratory where I completed the Bachelors thesis, Master and finished the PhD by the age of 24. My work focused mainly on *Toxoplasma gondii* infection and immune responses which lead to the publication of 6 articles (see CV). Since this time, I became interested in data analysis and programming, which led me to apply for a postdoc position in bioinformatics at Karolinska Institutet (KI) in 2015, Sweden.
 
@@ -19,6 +34,10 @@ I then became permanently employed at NBIS in September 2018, and was quickly en
 <br/>
 
 In February 2021, by the age of 29, I was then appointed Scientific Coordinator for the Human Developmental Cell Atlas (HDCA), where I orchestrated and facilitated the interaction of 6 multi-omics research groups. Here, I guide PhD students and Postdocs across different groups to work in synergy and accelerate data analysis and interpretation. Data, code and manuscript curation, as well as giving HDCA visibility and outreach are part of my tasks in this role. Two manuscripts are under ongoing review.
+
+<br/>
+
+</div>
 
 <br/>
 
