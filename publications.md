@@ -40,8 +40,8 @@
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
-EJ. Conserved transcriptomic profile between mouse and human colitis allows
-unsupervised patient stratification.  
+EJ. <b>Conserved transcriptomic profile between mouse and human colitis allows
+unsupervised patient stratification.</b>  
 <jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. PMID: 31253778; PMCID: PMC6598981.
 
 
@@ -89,9 +89,9 @@ width: 40px; height: 40px; float: right;">
 
 Mazzurana L, <aa>Czarnewski P</aa>, Jonsson V, Wigge L, Ringnér M, Williams TC,
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
-Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
+Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. <b>Tissue-specific
 transcriptional imprinting and heterogeneity in human innate lymphoid cells
-revealed by full-length single-cell RNA-sequencing.  
+revealed by full-length single-cell RNA-sequencing.</b>  
 <jj>Cell Res</jj>. 2021
 May;31(5):554-568. Epub 2021 Jan 8. PMID: 33420427; PMCID: PMC8089104.
 
@@ -137,8 +137,8 @@ width: 40px; height: 40px; float: right;">
 
 Lepzien R, Liu S, <aa>Czarnewski P</aa>, Nie M, Österberg B, Baharom F, Pourazar J,
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
-A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
-predict disease outcome.  
+A. <b>Monocytes in sarcoidosis are potent tumour necrosis factor producers and
+predict disease outcome.</b>  
 <jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. PMID: 33446605; PMCID: PMC8295505.
 
 
@@ -183,9 +183,9 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Veerman RE, Teeuwen L, <aa>Czarnewski P</aa>, Güclüler Akpinar G, Sandberg A, Cao X,
-Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
+Pernemalm M, Orre LM, Gabrielsson S, Eldh M. <b>Molecular evaluation of five
 different isolation methods for extracellular vesicles reveals different
-clinical applicability and subcellular origin.  
+clinical applicability and subcellular origin.</b>  
 <jj>J Extracell Vesicles</jj>. 2021
 Jul;10(9):e12128. Epub 2021 Jul 22. PMID: 34322205; PMCID: PMC8298890.
 
