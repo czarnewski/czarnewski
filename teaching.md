@@ -37,10 +37,10 @@ Over the last 3 years, I have been involved in designing and creating material f
 
 **Institutions I collaborate through teaching:**
 
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
-<img src="/czarnewski/logos/logo_elixir.png" height="70px">
-<img src="/czarnewski/logos/logo_sib.png" height="70px">
-<img src="/czarnewski/logos/logo_csc.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="50px">
+<img src="/czarnewski/logos/logo_elixir.png" height="50px">
+<img src="/czarnewski/logos/logo_sib.png" height="50px">
+<img src="/czarnewski/logos/logo_csc.png" height="50px">
 
 
 </div>

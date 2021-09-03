@@ -25,10 +25,9 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_hdca2.png" height="70px">
-<!-- <img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px"> -->
-<img src="/czarnewski/logos/logo_elixir.png" height="70px">
-<img src="/czarnewski/logos/logo_kth.png" height="70px">
+<img src="/czarnewski/logos/logo_hdca2.png" height="50px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
+<img src="/czarnewski/logos/logo_kth.png" height="50px">
 </div>
 </div>
 <br/>
@@ -52,9 +51,10 @@ Stockholm University, Stockholm, Sweden
 </div>
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
-<img src="/czarnewski/logos/logo_su.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="50px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
+<img src="/czarnewski/logos/logo_elixir.png" height="50px">
+<img src="/czarnewski/logos/logo_su.png" height="50px">
 </div>
 
 </div>
@@ -85,7 +85,7 @@ Karolinska Sjukhuset and Karolinska Institutet, Sweden
 </div>
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_ki.jpg" height="70px">
+<img src="/czarnewski/logos/logo_ki.jpg" height="50px">
 </div>
 
 </div>
@@ -111,7 +111,7 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
 </div>
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_uke.png" height="70px">
+<img src="/czarnewski/logos/logo_uke.png" height="50px">
 </div>
 
 </div>

@@ -2,17 +2,6 @@
 
 ***
 
-<a href="mailto://paulo.czarnewski@scilifelab.se"> <img border="0" src="/czarnewski/logos/email.png" width="20" height="20" style="vertical-align:middle;"> paulo.czarnewski@scilifelab.se</a>
-
-<a href="https://www.linkedin.com/in/paulo-czarnewski/"> <img border="0" src="/czarnewski/logos/linkedin.png" width="20" height="20" style="vertical-align:middle;"> LinkedIn</a>
-
-<a href="https://orcid.org/0000-0001-8150-4021"> <img border="0" src="/czarnewski/logos/orcid.png" width="20" height="20" style="vertical-align:middle;"> ORCID</a>
-
-<a href="https://scholar.google.com/citations?user=1KRSkSoAAAAJ&hl=en"> <img border="0" src="/czarnewski/logos/gscholar.png" width="20" height="20" style="vertical-align:middle;"> ORCID</a>
-
-
-
-
 
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
@@ -23,17 +12,16 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 </div>
 
-
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_hdca2.png" height="70px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
-<img src="/czarnewski/logos/logo_kth.png" height="70px">
+<img src="/czarnewski/logos/logo_hdca2.png" height="50px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
+<img src="/czarnewski/logos/logo_kth.png" height="50px">
 </div>
 
 </div>
+
 
 <br/>
-
 
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
@@ -44,13 +32,23 @@ Stockholm University (SU), Stockholm, Sweden
 </div>
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="70px">
-<!-- <img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px"> -->
-<img src="/czarnewski/logos/logo_elixir.png" height="70px">
-<img src="/czarnewski/logos/logo_su.png" height="70px">
+<img src="/czarnewski/logos/logo_nbis.png" height="50px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
+<img src="/czarnewski/logos/logo_elixir.png" height="50px">
+<img src="/czarnewski/logos/logo_su.png" height="50px">
 </div>
 
 </div>
+
+<br/>
+
+<a href="mailto://paulo.czarnewski@scilifelab.se"> <img border="0" src="/czarnewski/logos/email.png" width="20" height="20" style="vertical-align:middle;"> paulo.czarnewski@scilifelab.se</a>
+
+<a href="https://www.linkedin.com/in/paulo-czarnewski/"> <img border="0" src="/czarnewski/logos/linkedin.png" width="20" height="20" style="vertical-align:middle;"> LinkedIn</a>
+
+<a href="https://orcid.org/0000-0001-8150-4021"> <img border="0" src="/czarnewski/logos/orcid.png" width="20" height="20" style="vertical-align:middle;"> ORCID</a>
+
+<a href="https://scholar.google.com/citations?user=1KRSkSoAAAAJ&hl=en"> <img border="0" src="/czarnewski/logos/gscholar.png" width="20" height="20" style="vertical-align:middle;"> ORCID</a>
 
 <br/>
 
