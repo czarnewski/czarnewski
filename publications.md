@@ -45,10 +45,10 @@ unsupervised patient stratification.
 <jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. PMID: 31253778; PMCID: PMC6598981.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
-width: 40px; height: 40px;">
+width: 10px; height: 10px;">
 <img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png">
 <span class="tooltiptext">bioinformatics analysis</span>
 </div>
