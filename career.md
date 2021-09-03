@@ -2,6 +2,12 @@
 
 ***
 
+<br/>
+
+<img border="0" src="/czarnewski/logos/career_chart.png" style="vertical-align:middle;">
+
+<br/>
+
 I enrolled my university studies in 2008 and due to my interest in cell biology in the first university year, I joined the Laboratory of Immunopathology at the Federal University of Uberlandia for a funded scientific internship. This was the laboratory where I completed the Bachelors thesis, Master and finished the PhD by the age of 24. My work focused mainly on *Toxoplasma gondii* infection and immune responses which lead to the publication of 6 articles (see CV). Since this time, I became interested in data analysis and programming, which led me to apply for a postdoc position in bioinformatics at Karolinska Institutet (KI) in 2015, Sweden.
 
 <br/>
