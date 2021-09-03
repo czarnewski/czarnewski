@@ -41,10 +41,7 @@
 
 <div style="display: flex;">
 
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
-</div>
+
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
@@ -87,16 +84,17 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
+</div>
 </div>
 
 <br/>
 
 <div style="display: flex;">
 
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
-</div>
+
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
@@ -105,7 +103,7 @@ Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Amer
 Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
 transcriptional imprinting and heterogeneity in human innate lymphoid cells
 revealed by full-length single-cell RNA-sequencing.  
-*Cell Res*. 2021
+<jj>Cell Res</jj>. 2021
 May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 33420427; PMCID: PMC8089104.
 
@@ -136,16 +134,17 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
+</div>
 </div>
 
 <br/>
 
 <div style="display: flex;">
 
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
-</div>
+
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
@@ -183,6 +182,10 @@ width: 40px; height: 40px; float: right;">
 </a>
 </div>
 
+</div>
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/erj.jpg" width="90px">
 </div>
 </div>
 
@@ -232,6 +235,11 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
+</div>
 </div>
 
 
@@ -249,10 +257,7 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: flex;">
 
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/jlb.png" width="90px">
-</div>
+
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
@@ -282,6 +287,10 @@ width: 40px; height: 40px; float: right;">
 </a>
 </div>
 
+</div>
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jlb.png" width="90px">
 </div>
 </div>
 
