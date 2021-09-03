@@ -33,7 +33,7 @@ Title: “Protection mechanisms induced by <i>Tg</i>HSP70 immunization and infla
 </div>
 
 
-<div id="Master" class="tabcontent active" style="display: block;">
+<div id="Master" class="tabcontent active" style="display: none;">
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 <h3>Master's degree</h3>  
@@ -54,7 +54,7 @@ Federal University of Uberlandia, Uberlandia, Brazil
 <br/>
 </div>
 
-<div id="Bachelor" class="tabcontent active" style="display: block;">
+<div id="Bachelor" class="tabcontent active" style="display: none;">
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 <h3>Bachelor's degree</h3>  
