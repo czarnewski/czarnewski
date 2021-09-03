@@ -43,7 +43,7 @@
 
 <div style="display: flex; align-items: center;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/nat_com.jpg" width="90px">
+<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -95,7 +95,7 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: flex; align-items: center;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/cell_research.jpg" width="90px">
+<img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
 </div>
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -433,7 +433,7 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: flex; align-items: center;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/cell_research.jpg" width="90px">
+<img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
 </div>
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -534,7 +534,7 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: flex; align-items: center;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/nat_com.jpg" width="90px">
+<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -633,7 +633,7 @@ width: 40px; height: 40px; float: right;">
 
 <div style="display: flex; align-items: center;
 justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/nat_com.jpg" width="90px">
+<img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
