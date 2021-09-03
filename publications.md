@@ -951,13 +951,19 @@ width: 40px; height: 40px; float: right;">
 <br/>
 
 
-<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2017.00142/pdf" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/frontiers.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Araújo ECB, Oliveira MC, Mineo TWP, Silva NM. Recombinant
 <i>Tg</i>HSP70 Immunization Protects against <i>Toxoplasma gondii</i> Brain Cyst
 Formation by Enhancing Inducible Nitric Oxide Expression.  
-*Front Cell Infect Microbiol*. 2017 Apr 25;7:142. doi: 10.3389/fcimb.2017.00142. PMID: 28487847;
+<jj>Front Cell Infect Microbiol</jj>. 2017 Apr 25;7:142. doi: 10.3389/fcimb.2017.00142. PMID: 28487847;
 PMCID: PMC5403831.
 
 <div style="display:flex; width:auto; height: 42px;">
@@ -977,9 +983,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://www.frontiersin.org/articles/10.3389/fcimb.2017.00142/pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
@@ -987,13 +1001,19 @@ width: 40px; height: 40px;">
 
 ## 2016
 
-<a href="https://journals.sagepub.com/doi/pdf/10.1369/0022155416656349" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jhc.jpeg" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Briceño MP, Nascimento LA, Nogueira NP, <aa>Barenco PV</aa>, Ferro EA, Rezende-
 Oliveira K, Goulart LR, Alves PT, Barbosa Bde F, Lima WR, Silva NM. Toxoplasma
 gondii Infection Promotes Epithelial Barrier Dysfunction of Caco-2 Cells.  
-*J Histochem Cytochem*. 2016 Aug;64(8):459-69. doi: 10.1369/0022155416656349. Epub
+<jj>J Histochem Cytochem</jj>. 2016 Aug;64(8):459-69. doi: 10.1369/0022155416656349. Epub
 2016 Jul 1. PMID: 27370796; PMCID: PMC4971781.
 
 <div style="display:flex; width:auto; height: 42px;">
@@ -1008,9 +1028,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://journals.sagepub.com/doi/pdf/10.1369/0022155416656349" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
@@ -1018,8 +1046,15 @@ width: 40px; height: 40px;">
 
 ## 2014
 
-<a href="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0096527/1/pone.0096527.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210829%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210829T073410Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6de842514a942fca1bd304cbb25c06b6f319f583532fd95f125d658214615753918bd4ed95812f989def18552ff9e598a3a00e406f2a1cfff1ed8a5386c5024f5522fae7461c4a47295fc77368447481ba9c9ee6364877729674b5ac7943aa9c283d0c1590aae7719e4affd816d9d537e3ad673f8e0cef89f10039349c0fa988d50cccfee4a20b00b8bcf548464f641f83bf3651400619485b8820aba762ffec016ccde05d70f3024f0cc1ba0bc6925d26305c612be7ea5b93a86cd0454d50f7459b425fe89e0168925c019385eca37f475fae70c4961bef8ce99a6944b81508d00aaf9f27c5b73f0328fd0326e16d0636f3660169853b6c8029fab3e805d4f1" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
 
 <aa>Barenco PV</aa>, Lourenço EV, Cunha-Júnior JP, Almeida KC, Roque-Barreira MC,
 Silva DA, Araújo EC, Coutinho LB, Oliveira MC, Mineo TW, Mineo JR, Silva NM.
@@ -1047,9 +1082,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0096527/1/pone.0096527.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210829%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210829T073410Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6de842514a942fca1bd304cbb25c06b6f319f583532fd95f125d658214615753918bd4ed95812f989def18552ff9e598a3a00e406f2a1cfff1ed8a5386c5024f5522fae7461c4a47295fc77368447481ba9c9ee6364877729674b5ac7943aa9c283d0c1590aae7719e4affd816d9d537e3ad673f8e0cef89f10039349c0fa988d50cccfee4a20b00b8bcf548464f641f83bf3651400619485b8820aba762ffec016ccde05d70f3024f0cc1ba0bc6925d26305c612be7ea5b93a86cd0454d50f7459b425fe89e0168925c019385eca37f475fae70c4961bef8ce99a6944b81508d00aaf9f27c5b73f0328fd0326e16d0636f3660169853b6c8029fab3e805d4f1" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
@@ -1057,14 +1100,20 @@ width: 40px; height: 40px;">
 
 ## 2013
 
-<a href="https://veterinaryresearch.biomedcentral.com/track/pdf/10.1186/1297-9716-44-89.pdf" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/vet_res.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Araujo EC, Barbosa BF, Coutinho LB, <aa>Barenco PV</aa>, Sousa LA, Milanezi CM, Bonfá
 G, Pavanelli WR, Silva JS, Ferro EA, Silva DA, Cunha-Junior JP, Silva NM. Heme
 oxygenase-1 activity is involved in the control of Toxoplasma gondii infection
 in the lung of BALB/c and C57BL/6 and in the small intestine of C57BL/6 mice.  
-*Vet Res*. 2013 Oct 2;44(1):89. doi: 10.1186/1297-9716-44-89. PMID: 24088531;
+<jj>Vet Res</jj>. 2013 Oct 2;44(1):89. doi: 10.1186/1297-9716-44-89. PMID: 24088531;
 PMCID: PMC3851451.
 
 
@@ -1080,20 +1129,34 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://veterinaryresearch.biomedcentral.com/track/pdf/10.1186/1297-9716-44-89.pdf" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
-<a href="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0075138/1/pone.0075138.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210829%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210829T073524Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1deeb7f0ad23e6abe4c2876d0db21b823d85e8c4cbaedc1a6dea7db005e2d592c7fd70d2291fcc2eee4dfc39aa8af178a7ca5c2bcd6a0148fdb56d22ba0479a84d7c5e7a2b1e584f06262ce7bfdc9b2d6f3805f74df6819bcf865c06e670d57906b981bf3f5a15cbd61c516df6828ba2bb8b5a297259e33f114a9c86ba18d93c976957461796f20365bb753f0acb5f3f256bfe353b5af74e733a13129add76283a6f0184a32291079df54c252fc73cc0e38b525c52821c8e01bd90ba933e02814f6243101798c50e79ca7b23d1b6997746225328a25d92e4f152edaee099a9b575e2c306adb5e12c6813a4deaed7c7971c4f36ba05af164efb8d39a776bf2980" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/plos_one.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Benevides L, Cardoso CR, Milanezi CM, Castro-Filice LS, <aa>Barenco PV</aa>, Sousa RO,
 Rodrigues RM, Mineo JR, Silva JS, Silva NM. Toxoplasma gondii soluble tachyzoite
 antigen triggers protective mechanisms against fatal intestinal pathology in
 oral infection of C57BL/6 mice.   
-*PLoS One*. 2013 Sep 24;8(9):e75138. doi:
+<jj>PLoS One</jj>. 2013 Sep 24;8(9):e75138. doi:
 10.1371/journal.pone.0075138. PMID: 24086456; PMCID: PMC3782460.
 
 <div style="display:flex; width:auto; height: 42px;">
@@ -1108,9 +1171,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0075138/1/pone.0075138.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20210829%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20210829T073524Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1deeb7f0ad23e6abe4c2876d0db21b823d85e8c4cbaedc1a6dea7db005e2d592c7fd70d2291fcc2eee4dfc39aa8af178a7ca5c2bcd6a0148fdb56d22ba0479a84d7c5e7a2b1e584f06262ce7bfdc9b2d6f3805f74df6819bcf865c06e670d57906b981bf3f5a15cbd61c516df6828ba2bb8b5a297259e33f114a9c86ba18d93c976957461796f20365bb753f0acb5f3f256bfe353b5af74e733a13129add76283a6f0184a32291079df54c252fc73cc0e38b525c52821c8e01bd90ba933e02814f6243101798c50e79ca7b23d1b6997746225328a25d92e4f152edaee099a9b575e2c306adb5e12c6813a4deaed7c7971c4f36ba05af164efb8d39a776bf2980" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 <br/>
 
@@ -1118,15 +1189,22 @@ width: 40px; height: 40px;">
 
 ## 2012
 
-<a href="https://reader.elsevier.com/reader/sd/pii/S0020751912000252?token=EFC12C817E9399EAF141CFF9BF8C2D2C321850C1749C46240C750822AC4E40DF0F6E4186DF697857AEA9568191D41E26&originRegion=eu-west-1&originCreation=20210829073611" target="_blank">
-<div class="paperlink">
+<div style="display: flex;">
+
+<div style="display: flex; align-items: center;
+justify-content: center; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/ijp.png" width="90px">
+</div>
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
 
 Coutinho LB, Gomes AO, Araújo EC, <aa>Barenco PV</aa>, Santos JL, Caixeta DR, Silva
 DA, Cunha-Júnior JP, Ferro EA, Silva NM. The impaired pregnancy outcome in
 murine congenital toxoplasmosis is associated with a pro-inflammatory immune
 response, but not correlated with decidual inducible nitric oxide synthase
 expression.  
-*Int J Parasitol*. 2012 Apr;42(4):341-52. doi:
+<jj>Int J Parasitol</jj>. 2012 Apr;42(4):341-52. doi:
 10.1016/j.ijpara.2012.01.006. Epub 2012 Feb 17. PMID: 22366549.
 
 <div style="display:flex; width:auto; height: 42px;">
@@ -1141,9 +1219,17 @@ width: 40px; height: 40px;">
 <img class="zoom minibutton" src="/czarnewski/logos/writing.png">
 <span class="tooltiptext">writing</span>
 </div>
-</div>
+<a href="https://reader.elsevier.com/reader/sd/pii/S0020751912000252?token=EFC12C817E9399EAF141CFF9BF8C2D2C321850C1749C46240C750822AC4E40DF0F6E4186DF697857AEA9568191D41E26&originRegion=eu-west-1&originCreation=20210829073611" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png">
+<span class="tooltiptext">see PDF</span>
 </div>
 </a>
+</div>
+
+</div>
+</div>
 
 </div>
 
