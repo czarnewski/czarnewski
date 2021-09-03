@@ -2,6 +2,18 @@
 
 ***
 
+<a href="mailto://paulo.czarnewski@scilifelab.se"> <img border="0" src="/czarnewski/logos/email.png" width="20" height="20" style="vertical-align:middle;"> paulo.czarnewski@scilifelab.se</a>
+
+<a href="https://www.linkedin.com/in/paulo-czarnewski/"> <img border="0" src="/czarnewski/logos/linkedin.png" width="20" height="20" style="vertical-align:middle;"> LinkedIn</a>
+
+<a href="https://orcid.org/0000-0001-8150-4021"> <img border="0" src="/czarnewski/logos/orcid.png" width="20" height="20" style="vertical-align:middle;"> ORCID</a>
+
+<a href="https://scholar.google.com/citations?user=1KRSkSoAAAAJ&hl=en"> <img border="0" src="/czarnewski/logos/gscholar.png" width="20" height="20" style="vertical-align:middle;"> ORCID</a>
+
+
+
+
+
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
