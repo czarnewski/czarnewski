@@ -17,6 +17,7 @@
 
 
 <h3>Scientific Coordinator</h3>  
+
 01/02/2021 – current  
 Science for Life Laboratory (SciLifeLab)  
 Department of Gene Technology  
@@ -26,7 +27,7 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/logo_hdca2.png" height="50px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
 <img src="/czarnewski/logos/logo_kth.png" height="50px">
 </div>
 </div>
@@ -43,11 +44,13 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 
 <h3>Senior Bioinformatician</h3>  
+
 01/09/2018 – current  
 National Bioinformatics Infrastructure Sweden (NBIS)  
 Science for Life Laboratory (SciLifeLab)  
 Department of Biochemistry and Biophysics (DBB)  
 Stockholm University, Stockholm, Sweden
+
 </div>
 
 <div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
