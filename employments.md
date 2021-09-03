@@ -24,7 +24,7 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 
 </div>
 
-<div style="align-items: top; justify-content: center; right: left; width: 300px; min-height: 40px;">
+<div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/logo_hdca2.png" height="70px">
 <img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
 <img src="/czarnewski/logos/logo_kth.png" height="70px">
@@ -50,7 +50,7 @@ Department of Biochemistry and Biophysics (DBB)
 Stockholm University, Stockholm, Sweden
 </div>
 
-<div style="align-items: top; justify-content: center; float: right; width: 300px; min-height: 40px;">
+<div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/logo_nbis.png" height="70px">
 <img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
 <img src="/czarnewski/logos/logo_su.png" height="70px">
@@ -83,7 +83,7 @@ Karolinska Sjukhuset and Karolinska Institutet, Sweden
 
 </div>
 
-<div style="align-items: top; justify-content: center; float: right; width: 300px; min-height: 40px;">
+<div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/logo_ki.jpg" height="70px">
 </div>
 
@@ -109,7 +109,7 @@ Universitätsklinikum Hamburg-Eppendorf, Hamburg, Germany
 
 </div>
 
-<div style="align-items: top; justify-content: center; float: right; width: 300px; min-height: 40px;">
+<div style="align-items: top; text-align: right; float: right; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/logo_uke.png" height="70px">
 </div>
 
