@@ -15,9 +15,9 @@ Federal University of Uberlandia, Uberlandia, Brazil.
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_ppipa.png" height="70px">
-<img src="/czarnewski/logos/logo_icbim.png" height="70px">
-<img src="/czarnewski/logos/logo_ufu.png" height="70px">
+<img src="/czarnewski/logos/logo_ppipa.png" height="50px">
+<img src="/czarnewski/logos/logo_icbim.png" height="50px">
+<img src="/czarnewski/logos/logo_ufu.png" height="50px">
 </div>
 
 </div>
@@ -38,9 +38,9 @@ Federal University of Uberlandia, Uberlandia, Brazil.
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_ppipa.png" height="70px">
-<img src="/czarnewski/logos/logo_icbim.png" height="70px">
-<img src="/czarnewski/logos/logo_ufu.png" height="70px">
+<img src="/czarnewski/logos/logo_ppipa.png" height="50px">
+<img src="/czarnewski/logos/logo_icbim.png" height="50px">
+<img src="/czarnewski/logos/logo_ufu.png" height="50px">
 </div>
 
 </div>
@@ -58,8 +58,8 @@ Federal University of Uberlandia, Uberlandia, Brazil.
 </div>
 
 <div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_inbio.png" height="70px">
-<img src="/czarnewski/logos/logo_ufu.png" height="70px">
+<img src="/czarnewski/logos/logo_inbio.png" height="50px">
+<img src="/czarnewski/logos/logo_ufu.png" height="50px">
 </div>
 
 </div>
