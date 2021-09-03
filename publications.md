@@ -83,6 +83,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 </div>
 
+<br/>
 <hr>
 
 <div style="display: flex;">
@@ -126,6 +127,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 </div>
 
+<br/>
 <hr>
 
 <div style="display: flex;">
@@ -170,7 +172,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 </div>
 </div>
 
-
+<br/>
 <hr>
 
 
