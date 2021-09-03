@@ -34,6 +34,8 @@
 </div>
 </div>
 
+<hr>
+
 <h3>Research Highlights:</h3>
 
 <div style="display: flex;">
@@ -81,7 +83,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 </div>
 
-<br/>
+<hr>
 
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -124,12 +126,9 @@ width: 40px; height: 40px; float: right;">
 </div>
 </div>
 
-<br/>
+<hr>
 
 <div style="display: flex;">
-
-
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 <b>Monocytes in sarcoidosis are potent tumour necrosis factor producers and
@@ -172,7 +171,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 </div>
 
 
-<br/>
+<hr>
 
 
 <div style="display: flex;">
