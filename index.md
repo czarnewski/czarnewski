@@ -7,17 +7,17 @@
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
-<aa>Scientific Coordinator</aa>
+<aa>Scientific Coordinator</aa>  
 Human Developmental Cell Atlas (HDCA)  
 Royal Institute of Technology (KTH), Stockholm, Sweden
 
 </div>
 
 
-<div style="align-items: top; justify-content: center; float: left; width: 250px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_hdca2.png" height="80px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="80px">
-<img src="/czarnewski/logos/logo_kth.png" height="80px">
+<div style="align-items: top; justify-content: center; float: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_hdca2.png" height="70px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
+<img src="/czarnewski/logos/logo_kth.png" height="70px">
 </div>
 
 </div>
@@ -28,15 +28,15 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
-<aa>Senior Bioinformatician</aa>
-National Bioinformatics Infrastructure Sweden (NBIS)
+<aa>Senior Bioinformatician</aa>  
+National Bioinformatics Infrastructure Sweden (NBIS)  
 Stockholm University (SU), Stockholm, Sweden
 </div>
 
-<div style="align-items: top; justify-content: center; float: left; width: 250px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_nbis.png" height="80px">
-<img src="/czarnewski/logos/logo_scilifelab_square.png" height="80px">
-<img src="/czarnewski/logos/logo_su.png" height="80px">
+<div style="align-items: top; justify-content: center; float: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_nbis.png" height="70px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
+<img src="/czarnewski/logos/logo_su.png" height="70px">
 </div>
 
 </div>
