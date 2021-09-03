@@ -48,7 +48,7 @@
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ. Conserved transcriptomic profile between mouse and human colitis allows
 unsupervised patient stratification.  
-*Nat Commun*. 2019 Jun 28;10(1):2892. doi:
+<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. doi:
 10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
 
 
@@ -84,8 +84,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="display: flex; justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 </div>
@@ -134,8 +133,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="display: flex; align-items: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
 </div>
 </div>
@@ -256,9 +254,6 @@ justify-content: center; float: left; width: 100px; min-height: 40px;">
 ## 2021
 
 <div style="display: flex;">
-
-
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Lepzien R, Nie M, <aa>Czarnewski P</aa>, Liu S, Yu M, Ravindran A, Kullberg S, Eklund A, Grunewald J, Smed-Sörensen A. Pulmonary and blood dendritic cells from sarcoidosis patients more potently induce IFNγ-producing Th1 cells compared with monocytes.  
@@ -288,8 +283,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="display: flex; justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/jlb.png" width="90px">
 </div>
 </div>
