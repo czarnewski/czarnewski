@@ -84,7 +84,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; justify-content: center; float: left; width: 100px; min-height: 40px;">
+<div style="display: flex; align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/nat_com.png" width="90px">
 </div>
 </div>
@@ -133,7 +133,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 </div>
-<div style="display: flex; align-items: center; float: left; width: 100px; min-height: 40px;">
+<div style="display: flex; align-items: top; justify-content: center; float: left; width: 100px; min-height: 40px;">
 <img src="/czarnewski/logos/journal_logos/cell_research.png" width="90px">
 </div>
 </div>
@@ -192,12 +192,6 @@ justify-content: center; float: left; width: 100px; min-height: 40px;">
 
 
 <div style="display: flex;">
-
-<div style="display: flex; align-items: center;
-justify-content: center; float: left; width: 100px; min-height: 40px;">
-<img src="/czarnewski/logos/journal_logos/isev.png" width="90px">
-</div>
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Veerman RE, Teeuwen L, <aa>Czarnewski P</aa>, Güclüler Akpinar G, Sandberg A, Cao X,
