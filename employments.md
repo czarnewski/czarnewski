@@ -28,10 +28,9 @@ Royal Institute of Technology (KTH), Stockholm, Sweden
 <img src="/czarnewski/logos/logo_scilifelab_square.png" height="70px">
 <img src="/czarnewski/logos/logo_kth.png" height="70px">
 </div>
+</div>
 
 *Human developmental cell atlas (HDCA) is the Swedish effort within the human cell atlas (HCA), one of the largest international scientific projects. The project aim is to create a comprehensive molecular atlas of human prenatal development at the molecular resolution using state-of-the-art technologies such as single-cell RNA-seq, Spatial Transcriptomics, in situ sequencing in order to provide deeper insight into how variations and deviations contribute to health and disease. My role is to organize and foster connections across collaborators and technologies into joint efforts for the creation and divulgation of the atlas. My final aim is to create a comprehensive molecular atlas of human prenatal development at the molecular resolution using state-of-the-art technologies such as single-cell RNA-seq, Spatial Transcriptomics, in situ sequencing in order to provide deeper insight into how variations and deviations contribute to health and disease.*
-
-</div>
 
 <br/>
 
@@ -55,9 +54,11 @@ Stockholm University, Stockholm, Sweden
 <img src="/czarnewski/logos/logo_su.png" height="70px">
 </div>
 
+</div>
+
+
 *NBIS is the SciLifeLab distributed national bioinformatics infrastructure, supporting life sciences in Sweden and is the Swedish node in ELIXIR - the European infrastructure for biological information. NBIS enables world-class life science by providing expert knowledge, creative data integration, advanced training, access to high-performance data and analysis methods. In this role, I offer bioinformatics guidance and services to researchers across Sweden. My current focus involves multi-omics analysis methods in Single Cell field, such as RNA sequencing, TCR repertoir analysis, in situ sequencing (image analysis) and flow cytometry. I am also engaged in advanced data analysis training in Single Cell at the European level through ELIXIR.*
 
-</div>
 
 <br/>
 
