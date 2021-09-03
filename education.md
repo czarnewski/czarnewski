@@ -2,7 +2,8 @@
 
 ***
 
-<p style="text-align: right"><img border="0" src="logos/logo_ufu.png" width="60px" height="60px"></p>
+<div style="display: flex;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 <aa>PhD</aa>  
 Applied Immunology and Parasitology  
@@ -11,10 +12,21 @@ Title: “Protection mechanisms induced by _Tg_ HSP70 immunization and inflammat
 Institute for Biomedical Sciences  
 Federal University of Uberlandia, Uberlandia, Brazil.
 
+</div>
+
+<div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_ppipa.png" height="70px">
+<img src="/czarnewski/logos/logo_icbim.png" height="70px">
+<img src="/czarnewski/logos/logo_ufu.png" height="70px">
+</div>
+
+</div>
+
 ***
 
-<p style="text-align: right"><img border="0" src="logos/logo_ufu.png" width="60px" height="60px"></p>
 
+<div style="display: flex;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 <aa>Master</aa>  
 Applied Immunology and Parasitology  
@@ -23,16 +35,34 @@ Title: “Role of _Toxoplasma gondii_ HSP70 as a vaccinal antigen and as a diagn
 Institute for Biomedical Sciences  
 Federal University of Uberlandia, Uberlandia, Brazil.
 
+</div>
+
+<div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_ppipa.png" height="70px">
+<img src="/czarnewski/logos/logo_icbim.png" height="70px">
+<img src="/czarnewski/logos/logo_ufu.png" height="70px">
+</div>
+
+</div>
+
 ***
 
-<p style="text-align: right"><img border="0" src="logos/logo_ufu.png" width="60px" height="60px"></p>
-
+<div style="display: flex;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 <aa>Bachelor</aa>
-Biological Sciences  
+Institute for Biological Sciences  
 10/03/2008 – 09/07/2011  
 Federal University of Uberlandia, Uberlandia, Brazil.
 
+</div>
+
+<div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_inbio.png" height="70px">
+<img src="/czarnewski/logos/logo_ufu.png" height="70px">
+</div>
+
+</div>
 
 <br/>
 
