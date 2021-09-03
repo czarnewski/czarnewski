@@ -92,9 +92,6 @@ width: 40px; height: 40px; float: right;">
 <br/>
 
 <div style="display: flex;">
-
-
-
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
 
 Mazzurana L, <aa>Czarnewski P</aa>, Jonsson V, Wigge L, Ringnér M, Williams TC,

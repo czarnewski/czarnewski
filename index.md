@@ -1,14 +1,45 @@
 
 # Paulo Czarnewski
 
-**Scientific Coordinator** for the Human Developmental Cell Atlas (HDCA)  
+
+
+
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
+<aa>Scientific Coordinator</aa> for the Human Developmental Cell Atlas (HDCA)  
 Royal Institute of Technology (KTH), Stockholm, Sweden
+
+</div>
+
+</div>
+<div style="align-items: top; justify-content: center; float: left; width: 200px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_hdca2.png" height="50px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
+<img src="/czarnewski/logos/logo_kth.png" height="50px">
+</div>
+
+</div>
 
 <br/>
 
-**Senior Bioinformatician** – single-cell omics  
-National Bioinformatics Infrastructure Sweden (NBIS), Stockholm, Sweden
 
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
+<aa>Senior Bioinformatician</aa> – single-cell omics  
+National Bioinformatics Infrastructure Sweden (NBIS), Stockholm, Sweden
+</div>
+
+</div>
+<div style="align-items: top; justify-content: center; float: left; width: 200px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_nbis.png" height="50px">
+<img src="/czarnewski/logos/logo_scilifelab_square.png" height="50px">
+<img src="/czarnewski/logos/logo_su.png" height="50px">
+</div>
+
+</div>
+
+
+<br/>
 <br/>
 
 ***
