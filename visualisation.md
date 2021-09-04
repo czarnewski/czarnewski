@@ -4,7 +4,7 @@
 
 <br/>
 
-One of my big interests is data visualisation. Great part of my work as a bioinformatician and as a teacher in advanced courses is about turning data and numbers into graphically meaningful results!
+One of my biggest interests is data visualisation. Great part of my work as a bioinformatician and as a teacher in advanced courses is about turning data and numbers into graphically meaningful results!
 
 <br/>
 

@@ -126,14 +126,14 @@ img.minibutton:hover {
 
 
 .myheader1 {
-  width: 240px;
+  width: 180px;
   padding: 0px;
   float: left;
   height: 800px;
 }
 
 .myheader2{
-  width: 240px;
+  width: 180px;
   padding: 20px 0px;
   text-align: right;
   position: fixed;
@@ -142,7 +142,7 @@ img.minibutton:hover {
 }
 
 .myContent1 {
-  width: calc(100% - 240px);
+  width: calc(100% - 180px);
   padding: 0px;
   float: left;
   height:100%;
