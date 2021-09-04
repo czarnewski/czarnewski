@@ -46,7 +46,7 @@ unsupervised patient stratification.</b> <aa>Czarnewski P</aa>, Parigi SM, Sorin
 EJ. <jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. PMID: 31253778; PMCID: PMC6598981.  
 
 
-<div style="display:flex; width:auto; height: 42px; float: right;">
+<!-- <div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -75,7 +75,7 @@ width: 40px; height: 40px; float: right;">
 <span class="tooltiptext">see PDF</span>
 </div>
 </a>
-</div>
+</div> -->
 
 </div>
 <div style="align-items: top; text-align: right; float: left; width: 100px; min-height: 40px;">
@@ -95,7 +95,7 @@ revealed by full-length single-cell RNA-sequencing.</b> Mazzurana L, <aa>Czarnew
 Ravindran A, Björklund ÅK, Säfholm J, Nilsson G, Dahlén SE, Orre AC, Al-Ameri M,
 Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. <jj>Cell Res</jj>. 2021 May;31(5):554-568. Epub 2021 Jan 8. PMID: 33420427; PMCID: PMC8089104.  
 
-<div style="display:flex; width:auto; height: 42px; text-align: right; float: right;">
+<!-- <div style="display:flex; width:auto; height: 42px; text-align: right; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -119,7 +119,7 @@ width: 40px; height: 40px; float: right;">
 <span class="tooltiptext">see PDF</span>
 </div>
 </a>
-</div>
+</div> -->
 
 </div>
 <div style="align-items: top; text-align: right; float: left; width: 100px; min-height: 40px;">
@@ -139,7 +139,7 @@ Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörense
 A. <jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. PMID: 33446605; PMCID: PMC8295505.
 
 
-<div style="display:flex; width:auto; height: 42px; float: right;">
+<!-- <div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -163,7 +163,7 @@ width: 40px; height: 40px; float: right;">
 <span class="tooltiptext">see PDF</span>
 </div>
 </a>
-</div>
+</div> -->
 
 </div>
 <div style="align-items: top;
@@ -183,7 +183,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 clinical applicability and subcellular origin.</b> Veerman RE, Teeuwen L, <aa>Czarnewski P</aa>, Güclüler Akpinar G, Sandberg A, Cao X,
 Pernemalm M, Orre LM, Gabrielsson S, Eldh M. <jj>J Extracell Vesicles</jj>. 2021 Jul;10(9):e12128. Epub 2021 Jul 22. PMID: 34322205; PMCID: PMC8298890.
 
-<div style="display:flex; width:auto; height: 42px; float: right;">
+<!-- <div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
@@ -205,7 +205,7 @@ width: 40px; height: 40px; float: right;">
 <span class="tooltiptext">see PDF</span>
 </div>
 </a>
-</div>
+</div> -->
 
 </div>
 
