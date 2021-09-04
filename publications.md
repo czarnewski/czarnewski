@@ -84,7 +84,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 <br/>
-<hr>
+<!-- <hr> -->
 
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -128,7 +128,7 @@ width: 40px; height: 40px; float: right;">
 </div>
 
 <br/>
-<hr>
+<!-- <hr> -->
 
 <div style="display: flex;">
 <div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
@@ -173,7 +173,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 </div>
 
 <br/>
-<hr>
+<!-- <hr> -->
 
 
 <div style="display: flex;">
