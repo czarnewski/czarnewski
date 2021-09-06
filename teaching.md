@@ -232,9 +232,25 @@ Role: *Course Leader, Lecturer*
 
 <br/>
 
+
+
+
+<div style="display: flex;">
+
+
+<div style="align-items: top; text-align: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/dim_red1.png.png" height="40px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
 [Dimensionality reduction (DR)](https://nbisweden.github.io/workshop-scRNAseq/lectures/dimensionality_reduction_paulo_czarnewski_2021.pdf)  
 Contents: introduction to DR, types of DR, linear DR using principal component analysis (PCA), introduction to graphs and graph-based DR, t-distributed stochastic Neighbourhood Embedding (tSNE), uniform manifold approximation and projection (UMAP).  
 [YouTube](https://www.youtube.com/watch?v=qcLJ_JO6bn8&list=PLjiXAZO27elC_xnk7gVNM85I2IQl5BEJN&index=7)
+
+</div>
+</div>
+
+
 
 <br/>
 
