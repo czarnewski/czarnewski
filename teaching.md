@@ -236,8 +236,6 @@ Role: *Course Leader, Lecturer*
 
 
 <div style="display: flex;">
-
-
 <div style="align-items: top; text-align: left; width: 300px; min-height: 40px;">
 <img src="/czarnewski/logos/dim_red1.png.png" height="40px">
 </div>
@@ -250,12 +248,20 @@ Contents: introduction to DR, types of DR, linear DR using principal component a
 </div>
 </div>
 
-
-
 <br/>
+
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/integration.png" height="40px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 [Data integration and batch correction](https://nbisweden.github.io/workshop-scRNAseq/lectures/data_integration_paulo_czarnewski_2021.pdf)  
 Contents: introduction to data integration, types of integration, method overview for data integration, linear batch correction, graph-based batch correction, batch correction performance comparison, batch correction performance assessment
+
+</div>
+</div>
+
 
 <br/>
 
@@ -264,9 +270,18 @@ Contents: introduction to GSA, introduction to gene sets and databases, overrepr
 
 <br/>
 
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/ti.png" height="40px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
 [Trajectory inference analysis (TI)](https://nbisweden.github.io/workshop-scRNAseq/lectures/trajectory_inference_analysis_paulo_czarnewski_2021.pdf)  
 Contents: introduction to TI, overview of TI methods, independent component analysis (ICA), diffusion maps (DM), minimum spanning tree (MST), principal trees and graph abstraction, RNA velocity, differential gene expression for TI.  
 [YouTube](https://www.youtube.com/watch?v=XmHDexCtjyw&list=PLjiXAZO27elC_xnk7gVNM85I2IQl5BEJN&index=11)
+
+</div>
+</div>
 
 <br/>
 
@@ -281,13 +296,31 @@ Contents: introduction to DR, types of DR, linear DR using principal component a
 
 <br/>
 
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/clustering.png" height="40px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
 [Clustering Analysis](https://nbisweden.github.io/workshop-RNAseq/2011/slide_clustering.pdf)  
 Contents: introduction to clustering, distance measurements, K-means clustering, introduction to hierarchical clustering, clustering linkage measures, clustering robusteness.
 
+</div>
+</div>
+
 <br/>
+
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/dge.png" height="40px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
 
 [Advanced differential gene expression (DGE, part 2)](https://nbisweden.github.io/workshop-RNAseq/2011/slide_dge_advanced.pdf)  
 Contents: Introduction to general linear models (GLM), Poisson vs negative binomial distribution, how to use GLMs in complex interaction between experimental covariates and gene expression (categorial variables, continuous variables, variable intercepts and interaction terms)
+
+</div>
+</div>
 
 <br/>
 
