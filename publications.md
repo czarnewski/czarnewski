@@ -273,7 +273,7 @@ Pernemalm M, Orre LM, Gabrielsson S, Eldh M. Molecular evaluation of five
 different isolation methods for extracellular vesicles reveals different
 clinical applicability and subcellular origin.  
 <jj>J Extracell Vesicles</jj>. 2021
-Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
+Jul;10(9):e12128. PMID: 34322205;
 PMCID: PMC8298890.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -319,8 +319,7 @@ Lepzien R, Liu S, <aa>Czarnewski P</aa>, Nie M, Österberg B, Baharom F, Pouraza
 Rankin G, Eklund A, Bottai M, Kullberg S, Blomberg A, Grunewald J, Smed-Sörensen
 A. Monocytes in sarcoidosis are potent tumour necrosis factor producers and
 predict disease outcome.  
-<jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. doi:
-10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
+<jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. PMID: 33446605; PMCID: PMC8295505.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
 
@@ -367,7 +366,7 @@ Emmanouilidi A, <aa>Czarnewski P</aa>, Yewdell WT, Schön K, Lebrero-Fernández 
 Bernasconi V, Rodin W, Harandi AM, Lycke N, Borcherding N, Yewdell JW, Greiff V,
 Bemark M, Angeletti D. Single-cell BCR and transcriptome analysis after
 influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.  
-<jj>Cell Rep</jj>. 2021 Jun 22;35(12):109286. doi: 10.1016/j.celrep.2021.109286. PMID:
+<jj>Cell Rep</jj>. 2021 Jun 22;35(12):109286. PMID:
 34161770.
 
 
@@ -412,7 +411,7 @@ Höög C, Hedin C, Szczegielniak S, Almer S, Mjösberg J. Tissue-specific
 transcriptional imprinting and heterogeneity in human innate lymphoid cells
 revealed by full-length single-cell RNA-sequencing.  
 <jj>Cell Res</jj>. 2021
-May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
+May;31(5):554-568. Epub 2021 Jan 8. PMID:
 33420427; PMCID: PMC8089104.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -462,8 +461,7 @@ Stakenborg M, Verstockt B, Meroni E, Goverse G, De Simone V, Verstockt S, Di
 Matteo M, <aa>Czarnewski P</aa>, Villablanca EJ, Ferrante M, Boeckxstaens GE, Mazzone M,
 Vermeire S, Matteoli G. Neutrophilic HGF-MET signaling exacerbates intestinal
 inflammation.  
-<jj>J Crohns Colitis</jj>. 2020 Jun 17:jjaa121. doi: 10.1093/ecco-
-jcc/jjaa121. Epub ahead of print. PMID: 32556102.
+<jj>J Crohns Colitis</jj>. 2020 Jun 17:jjaa121. PMID: 32556102.
 
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -508,8 +506,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 <aa>Czarnewski P</aa>, Parigi SM, Sorini C, Diaz OE, Das S, Gagliani N, Villablanca
 EJ. Conserved transcriptomic profile between mouse and human colitis allows
 unsupervised patient stratification.  
-<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. doi:
-10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
+<jj>Nat Commun</jj>. 2019 Jun 28;10(1):2892. PMID: 31253778; PMCID: PMC6598981.
 
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -560,8 +557,7 @@ Seitz C, Liu S, Klocke K, Joly AL, <aa>Czarnewski P</aa>V, Tibbitt CA, Parigi SM
 Westerberg LS, Coquet JM, Villablanca EJ, Wing K, Andersson J. Multi-faceted
 inhibition of dendritic cell function by CD4<sup>+</sup>Foxp3<sup>+</sup>
 regulatory T cells.  
-<jj>J Autoimmun</jj>. 2019 Mar;98:86-94. doi:
-10.1016/j.jaut.2018.12.002. Epub 2019 Jan 5. PMID: 30616979.
+<jj>J Autoimmun</jj>. 2019 Mar;98:86-94. PMID: 30616979.
 
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -608,7 +604,7 @@ J, Fujio K, Jacobs T, Roesch T, Izbicki JR, Lohse AW, Flavell RA, Krebs C,
 Gustafsson JA, Antonson P, Roncarolo MG, Villablanca EJ, Gagliani N, Huber S.
 Molecular and functional heterogeneity of IL-10-producing CD4<sup>+</sup> T
 cells.  
-<jj>Nat Commun</jj>. 2018 Dec 21;9(1):5457. doi: 10.1038/s41467-018-07581-4. PMID:
+<jj>Nat Commun</jj>. 2018 Dec 21;9(1):5457. PMID:
 30575716; PMCID: PMC6303294.
 
 
@@ -657,7 +653,7 @@ Engstrand L, Villablanca EJ, Obermayer-Pietsch B, Stener-Victorin E.
 Reproductive and Behavior Dysfunction Induced by Maternal Androgen Exposure and
 Obesity Is Likely Not Gut Microbiome-Mediated.  
 <jj>J Endocr Soc</jj>. 2018 Oct
-15;2(12):1363-1380. doi: 10.1210/js.2018-00266. PMID: 30534630; PMCID:
+15;2(12):1363-1380. PMID: 30534630; PMCID:
 PMC6280317.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -706,7 +702,7 @@ EJ, Veiga-Fernandes H, Pereira JP, Flavell RA, Willinger T. Oxysterol Sensing
 through the Receptor GPR183 Promotes the Lymphoid-Tissue-Inducing Function of
 Innate Lymphoid Cells and Colonic Inflammation.  
 <jj>Immunity</jj>. 2018 Jan
-16;48(1):120-132.e8. doi: 10.1016/j.immuni.2017.11.020. PMID: 29343433; PMCID:
+16;48(1):120-132.e8. PMID: 29343433; PMCID:
 PMC5772175.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -747,7 +743,7 @@ Parigi SM, <aa>Czarnewski P</aa>, Das S, Steeg C, Brockmann L, Fernandez-Gaitero
 Yman V, Forkel M, Höög C, Mjösberg J, Westerberg L, Färnert A, Huber S, Jacobs
 T, Villablanca EJ. Flt3 ligand expands bona fide innate lymphoid cell precursors
 in vivo.  
-<jj>Sci Rep</jj>. 2018 Jan 9;8(1):154. doi: 10.1038/s41598-017-18283-0. PMID:
+<jj>Sci Rep</jj>. 2018 Jan 9;8(1):154. PMID:
 29317685; PMCID: PMC5760642.
 <br/>
 
@@ -792,7 +788,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 Konya V, <aa>Czarnewski P</aa>, Forkel M, Rao A, Kokkinou E, Villablanca EJ, Almer S,
 Lindforss U, Friberg D, Höög C, Bergman P, Mjösberg J. Vitamin D downregulates
 the IL-23 receptor pathway in human mucosal group 3 innate lymphoid cells.  
-<jj>J Allergy Clin Immunol</jj>. 2018 Jan;141(1):279-292. doi: 10.1016/j.jaci.2017.01.045.
+<jj>J Allergy Clin Immunol</jj>. 2018 Jan;141(1):279-292.
 Epub 2017 Apr 20. PMID: 28433688.
 
 
@@ -835,7 +831,7 @@ Larssen P, Wik L, <aa>Czarnewski P</aa>, Eldh M, Löf L, Ronquist KG, Dubois L,
 Freyhult E, Gallant CJ, Oelrich J, Larsson A, Ronquist G, Villablanca EJ,
 Landegren U, Gabrielsson S, Kamali-Moghaddam M. Tracing Cellular Origin of Human
 Exosomes Using Multiplex Proximity Extension Assays.  
-<jj>Mol Cell Proteomics</jj>. 2017 Mar;16(3):502-511. doi: 10.1074/mcp.M116.064725. Epub 2017 Jan 22.
+<jj>Mol Cell Proteomics</jj>. 2017 Mar;16(3):502-511. Epub 2017 Jan 22.
 
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -880,8 +876,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 
 <aa>Czarnewski P</aa>, Das S, Parigi SM, Villablanca EJ. Retinoic Acid and Its Role
 in Modulating Intestinal Innate Immunity.  
-<jj>Nutrients</jj>. 2017 Jan 13;9(1):68. doi:
-10.3390/nu9010068. PMID: 28098786; PMCID: PMC5295112.
+<jj>Nutrients</jj>. 2017 Jan 13;9(1):68. PMID: 28098786; PMCID: PMC5295112.
 
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -922,7 +917,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 <aa>Czarnewski P</aa>, Araújo ECB, Oliveira MC, Mineo TWP, Silva NM. Recombinant
 <i>Tg</i>HSP70 Immunization Protects against <i>Toxoplasma gondii</i> Brain Cyst
 Formation by Enhancing Inducible Nitric Oxide Expression.  
-<jj>Front Cell Infect Microbiol</jj>. 2017 Apr 25;7:142. doi: 10.3389/fcimb.2017.00142. PMID: 28487847;
+<jj>Front Cell Infect Microbiol</jj>. 2017 Apr 25;7:142. PMID: 28487847;
 PMCID: PMC5403831.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -971,7 +966,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 Briceño MP, Nascimento LA, Nogueira NP, <aa>Barenco PV</aa>, Ferro EA, Rezende-
 Oliveira K, Goulart LR, Alves PT, Barbosa Bde F, Lima WR, Silva NM. Toxoplasma
 gondii Infection Promotes Epithelial Barrier Dysfunction of Caco-2 Cells.  
-<jj>J Histochem Cytochem</jj>. 2016 Aug;64(8):459-69. doi: 10.1369/0022155416656349. Epub
+<jj>J Histochem Cytochem</jj>. 2016 Aug;64(8):459-69. Epub
 2016 Jul 1. PMID: 27370796; PMCID: PMC4971781.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
@@ -1021,7 +1016,7 @@ Silva DA, Araújo EC, Coutinho LB, Oliveira MC, Mineo TW, Mineo JR, Silva NM.
 Toxoplasma gondii 70 kDa heat shock protein: systemic detection is associated
 with the death of the parasites by the immune response and its increased
 expression in the brain is associated with parasite replication.  
-<jj>PLoS One</jj>. 2014 May 6;9(5):e96527. doi: 10.1371/journal.pone.0096527. PMID: 24801069; PMCID:
+<jj>PLoS One</jj>. 2014 May 6;9(5):e96527. PMID: 24801069; PMCID:
 PMC4011789.
 
 
@@ -1072,7 +1067,7 @@ Araujo EC, Barbosa BF, Coutinho LB, <aa>Barenco PV</aa>, Sousa LA, Milanezi CM, 
 G, Pavanelli WR, Silva JS, Ferro EA, Silva DA, Cunha-Junior JP, Silva NM. Heme
 oxygenase-1 activity is involved in the control of Toxoplasma gondii infection
 in the lung of BALB/c and C57BL/6 and in the small intestine of C57BL/6 mice.  
-<jj>Vet Res</jj>. 2013 Oct 2;44(1):89. doi: 10.1186/1297-9716-44-89. PMID: 24088531;
+<jj>Vet Res</jj>. 2013 Oct 2;44(1):89. PMID: 24088531;
 PMCID: PMC3851451.
 
 
@@ -1114,8 +1109,7 @@ Benevides L, Cardoso CR, Milanezi CM, Castro-Filice LS, <aa>Barenco PV</aa>, Sou
 Rodrigues RM, Mineo JR, Silva JS, Silva NM. Toxoplasma gondii soluble tachyzoite
 antigen triggers protective mechanisms against fatal intestinal pathology in
 oral infection of C57BL/6 mice.   
-<jj>PLoS One</jj>. 2013 Sep 24;8(9):e75138. doi:
-10.1371/journal.pone.0075138. PMID: 24086456; PMCID: PMC3782460.
+<jj>PLoS One</jj>. 2013 Sep 24;8(9):e75138. PMID: 24086456; PMCID: PMC3782460.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
 
@@ -1161,8 +1155,7 @@ DA, Cunha-Júnior JP, Ferro EA, Silva NM. The impaired pregnancy outcome in
 murine congenital toxoplasmosis is associated with a pro-inflammatory immune
 response, but not correlated with decidual inducible nitric oxide synthase
 expression.  
-<jj>Int J Parasitol</jj>. 2012 Apr;42(4):341-52. doi:
-10.1016/j.ijpara.2012.01.006. Epub 2012 Feb 17. PMID: 22366549.
+<jj>Int J Parasitol</jj>. 2012 Apr;42(4):341-52. PMID: 22366549.
 
 <div style="display:flex; width:auto; height: 42px; float: right;">
 
