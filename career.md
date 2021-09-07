@@ -41,7 +41,7 @@ For the next 3.5 years at the Department of Medicine, I had the opportunity to w
 
 </div>
 <div style="align-items: top; text-align: right; float: left; width: 60px; min-height: 40px;">
-<img src="/czarnewski/logos/logo_ki.png" width="50px">
+<img src="/czarnewski/logos/logo_ki.jpg" width="50px">
 <img src="/czarnewski/logos/logo_uke.png" width="50px">
 </div>
 </div>
