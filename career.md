@@ -9,6 +9,8 @@
 
 <div id="Overview" class="tabcontent active" style="display: block;">
 
+Graphical overview of my career at various stages.
+
 <img border="0" src="/czarnewski/logos/career_chart.png" style="vertical-align:middle;">
 
 <br/>
