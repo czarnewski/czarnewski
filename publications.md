@@ -234,7 +234,7 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 Lepzien R, Nie M, <aa>Czarnewski P</aa>, Liu S, Yu M, Ravindran A, Kullberg S, Eklund A, Grunewald J, Smed-Sörensen A. Pulmonary and blood dendritic cells from sarcoidosis patients more potently induce IFNγ-producing Th1 cells compared with monocytes.  
 <jj>J Leukoc Biol.</jj> 2021; 1- 10.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 <div class="tooltip" style="border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -276,7 +276,7 @@ clinical applicability and subcellular origin.
 Jul;10(9):e12128. doi: 10.1002/jev2.12128. Epub 2021 Jul 22. PMID: 34322205;
 PMCID: PMC8298890.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
 <div class="myRole">My role:</div>
 
 <div class="tooltip" style=" border-radius: 10px; background: orange;   margin: 1px;
@@ -322,7 +322,8 @@ predict disease outcome.
 <jj>Eur Respir J</jj>. 2021 Jul 22;58(1):2003468. doi:
 10.1183/13993003.03468-2020. PMID: 33446605; PMCID: PMC8295505.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -370,7 +371,8 @@ influenza infection reveals spatiotemporal dynamics of antigen-specific B cells.
 34161770.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -413,7 +415,8 @@ revealed by full-length single-cell RNA-sequencing.
 May;31(5):554-568. doi: 10.1038/s41422-020-00445-x. Epub 2021 Jan 8. PMID:
 33420427; PMCID: PMC8089104.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -463,7 +466,8 @@ inflammation.
 jcc/jjaa121. Epub ahead of print. PMID: 32556102.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -508,7 +512,8 @@ unsupervised patient stratification.
 10.1038/s41467-019-10769-x. PMID: 31253778; PMCID: PMC6598981.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -559,7 +564,8 @@ regulatory T cells.
 10.1016/j.jaut.2018.12.002. Epub 2019 Jan 5. PMID: 30616979.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -606,7 +612,8 @@ cells.
 30575716; PMCID: PMC6303294.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -653,7 +660,8 @@ Obesity Is Likely Not Gut Microbiome-Mediated.
 15;2(12):1363-1380. doi: 10.1210/js.2018-00266. PMID: 30534630; PMCID:
 PMC6280317.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -701,7 +709,8 @@ Innate Lymphoid Cells and Colonic Inflammation.
 16;48(1):120-132.e8. doi: 10.1016/j.immuni.2017.11.020. PMID: 29343433; PMCID:
 PMC5772175.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -742,7 +751,8 @@ in vivo.
 29317685; PMCID: PMC5760642.
 <br/>
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -786,7 +796,8 @@ the IL-23 receptor pathway in human mucosal group 3 innate lymphoid cells.
 Epub 2017 Apr 20. PMID: 28433688.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: green;   margin: 1px;
 width: 40px; height: 40px;">
@@ -827,7 +838,8 @@ Exosomes Using Multiplex Proximity Extension Assays.
 <jj>Mol Cell Proteomics</jj>. 2017 Mar;16(3):502-511. doi: 10.1074/mcp.M116.064725. Epub 2017 Jan 22.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
@@ -872,7 +884,8 @@ in Modulating Intestinal Innate Immunity.
 10.3390/nu9010068. PMID: 28098786; PMCID: PMC5295112.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
@@ -912,7 +925,8 @@ Formation by Enhancing Inducible Nitric Oxide Expression.
 <jj>Front Cell Infect Microbiol</jj>. 2017 Apr 25;7:142. doi: 10.3389/fcimb.2017.00142. PMID: 28487847;
 PMCID: PMC5403831.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
@@ -960,7 +974,8 @@ gondii Infection Promotes Epithelial Barrier Dysfunction of Caco-2 Cells.
 <jj>J Histochem Cytochem</jj>. 2016 Aug;64(8):459-69. doi: 10.1369/0022155416656349. Epub
 2016 Jul 1. PMID: 27370796; PMCID: PMC4971781.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -1010,7 +1025,8 @@ expression in the brain is associated with parasite replication.
 PMC4011789.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: magenta;   margin: 1px;
 width: 40px; height: 40px;">
@@ -1060,7 +1076,8 @@ in the lung of BALB/c and C57BL/6 and in the small intestine of C57BL/6 mice.
 PMCID: PMC3851451.
 
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -1100,7 +1117,8 @@ oral infection of C57BL/6 mice.
 <jj>PLoS One</jj>. 2013 Sep 24;8(9):e75138. doi:
 10.1371/journal.pone.0075138. PMID: 24086456; PMCID: PMC3782460.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
@@ -1146,7 +1164,8 @@ expression.
 <jj>Int J Parasitol</jj>. 2012 Apr;42(4):341-52. doi:
 10.1016/j.ijpara.2012.01.006. Epub 2012 Feb 17. PMID: 22366549.
 
-<div style="display:flex; width:auto; height: 42px;">
+<div style="display:flex; width:auto; height: 42px; float: right;">
+
 <div class="myRole">My role:</div>
 <div class="tooltip" style=" border-radius: 10px; background: blue;   margin: 1px;
 width: 40px; height: 40px;">
