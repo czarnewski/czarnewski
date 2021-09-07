@@ -228,7 +228,7 @@ Role: *Course Leader, Lecturer*
 
 <div id="Lectures" class="tabcontent" style="display: none;">
 
-**Course: Single-cell RNA-seq data analysis (NBIS)**
+<h3>Course: Single-cell RNA-seq data analysis (NBIS)</h3>
 
 <br/>
 
@@ -287,7 +287,7 @@ Contents: introduction to TI, overview of TI methods, independent component anal
 
 ***
 
-**Course: Bulk RNA-seq data analysis (NBIS)**
+<>h3Course: Bulk RNA-seq data analysis (NBIS)</h3>
 
 <br/>
 
@@ -346,7 +346,7 @@ Contents: Step-by-step reading of an article containing all the topics learned d
 
 ***
 
-**Course: SIB RNA summer school (PBL)**
+<h3>Course: SIB RNA summer school (PBL)</h3>
 
 <br/>
 
@@ -355,7 +355,7 @@ Contents: introduction to single cell data analysis, introduction to project-bas
 
 <br/>
 
-**Course: NBIS-SIB Advanced topics in Single Cell Omics summer school (PBL)**
+<h3>Course: NBIS-SIB Advanced topics in Single Cell Omics summer school (PBL)</h3>
 
 [Introduction to advanced topics in Single cell omics (PBL)](https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf)  
 Contents: introduction to single cell data analysis, introduction to project-based learning (PBL), single cell analysis workflow, RNA velocity, multi-omics integration, deep learning spatial transcriptomics.
