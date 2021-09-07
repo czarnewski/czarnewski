@@ -1,7 +1,9 @@
-## Scientific coordinator
+#### Scientific coordinator
 Human Developmental Cell Atlas (HDCA, SciLifeLab, KTH)
 
-## Senior bioinformatician**
+#### Senior bioinformatician
 National Bioinformatics Infrastructure Sweden (NBIS, SciLifeLab, SU)
 
-[Website](https://czarnewski.github.io/czarnewski)
+***
+
+#### [Go to my personal website](https://czarnewski.github.io/czarnewski).
