@@ -265,8 +265,19 @@ Contents: introduction to data integration, types of integration, method overvie
 
 <br/>
 
+
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 60px; min-height: 50px;">
+<img src="/czarnewski/logos/function.png" height="50px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 60px); min-height: 40px;">
+
 [Gene Set Analysis (GSA)](https://nbisweden.github.io/workshop-scRNAseq/lectures/gene_set_analysis_paulo_czarnewski_2021.pdf)  
 Contents: introduction to GSA, introduction to gene sets and databases, overrepresentation analysis, gene set enrichment analysis, technical consideration for GSA.
+
+</div>
+</div>
+
 
 <br/>
 
@@ -334,13 +345,33 @@ Contents: Introduction to general linear models (GLM), Poisson vs negative binom
 
 <br/>
 
-[Online Repositories](https://nbisweden.github.io/workshop-RNAseq/2011/slide_repositories.pdf)  
+
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 60px; min-height: 50px;">
+<img src="/czarnewski/logos/repositories.png" height="50px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 60px); min-height: 40px;">
+
+[Online Sequencing Repositories](https://nbisweden.github.io/workshop-RNAseq/2011/slide_repositories.pdf)  
 Contents: Introduction to online repositories, ENSEMBL, GEO, SRA, ENA, EGA, referencing public datasets, depositing sequencing data into public repositories.
+
+</div>
+</div>
 
 <br/>
 
+
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 60px; min-height: 50px;">
+<img src="/czarnewski/logos/writing.png" height="50px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 60px); min-height: 40px;">
+
 [Reading Bioinformatics](https://nbisweden.github.io/workshop-RNAseq/2011/slide_reading_bioinformatics.pdf)  
 Contents: Step-by-step reading of an article containing all the topics learned during the course in RNA-seq data analysis (PCA, DGE, GSA, clustering, visualization, data deposition, etc).
+
+</div>
+</div>
 
 <br/>
 
@@ -350,15 +381,35 @@ Contents: Step-by-step reading of an article containing all the topics learned d
 
 <br/>
 
+
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 60px; min-height: 50px;">
+<img src="/czarnewski/logos/deep_learning.png" height="50px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 60px); min-height: 40px;">
+
 [Introduction to Single cell data analysis ](https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf)  
 Contents: introduction to single cell data analysis, introduction to project-based learning (PBL), single cell analysis workflow, single cell sequencing technologies, pre-processing, quality control, dimensionality reduction, data integration, graph construction, clustering, differential expression, trajectory inference.
+
+</div>
+</div>
 
 <br/>
 
 <h3>Course: NBIS-SIB Advanced topics in Single Cell Omics summer school (PBL)</h3>
 
+
+<div style="display: flex;">
+<div style="align-items: top; text-align: left; width: 60px; min-height: 50px;">
+<img src="/czarnewski/logos/deep_learning.png" height="50px">
+</div>
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 60px); min-height: 40px;">
+
 [Introduction to advanced topics in Single cell omics (PBL)](https://sib-swiss.github.io/SchoolRNA2020/single_cell/single_cell.pdf)  
 Contents: introduction to single cell data analysis, introduction to project-based learning (PBL), single cell analysis workflow, RNA velocity, multi-omics integration, deep learning spatial transcriptomics.
+
+</div>
+</div>
 
 </div>
 
