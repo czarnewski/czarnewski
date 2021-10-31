@@ -24,6 +24,7 @@
 
 <div style="display: block; float: left;  text-align: left; width: 50%; min-height: 40px;">
 <h3>Citations per year:</h3>
+<div id="citations">
 
 - 2021: +140 citations
 - 2020: +110 citations
@@ -31,6 +32,7 @@
 - 2018: +68  citations
 - 2017: +26 citations
 
+</div>
 </div>
 </div>
 
