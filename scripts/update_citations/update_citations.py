@@ -7,7 +7,7 @@ soup = BeautifulSoup(open("../../publications.md", encoding="utf8"), "html.parse
 
 #lines = open('citations.csv').read()
 lines = open('citations.csv').readlines()[0:5]
-lines = (s + "- " for s in mylist)
+lines = (s + "- " for s in lines)
 lines = ''.join(lines)
 lines
 
