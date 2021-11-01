@@ -15,4 +15,6 @@ for sup in soup.find_all('div', id="citations"):
     sup.unwrap()
     
 with open("../../publications.md", "w") as file:
-file.write(str(soup))
+    file.write(str(soup))
+
+#END
