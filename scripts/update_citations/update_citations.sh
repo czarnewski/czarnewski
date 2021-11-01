@@ -13,7 +13,7 @@ python3 ~/repos/webscraping/code/google_scholar/google_scholar.py
 python3 update_citations.py
 
 git add .
-git commit -m "$(echo 'updates citations ('`date`')')"
+git commit -m "$(echo 'updates citations ('`date +"%m-%d-%y-%T"`')')"
 git push
 
 
