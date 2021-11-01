@@ -6,8 +6,8 @@ import pandas as pd
 soup = BeautifulSoup(open("../../publications.md", encoding="utf8"), "html.parser")
 
 #lines = open('citations.csv').read()
-lines = open('citations.csv').readlines()[0:5]
-lines = ("- "+s+" citations" for s in lines)
+lines = open('citations.csv').read().splitlines()[0:5]
+lines = ("- "+s+" citations\n" for s in lines)
 lines = "\n\n"+''.join(lines)+"\n\n"
 lines
 
