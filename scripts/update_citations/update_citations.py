@@ -7,13 +7,12 @@ soup = BeautifulSoup(open("../../publications.md", encoding="utf8"), "html.parse
 
 #lines = open('citations.csv').read()
 lines = open('citations.csv').readlines()[0:5]
-lines = (s + "- " for s in lines)
-lines = ''.join(lines)
+lines = ("- "+s+" citations" for s in lines)
+lines = "\n\n"+''.join(lines)+"\n\n"
 lines
 
-for sup in soup.find_all('div', id="citations"):
-    sup.string = lines
-    sup.unwrap()
+result = soup.find(id="citations")
+result.string.replace_with(lines)
     
 with open("../../publications.md", "w") as file:
     file.write(str(soup))
