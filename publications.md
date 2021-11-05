@@ -23,8 +23,8 @@
 <h3>Citations per year:</h3>
 <div id="citations">
 
-- 2021 : 178 citations
-- 2020 : 112 citations
+- 2021 : 179 citations
+- 2020 : 111 citations
 - 2019 : 106 citations
 - 2018 : 68 citations
 - 2017 : 26 citations
