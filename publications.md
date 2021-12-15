@@ -15,9 +15,9 @@
 <div style="display: block; float: left;  text-align: left; width: 50%; min-height: 40px;">
 <h3>Publication metrics:</h3>
 
-- h-index: 12
+- h-index: 14
 - i10-index: 14
-- citations: 480
+- citations: 553
 - impact factor average: 11 ± 8
 
 </div>
@@ -25,9 +25,9 @@
 <div style="display: block; float: left;  text-align: left; width: 50%; min-height: 40px;">
 <h3>Citations per year:</h3>
 
-- 2021: +140 citations
+- 2021: +211 citations
 - 2020: +110 citations
-- 2019: +103 citations
+- 2019: +106 citations
 - 2018: +68  citations
 - 2017: +26 citations
 
