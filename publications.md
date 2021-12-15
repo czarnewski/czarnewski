@@ -23,19 +23,11 @@
 <h3>Citations per year:</h3>
 <div id="citations">
 
-<<<<<<< HEAD
 - 2021: +211 citations
 - 2020: +110 citations
 - 2019: +106 citations
 - 2018: +68  citations
 - 2017: +26 citations
-=======
-- 2021 : 179 citations
-- 2020 : 111 citations
-- 2019 : 106 citations
-- 2018 : 68 citations
-- 2017 : 26 citations
->>>>>>> bc2fb1b178b5f554b5abeb5cc40939c020a65ffb
 
 </div>
 </div>
