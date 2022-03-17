@@ -1,16 +1,14 @@
 title: Paulo Czarnewski
-description: KTH | SU
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-relative-links
-markdown: CommonMarkGhPages
+baseurl: /czarnewski
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - index.md
-  
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
+
+markdown: CommonMark
+commonmark:
+  options: ["SMART", "FOOTNOTES", "UNSAFE"]
+  extensions: ["strikethrough", "autolink", "table"]
