@@ -13,9 +13,9 @@
 <div style="display: block; float: left;  text-align: left; width: 50%; min-height: 40px;">
 <h3>Publication metrics:</h3>
 
-- h-index: 14
+- h-index: 16
 - i10-index: 14
-- citations: 553
+- citations: 644
 - impact factor average: 11 ± 8
 
 </div>
@@ -23,11 +23,11 @@
 <h3>Citations per year:</h3>
 <div id="citations">
 
-- 2021: +211 citations
-- 2020: +110 citations
+- 2022: +63 citations
+- 2021: +232 citations
+- 2020: +116 citations
 - 2019: +106 citations
 - 2018: +68  citations
-- 2017: +26 citations
 
 </div>
 </div>
@@ -197,6 +197,41 @@ text-align: right; float: left; width: 100px; min-height: 40px;">
 <br/>
 </div>
 <div class="tabcontent active" id="By year" style="display: none;">
+
+## 2022
+
+<div style="display: flex;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 100px); min-height: 40px;">
+
+Omokanye A, Ong LC, Lebrero-Fernandez C, Bernasconi V, Schön K, Strömberg A, Bemark M, Saelens X, Czarnewski P, Lycke N. Clonotypic analysis of protective influenza M2e-specific lung resident Th17 memory cells reveals extensive functional diversity.  
+<jj>Mucosal Immunol.</jj> 2022; 1-13.
+
+<div style="display:flex; width:auto; height: 42px; float: right;">
+<div class="myRole">My role:</div>
+<div class="tooltip" style="border-radius: 10px; background: green;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/data_analysis.png"/>
+<span class="tooltiptext">bioinformatics analysis</span>
+</div>
+<div class="tooltip" style="border-radius: 10px; background: red;   margin: 1px;
+width: 40px; height: 40px;">
+<img class="zoom minibutton" src="/czarnewski/logos/writing.png"/>
+<span class="tooltiptext">writing</span>
+</div>
+<a href="https://jlb.onlinelibrary.wiley.com/doi/epdf/10.1002/JLB.5A0321-162R" target="_blank">
+<div class="tooltip" style="border-radius: 10px; background: grey;   margin: 1px;
+width: 40px; height: 40px; float: right;">
+<img class="zoom minibutton" src="/czarnewski/logos/pdf.png"/>
+<span class="tooltiptext">see PDF</span>
+</div>
+</a>
+</div>
+</div>
+<div style="justify-content: top; float: left; width: 100px; min-height: 40px;">
+<img src="/czarnewski/logos/journal_logos/jlb.png" width="90px"/>
+</div>
+</div>
+<br/>
 
 ## 2021
 
