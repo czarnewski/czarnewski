@@ -20,18 +20,18 @@ Over the last 3 years, I have been involved in designing and creating material f
 **Teaching summary:**
 
 - Course level: Postdocs and PhD students
-- Total number of students taught: 217
-- Average students per course: 25
-- Number of course website created/designed: 4
-- Number of unique lectures ministered: 11
-- Number of coding exercises contributed: 52
+- **276** students taught
+- **25-30** students per course on average
+- **4** course website created/designed
+- **11** unique lectures ministered
+- **52** coding exercises contributed
 
 <br/>
 
 **Feedback from students:**
 
-- Average course quality: 96% (score 4.8 out of 5.0)
-- Average lecture quality: 98% (score 4.9 out of 5.0)
+- **96%** Average course quality (score 4.8 out of 5.0)
+- **98%** Average lecture quality (score 4.9 out of 5.0)
 
 <br/>
 
@@ -46,6 +46,43 @@ Over the last 3 years, I have been involved in designing and creating material f
 </div>
 
 <div id="Courses" class="tabcontent" style="display: none;">
+
+### 2022
+
+
+<div style="display: flex;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
+**[Spatial Omics Data analysis]( )**  
+Online, 32 students, 5 days, 40h  
+NBIS, Stockholm, Sweden   
+Role: *Course Leader, Lecturer*
+
+</div>
+
+<div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
+</div>
+</div>
+
+<br/>
+
+<div style="display: flex;">
+<div style="display: block; float: left;  text-align: middle; width: calc(100% - 300px); min-height: 40px;">
+
+**[Single-cell RNA-seq data analysis](https://uppsala.instructure.com/courses/52011)**  
+Online, 25 students, 5 days, 40h  
+NBIS, Stockholm, Sweden   
+Role: *Course Leader, Lecturer*
+
+</div>
+
+<div style="align-items: top; text-align: right; right: left; width: 300px; min-height: 40px;">
+<img src="/czarnewski/logos/logo_nbis.png" height="40px">
+</div>
+</div>
+
+<br/>
 
 ### 2021
 
