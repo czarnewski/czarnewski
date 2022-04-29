@@ -111,11 +111,11 @@ img.minibutton:hover {
 }
 
 .myHighlight:hover {
-  background-color: #F2F2F2;
+  background-color: white;
 }
 
 .active {
-  background-color: White;
+  background-color: #F2F2F2;
   color: Black;
 }
 
@@ -150,8 +150,8 @@ img.minibutton:hover {
 
 .myContent2 {
   width: calc(100% - 40px);
-  padding: 40px 20px;
-  background-color: white;
+  padding: 40px 10px;
+  background-color: #F2F2F2;
   min-height:800px;
 }
 
@@ -243,28 +243,30 @@ img.minibutton:hover {
   padding: 15px 10px;
   transition: 0.3s;
   font-size: 17px;
-  border: 1px solid white;
+  border: 2px solid #F2F2F2;
   margin: 0px;
 }
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ccc;
+  background-color: white;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
   background-color: white;
-  border: 1px solid #ccc;
+  border: 2px solid white;
 }
 
 /* Style the tab content */
 .tabcontent {
+  background-color: white;
   display: none;
-  padding: 15px 10px;
-  border: 1px solid #ccc;
+  padding: 10px;
+/*   border: 1px solid #E5E5E5; */
   /* border-top: none; */
 }
+
 
 
 aa {
